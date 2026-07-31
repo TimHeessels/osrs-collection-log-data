@@ -1,0 +1,12216 @@
+{
+	"1249": {
+		"name": "Dragon spear",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 48.5
+	},
+	"2366": {
+		"name": "Shield left half",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 53.6
+	},
+	"2577": {
+		"name": "Ranger boots",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 11.9
+	},
+	"2579": {
+		"name": "Wizard boots",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2581": {
+		"name": "Robin hood hat",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"2583": {
+		"name": "Black platebody (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"2585": {
+		"name": "Black platelegs (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2587": {
+		"name": "Black full helm (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2589": {
+		"name": "Black kiteshield (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2591": {
+		"name": "Black platebody (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2593": {
+		"name": "Black platelegs (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2595": {
+		"name": "Black full helm (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2597": {
+		"name": "Black kiteshield (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2599": {
+		"name": "Adamant platebody (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2601": {
+		"name": "Adamant platelegs (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"2603": {
+		"name": "Adamant kiteshield (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2605": {
+		"name": "Adamant full helm (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2607": {
+		"name": "Adamant platebody (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"2609": {
+		"name": "Adamant platelegs (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2611": {
+		"name": "Adamant kiteshield (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2613": {
+		"name": "Adamant full helm (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"2615": {
+		"name": "Rune platebody (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"2617": {
+		"name": "Rune platelegs (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2619": {
+		"name": "Rune full helm (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2621": {
+		"name": "Rune kiteshield (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2623": {
+		"name": "Rune platebody (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2625": {
+		"name": "Rune platelegs (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"2627": {
+		"name": "Rune full helm (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"2629": {
+		"name": "Rune kiteshield (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"2631": {
+		"name": "Highwayman mask",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2633": {
+		"name": "Blue beret",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"2635": {
+		"name": "Black beret",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2637": {
+		"name": "White beret",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"2639": {
+		"name": "Tan cavalier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2641": {
+		"name": "Dark cavalier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2643": {
+		"name": "Black cavalier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2645": {
+		"name": "Red headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2647": {
+		"name": "Black headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2649": {
+		"name": "Brown headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"2651": {
+		"name": "Pirate's hat",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2653": {
+		"name": "Zamorak platebody",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"2655": {
+		"name": "Zamorak platelegs",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"2657": {
+		"name": "Zamorak full helm",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2659": {
+		"name": "Zamorak kiteshield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"2661": {
+		"name": "Saradomin platebody",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2663": {
+		"name": "Saradomin platelegs",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2665": {
+		"name": "Saradomin full helm",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2667": {
+		"name": "Saradomin kiteshield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2669": {
+		"name": "Guthix platebody",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2671": {
+		"name": "Guthix platelegs",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2673": {
+		"name": "Guthix full helm",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"2675": {
+		"name": "Guthix kiteshield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"2978": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 58.6
+	},
+	"2979": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 50.3
+	},
+	"2980": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 49.1
+	},
+	"2981": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 47.7
+	},
+	"2982": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 46.8
+	},
+	"2983": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 46.5
+	},
+	"2984": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 39.9
+	},
+	"2985": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 39
+	},
+	"2986": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 39.1
+	},
+	"2987": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 13.7
+	},
+	"2988": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 13.3
+	},
+	"2989": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 13.1
+	},
+	"2990": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 13
+	},
+	"2991": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 1.7
+	},
+	"2992": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 1.1
+	},
+	"2993": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 0.8
+	},
+	"2994": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 0.7
+	},
+	"2995": {
+		"name": "Chompy bird hat",
+		"tabs": [
+			"Chompy Bird Hunting"
+		],
+		"comp": 0.7
+	},
+	"2996": {
+		"name": "Agility arena ticket",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 51.9
+	},
+	"2997": {
+		"name": "Pirate's hook",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 2.6
+	},
+	"3057": {
+		"name": "Mime mask",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 38
+	},
+	"3058": {
+		"name": "Mime top",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 38.9
+	},
+	"3059": {
+		"name": "Mime legs",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 38.2
+	},
+	"3060": {
+		"name": "Mime gloves",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 38.2
+	},
+	"3061": {
+		"name": "Mime boots",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 38.9
+	},
+	"3140": {
+		"name": "Dragon chainbody",
+		"tabs": [
+			"Kalphite Queen",
+			"Thermonuclear Smoke Devil",
+			"Slayer"
+		],
+		"comp": 17.8
+	},
+	"3470": {
+		"name": "Fine cloth",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 15.9
+	},
+	"3472": {
+		"name": "Black plateskirt (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"3473": {
+		"name": "Black plateskirt (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"3474": {
+		"name": "Adamant plateskirt (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"3475": {
+		"name": "Adamant plateskirt (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"3476": {
+		"name": "Rune plateskirt (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"3477": {
+		"name": "Rune plateskirt (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"3478": {
+		"name": "Zamorak plateskirt",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"3479": {
+		"name": "Saradomin plateskirt",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"3480": {
+		"name": "Guthix plateskirt",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"3481": {
+		"name": "Gilded platebody",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"3483": {
+		"name": "Gilded platelegs",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"3485": {
+		"name": "Gilded plateskirt",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"3486": {
+		"name": "Gilded full helm",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 1
+	},
+	"3488": {
+		"name": "Gilded kiteshield",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"3827": {
+		"name": "Saradomin page 1",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.4
+	},
+	"3828": {
+		"name": "Saradomin page 2",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"3829": {
+		"name": "Saradomin page 3",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"3830": {
+		"name": "Saradomin page 4",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.4
+	},
+	"3831": {
+		"name": "Zamorak page 1",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.2
+	},
+	"3832": {
+		"name": "Zamorak page 2",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"3833": {
+		"name": "Zamorak page 3",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.4
+	},
+	"3834": {
+		"name": "Zamorak page 4",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"3835": {
+		"name": "Guthix page 1",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.4
+	},
+	"3836": {
+		"name": "Guthix page 2",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.2
+	},
+	"3837": {
+		"name": "Guthix page 3",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.4
+	},
+	"3838": {
+		"name": "Guthix page 4",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.5
+	},
+	"4068": {
+		"name": "Decorative sword",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.3
+	},
+	"4069": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.3
+	},
+	"4070": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.2
+	},
+	"4071": {
+		"name": "Decorative helm",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.4
+	},
+	"4072": {
+		"name": "Decorative shield",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.3
+	},
+	"4099": {
+		"name": "Mystic hat (dark)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 4.6
+	},
+	"4101": {
+		"name": "Mystic robe top (dark)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 42.4
+	},
+	"4103": {
+		"name": "Mystic robe bottom (dark)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 43.5
+	},
+	"4105": {
+		"name": "Mystic gloves (dark)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 14.4
+	},
+	"4107": {
+		"name": "Mystic boots (dark)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 4.7
+	},
+	"4109": {
+		"name": "Mystic hat (light)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 29
+	},
+	"4111": {
+		"name": "Mystic robe top (light)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 37.3
+	},
+	"4113": {
+		"name": "Mystic robe bottom (light)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 31.8
+	},
+	"4115": {
+		"name": "Mystic gloves (light)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 15.3
+	},
+	"4117": {
+		"name": "Mystic boots (light)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 7.5
+	},
+	"4119": {
+		"name": "Bronze boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 28.2
+	},
+	"4121": {
+		"name": "Iron boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 27.9
+	},
+	"4123": {
+		"name": "Steel boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 28.8
+	},
+	"4125": {
+		"name": "Black boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 68.3
+	},
+	"4127": {
+		"name": "Mithril boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 48.2
+	},
+	"4129": {
+		"name": "Adamant boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 49.9
+	},
+	"4131": {
+		"name": "Rune boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 45.3
+	},
+	"4151": {
+		"name": "Abyssal whip",
+		"tabs": [
+			"Abyssal Sire",
+			"Slayer"
+		],
+		"comp": 37.2
+	},
+	"4153": {
+		"name": "Granite maul",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 47.8
+	},
+	"4207": {
+		"name": "Crystal weapon seed",
+		"tabs": [
+			"The Gauntlet"
+		],
+		"comp": 24.5
+	},
+	"4503": {
+		"name": "Decorative sword",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.2
+	},
+	"4504": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 2.8
+	},
+	"4505": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.1
+	},
+	"4506": {
+		"name": "Decorative helm",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.3
+	},
+	"4507": {
+		"name": "Decorative shield",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.1
+	},
+	"4508": {
+		"name": "Decorative sword",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.3
+	},
+	"4509": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.3
+	},
+	"4510": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.3
+	},
+	"4511": {
+		"name": "Decorative helm",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.4
+	},
+	"4512": {
+		"name": "Decorative shield",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.3
+	},
+	"4513": {
+		"name": "Castlewars hood",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4
+	},
+	"4514": {
+		"name": "Castlewars cloak",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4
+	},
+	"4515": {
+		"name": "Castlewars hood",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4
+	},
+	"4516": {
+		"name": "Castlewars cloak",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4
+	},
+	"4708": {
+		"name": "Ahrim's hood",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4710": {
+		"name": "Ahrim's staff",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4712": {
+		"name": "Ahrim's robetop",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.5
+	},
+	"4714": {
+		"name": "Ahrim's robeskirt",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.4
+	},
+	"4716": {
+		"name": "Dharok's helm",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4718": {
+		"name": "Dharok's greataxe",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.1
+	},
+	"4720": {
+		"name": "Dharok's platebody",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.2
+	},
+	"4722": {
+		"name": "Dharok's platelegs",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.2
+	},
+	"4724": {
+		"name": "Guthan's helm",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4726": {
+		"name": "Guthan's warspear",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4728": {
+		"name": "Guthan's platebody",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.3
+	},
+	"4730": {
+		"name": "Guthan's chainskirt",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.2
+	},
+	"4732": {
+		"name": "Karil's coif",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4734": {
+		"name": "Karil's crossbow",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4736": {
+		"name": "Karil's leathertop",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.4
+	},
+	"4738": {
+		"name": "Karil's leatherskirt",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.2
+	},
+	"4740": {
+		"name": "Bolt rack",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 51.6
+	},
+	"4745": {
+		"name": "Torag's helm",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 16.9
+	},
+	"4747": {
+		"name": "Torag's hammers",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 16.8
+	},
+	"4749": {
+		"name": "Torag's platebody",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4751": {
+		"name": "Torag's platelegs",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17
+	},
+	"4753": {
+		"name": "Verac's helm",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.1
+	},
+	"4755": {
+		"name": "Verac's flail",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.1
+	},
+	"4757": {
+		"name": "Verac's brassard",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 16.9
+	},
+	"4759": {
+		"name": "Verac's plateskirt",
+		"tabs": [
+			"Barrows Chests"
+		],
+		"comp": 17.2
+	},
+	"5553": {
+		"name": "Rogue top",
+		"tabs": [
+			"Rogues' Den"
+		],
+		"comp": 62.6
+	},
+	"5554": {
+		"name": "Rogue mask",
+		"tabs": [
+			"Rogues' Den"
+		],
+		"comp": 63.2
+	},
+	"5555": {
+		"name": "Rogue trousers",
+		"tabs": [
+			"Rogues' Den"
+		],
+		"comp": 61.8
+	},
+	"5556": {
+		"name": "Rogue gloves",
+		"tabs": [
+			"Rogues' Den"
+		],
+		"comp": 61.3
+	},
+	"5557": {
+		"name": "Rogue boots",
+		"tabs": [
+			"Rogues' Den"
+		],
+		"comp": 61.4
+	},
+	"6180": {
+		"name": "Lederhosen top",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 58.4
+	},
+	"6181": {
+		"name": "Lederhosen shorts",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 58.5
+	},
+	"6182": {
+		"name": "Lederhosen hat",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 58.3
+	},
+	"6183": {
+		"name": "Frog token",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 71.5
+	},
+	"6522": {
+		"name": "Toktz-xil-ul",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 2.4
+	},
+	"6523": {
+		"name": "Toktz-xil-ak",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 2.1
+	},
+	"6524": {
+		"name": "Toktz-ket-xil",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 5.7
+	},
+	"6525": {
+		"name": "Toktz-xil-ek",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 2.1
+	},
+	"6526": {
+		"name": "Toktz-mej-tal",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 0.4
+	},
+	"6528": {
+		"name": "Tzhaar-ket-om",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 5.7
+	},
+	"6562": {
+		"name": "Mud battlestaff",
+		"tabs": [
+			"Dagannoth Kings"
+		],
+		"comp": 16.5
+	},
+	"6568": {
+		"name": "Obsidian cape",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 6.7
+	},
+	"6570": {
+		"name": "Fire cape",
+		"tabs": [
+			"The Fight Caves"
+		],
+		"comp": 63.5
+	},
+	"6571": {
+		"name": "Uncut onyx",
+		"tabs": [
+			"Fortis Colosseum",
+			"Skotizo",
+			"Zalcano",
+			"Zulrah",
+			"Miscellaneous"
+		],
+		"comp": 17.1
+	},
+	"6573": {
+		"name": "Onyx",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 4.2
+	},
+	"6654": {
+		"name": "Camo top",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 71.9
+	},
+	"6655": {
+		"name": "Camo bottoms",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 56.4
+	},
+	"6656": {
+		"name": "Camo helmet",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 47.9
+	},
+	"6665": {
+		"name": "Mudskipper hat",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 24.9
+	},
+	"6666": {
+		"name": "Flippers",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 25.2
+	},
+	"6724": {
+		"name": "Seercull",
+		"tabs": [
+			"Dagannoth Kings"
+		],
+		"comp": 16.3
+	},
+	"6731": {
+		"name": "Seers ring",
+		"tabs": [
+			"Dagannoth Kings"
+		],
+		"comp": 17.6
+	},
+	"6733": {
+		"name": "Archers ring",
+		"tabs": [
+			"Dagannoth Kings"
+		],
+		"comp": 17.5
+	},
+	"6735": {
+		"name": "Warrior ring",
+		"tabs": [
+			"Dagannoth Kings"
+		],
+		"comp": 25.4
+	},
+	"6737": {
+		"name": "Berserker ring",
+		"tabs": [
+			"Dagannoth Kings"
+		],
+		"comp": 31
+	},
+	"6739": {
+		"name": "Dragon axe",
+		"tabs": [
+			"Dagannoth Kings",
+			"Wintertodt"
+		],
+		"comp": 35.4
+	},
+	"6798": {
+		"name": "Earth warrior champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 2.1
+	},
+	"6799": {
+		"name": "Ghoul champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 2
+	},
+	"6800": {
+		"name": "Giant champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 22.8
+	},
+	"6801": {
+		"name": "Goblin champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 13.5
+	},
+	"6802": {
+		"name": "Hobgoblin champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 2.9
+	},
+	"6803": {
+		"name": "Imp champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 6.7
+	},
+	"6804": {
+		"name": "Jogre champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 1.8
+	},
+	"6805": {
+		"name": "Lesser demon champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 3.6
+	},
+	"6806": {
+		"name": "Skeleton champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 11.6
+	},
+	"6807": {
+		"name": "Zombie champion scroll",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 7.6
+	},
+	"6809": {
+		"name": "Granite legs",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 15.6
+	},
+	"6889": {
+		"name": "Mage's book",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 3.8
+	},
+	"6908": {
+		"name": "Beginner wand",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 8.2
+	},
+	"6910": {
+		"name": "Apprentice wand",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 7.7
+	},
+	"6912": {
+		"name": "Teacher wand",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 7.3
+	},
+	"6914": {
+		"name": "Master wand",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 7.2
+	},
+	"6916": {
+		"name": "Infinity top",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 1.4
+	},
+	"6918": {
+		"name": "Infinity hat",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 1.5
+	},
+	"6920": {
+		"name": "Infinity boots",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 13.9
+	},
+	"6922": {
+		"name": "Infinity gloves",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 1.6
+	},
+	"6924": {
+		"name": "Infinity bottoms",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 1.4
+	},
+	"6926": {
+		"name": "Bones to peaches",
+		"tabs": [
+			"Magic Training Arena"
+		],
+		"comp": 46.4
+	},
+	"7158": {
+		"name": "Dragon 2h sword",
+		"tabs": [
+			"Callisto and Artio",
+			"Chaos Elemental",
+			"Kalphite Queen",
+			"Scorpia",
+			"Venenatis and Spindel",
+			"Vet'ion and Calvar'ion"
+		],
+		"comp": 23.8
+	},
+	"7319": {
+		"name": "Red boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"7321": {
+		"name": "Orange boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.2
+	},
+	"7323": {
+		"name": "Green boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7325": {
+		"name": "Blue boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"7327": {
+		"name": "Black boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"7329": {
+		"name": "Red firelighter",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 52.7
+	},
+	"7330": {
+		"name": "Green firelighter",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 52.6
+	},
+	"7331": {
+		"name": "Blue firelighter",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 52.7
+	},
+	"7332": {
+		"name": "Black shield (h1)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7334": {
+		"name": "Adamant shield (h1)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7336": {
+		"name": "Rune shield (h1)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"7338": {
+		"name": "Black shield (h2)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"7340": {
+		"name": "Adamant shield (h2)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7342": {
+		"name": "Rune shield (h2)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"7344": {
+		"name": "Black shield (h3)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"7346": {
+		"name": "Adamant shield (h3)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7348": {
+		"name": "Rune shield (h3)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"7350": {
+		"name": "Black shield (h4)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7352": {
+		"name": "Adamant shield (h4)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7354": {
+		"name": "Rune shield (h4)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"7356": {
+		"name": "Black shield (h5)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"7358": {
+		"name": "Adamant shield (h5)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"7360": {
+		"name": "Rune shield (h5)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"7362": {
+		"name": "Studded body (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7364": {
+		"name": "Studded body (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"7366": {
+		"name": "Studded chaps (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7368": {
+		"name": "Studded chaps (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7370": {
+		"name": "Green d'hide body (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7372": {
+		"name": "Green d'hide body (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"7374": {
+		"name": "Blue d'hide body (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"7376": {
+		"name": "Blue d'hide body (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"7378": {
+		"name": "Green d'hide chaps (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7380": {
+		"name": "Green d'hide chaps (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"7382": {
+		"name": "Blue d'hide chaps (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"7384": {
+		"name": "Blue d'hide chaps (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"7386": {
+		"name": "Blue skirt (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7388": {
+		"name": "Blue skirt (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7390": {
+		"name": "Blue wizard robe (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"7392": {
+		"name": "Blue wizard robe (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7394": {
+		"name": "Blue wizard hat (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7396": {
+		"name": "Blue wizard hat (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"7398": {
+		"name": "Enchanted robe",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"7399": {
+		"name": "Enchanted top",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"7400": {
+		"name": "Enchanted hat",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"7416": {
+		"name": "Mole claw",
+		"tabs": [
+			"Giant Mole"
+		],
+		"comp": 54.1
+	},
+	"7418": {
+		"name": "Mole skin",
+		"tabs": [
+			"Giant Mole"
+		],
+		"comp": 53.2
+	},
+	"7536": {
+		"name": "Fresh crab claw",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 21.2
+	},
+	"7538": {
+		"name": "Fresh crab shell",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 20.5
+	},
+	"7592": {
+		"name": "Zombie shirt",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 48.3
+	},
+	"7593": {
+		"name": "Zombie trousers",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 42.8
+	},
+	"7594": {
+		"name": "Zombie mask",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 41.3
+	},
+	"7595": {
+		"name": "Zombie gloves",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 42.7
+	},
+	"7596": {
+		"name": "Zombie boots",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 48.2
+	},
+	"7975": {
+		"name": "Crawling hand",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 14
+	},
+	"7976": {
+		"name": "Cockatrice head",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 6.6
+	},
+	"7977": {
+		"name": "Basilisk head",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 16.1
+	},
+	"7978": {
+		"name": "Kurask head",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 11.8
+	},
+	"7979": {
+		"name": "Abyssal head",
+		"tabs": [
+			"Abyssal Sire",
+			"Slayer"
+		],
+		"comp": 17.2
+	},
+	"7980": {
+		"name": "Kbd heads",
+		"tabs": [
+			"King Black Dragon"
+		],
+		"comp": 17.3
+	},
+	"7981": {
+		"name": "Kq head",
+		"tabs": [
+			"Kalphite Queen"
+		],
+		"comp": 17
+	},
+	"7989": {
+		"name": "Big bass",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 4
+	},
+	"7991": {
+		"name": "Big swordfish",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 8.4
+	},
+	"7993": {
+		"name": "Big shark",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 6.9
+	},
+	"8839": {
+		"name": "Void knight top",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 52.1
+	},
+	"8840": {
+		"name": "Void knight robe",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 51.8
+	},
+	"8841": {
+		"name": "Void knight mace",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 5.9
+	},
+	"8842": {
+		"name": "Void knight gloves",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 51.7
+	},
+	"8844": {
+		"name": "Bronze defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 82.2
+	},
+	"8845": {
+		"name": "Iron defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 82.1
+	},
+	"8846": {
+		"name": "Steel defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 81.9
+	},
+	"8847": {
+		"name": "Black defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 81.8
+	},
+	"8848": {
+		"name": "Mithril defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 81.7
+	},
+	"8849": {
+		"name": "Adamant defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 81.6
+	},
+	"8850": {
+		"name": "Rune defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 81.5
+	},
+	"8901": {
+		"name": "Black mask (10)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 39.1
+	},
+	"8940": {
+		"name": "Rum",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 3.6
+	},
+	"8941": {
+		"name": "Rum",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 3.5
+	},
+	"8952": {
+		"name": "Blue naval shirt",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.6
+	},
+	"8953": {
+		"name": "Green naval shirt",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.5
+	},
+	"8954": {
+		"name": "Red naval shirt",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.4
+	},
+	"8955": {
+		"name": "Brown naval shirt",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.3
+	},
+	"8956": {
+		"name": "Black naval shirt",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.6
+	},
+	"8957": {
+		"name": "Purple naval shirt",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.4
+	},
+	"8958": {
+		"name": "Grey naval shirt",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.4
+	},
+	"8959": {
+		"name": "Blue tricorn hat",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.7
+	},
+	"8960": {
+		"name": "Green tricorn hat",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.6
+	},
+	"8961": {
+		"name": "Red tricorn hat",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.6
+	},
+	"8962": {
+		"name": "Brown tricorn hat",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.5
+	},
+	"8963": {
+		"name": "Black tricorn hat",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.7
+	},
+	"8964": {
+		"name": "Purple tricorn hat",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.5
+	},
+	"8965": {
+		"name": "Grey tricorn hat",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.5
+	},
+	"8966": {
+		"name": "Cutthroat flag",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.3
+	},
+	"8967": {
+		"name": "Gilded smile flag",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.2
+	},
+	"8968": {
+		"name": "Bronze fist flag",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.1
+	},
+	"8969": {
+		"name": "Lucky shot flag",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.1
+	},
+	"8970": {
+		"name": "Treasure flag",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.1
+	},
+	"8971": {
+		"name": "Phasmatys flag",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.1
+	},
+	"8988": {
+		"name": "The stuff",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 7.7
+	},
+	"8991": {
+		"name": "Blue navy slacks",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.5
+	},
+	"8992": {
+		"name": "Green navy slacks",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.5
+	},
+	"8993": {
+		"name": "Red navy slacks",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.4
+	},
+	"8994": {
+		"name": "Brown navy slacks",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.3
+	},
+	"8995": {
+		"name": "Black navy slacks",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.6
+	},
+	"8996": {
+		"name": "Purple navy slacks",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.3
+	},
+	"8997": {
+		"name": "Grey navy slacks",
+		"tabs": [
+			"Trouble Brewing"
+		],
+		"comp": 1.4
+	},
+	"9007": {
+		"name": "Right skull half",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 64
+	},
+	"9008": {
+		"name": "Left skull half",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 62.5
+	},
+	"9010": {
+		"name": "Top of sceptre",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 53.4
+	},
+	"9011": {
+		"name": "Bottom of sceptre",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 57.1
+	},
+	"9469": {
+		"name": "Grand seed pod",
+		"tabs": [
+			"Gnome Restaurant"
+		],
+		"comp": 2.3
+	},
+	"9470": {
+		"name": "Gnome scarf",
+		"tabs": [
+			"Gnome Restaurant"
+		],
+		"comp": 2.4
+	},
+	"9472": {
+		"name": "Gnome goggles",
+		"tabs": [
+			"Gnome Restaurant"
+		],
+		"comp": 2.3
+	},
+	"9475": {
+		"name": "Mint cake",
+		"tabs": [
+			"Gnome Restaurant"
+		],
+		"comp": 2.2
+	},
+	"10280": {
+		"name": "Willow comp bow",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 11.9
+	},
+	"10282": {
+		"name": "Yew comp bow",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 21
+	},
+	"10284": {
+		"name": "Magic comp bow",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 31.2
+	},
+	"10286": {
+		"name": "Rune helm (h1)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10288": {
+		"name": "Rune helm (h2)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"10290": {
+		"name": "Rune helm (h3)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10292": {
+		"name": "Rune helm (h4)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"10294": {
+		"name": "Rune helm (h5)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10296": {
+		"name": "Adamant helm (h1)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"10298": {
+		"name": "Adamant helm (h2)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"10300": {
+		"name": "Adamant helm (h3)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"10302": {
+		"name": "Adamant helm (h4)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"10304": {
+		"name": "Adamant helm (h5)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"10306": {
+		"name": "Black helm (h1)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10308": {
+		"name": "Black helm (h2)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"10310": {
+		"name": "Black helm (h3)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10312": {
+		"name": "Black helm (h4)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10314": {
+		"name": "Black helm (h5)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10316": {
+		"name": "Bob's red shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"10318": {
+		"name": "Bob's blue shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10320": {
+		"name": "Bob's green shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10322": {
+		"name": "Bob's black shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10324": {
+		"name": "Bob's purple shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10326": {
+		"name": "Purple firelighter",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 52.9
+	},
+	"10327": {
+		"name": "White firelighter",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 52.7
+	},
+	"10330": {
+		"name": "3rd age range top",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10332": {
+		"name": "3rd age range legs",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10334": {
+		"name": "3rd age range coif",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10336": {
+		"name": "3rd age vambraces",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10338": {
+		"name": "3rd age robe top",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10340": {
+		"name": "3rd age robe",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10342": {
+		"name": "3rd age mage hat",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10344": {
+		"name": "3rd age amulet",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10346": {
+		"name": "3rd age platelegs",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10348": {
+		"name": "3rd age platebody",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10350": {
+		"name": "3rd age full helmet",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10352": {
+		"name": "3rd age kiteshield",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"10354": {
+		"name": "Amulet of glory (t4)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"10364": {
+		"name": "Strength amulet (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 21
+	},
+	"10366": {
+		"name": "Amulet of magic (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 11.9
+	},
+	"10368": {
+		"name": "Zamorak bracers",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10370": {
+		"name": "Zamorak d'hide body",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10372": {
+		"name": "Zamorak chaps",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10374": {
+		"name": "Zamorak coif",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10376": {
+		"name": "Guthix bracers",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"10378": {
+		"name": "Guthix d'hide body",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10380": {
+		"name": "Guthix chaps",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10382": {
+		"name": "Guthix coif",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"10384": {
+		"name": "Saradomin bracers",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10386": {
+		"name": "Saradomin d'hide body",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10388": {
+		"name": "Saradomin chaps",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10390": {
+		"name": "Saradomin coif",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10392": {
+		"name": "A powdered wig",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10394": {
+		"name": "Flared trousers",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"10396": {
+		"name": "Pantaloons",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10398": {
+		"name": "Sleeping cap",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10400": {
+		"name": "Black elegant shirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"10402": {
+		"name": "Black elegant legs",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"10404": {
+		"name": "Red elegant shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10406": {
+		"name": "Red elegant legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10408": {
+		"name": "Blue elegant shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10410": {
+		"name": "Blue elegant legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10412": {
+		"name": "Green elegant shirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10414": {
+		"name": "Green elegant legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10416": {
+		"name": "Purple elegant shirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"10418": {
+		"name": "Purple elegant legs",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 5.9
+	},
+	"10420": {
+		"name": "White elegant blouse",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"10422": {
+		"name": "White elegant skirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6.1
+	},
+	"10424": {
+		"name": "Red elegant blouse",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10426": {
+		"name": "Red elegant skirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10428": {
+		"name": "Blue elegant blouse",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10430": {
+		"name": "Blue elegant skirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10432": {
+		"name": "Green elegant blouse",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10434": {
+		"name": "Green elegant skirt",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"10436": {
+		"name": "Purple elegant blouse",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 5.9
+	},
+	"10438": {
+		"name": "Purple elegant skirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"10440": {
+		"name": "Saradomin crozier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10442": {
+		"name": "Guthix crozier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"10444": {
+		"name": "Zamorak crozier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"10446": {
+		"name": "Saradomin cloak",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"10448": {
+		"name": "Guthix cloak",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"10450": {
+		"name": "Zamorak cloak",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"10452": {
+		"name": "Saradomin mitre",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"10454": {
+		"name": "Guthix mitre",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"10456": {
+		"name": "Zamorak mitre",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"10458": {
+		"name": "Saradomin robe top",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"10460": {
+		"name": "Zamorak robe top",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10462": {
+		"name": "Guthix robe top",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10464": {
+		"name": "Saradomin robe legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10466": {
+		"name": "Guthix robe legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"10468": {
+		"name": "Zamorak robe legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"10470": {
+		"name": "Saradomin stole",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10472": {
+		"name": "Guthix stole",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10474": {
+		"name": "Zamorak stole",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"10476": {
+		"name": "Purple sweets",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 71.3
+	},
+	"10547": {
+		"name": "Healer hat",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 1.9
+	},
+	"10548": {
+		"name": "Fighter hat",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 2.4
+	},
+	"10549": {
+		"name": "Runner hat",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 1.9
+	},
+	"10550": {
+		"name": "Ranger hat",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 1.9
+	},
+	"10551": {
+		"name": "Fighter torso",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 36.7
+	},
+	"10552": {
+		"name": "Runner boots",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 2.5
+	},
+	"10553": {
+		"name": "Penance gloves",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 2.6
+	},
+	"10555": {
+		"name": "Penance skirt",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 1.9
+	},
+	"10564": {
+		"name": "Granite body",
+		"tabs": [
+			"Barbarian Assault"
+		],
+		"comp": 37
+	},
+	"10589": {
+		"name": "Granite helm",
+		"tabs": [
+			"Barbarian Assault",
+			"Slayer"
+		],
+		"comp": 3.7
+	},
+	"10933": {
+		"name": "Lumberjack boots",
+		"tabs": [
+			"Temple Trekking",
+			"Forestry"
+		],
+		"comp": 44
+	},
+	"10939": {
+		"name": "Lumberjack top",
+		"tabs": [
+			"Temple Trekking",
+			"Forestry"
+		],
+		"comp": 46.6
+	},
+	"10940": {
+		"name": "Lumberjack legs",
+		"tabs": [
+			"Temple Trekking",
+			"Forestry"
+		],
+		"comp": 44.7
+	},
+	"10941": {
+		"name": "Lumberjack hat",
+		"tabs": [
+			"Temple Trekking",
+			"Forestry"
+		],
+		"comp": 44.1
+	},
+	"10976": {
+		"name": "Long bone",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 86.1
+	},
+	"10977": {
+		"name": "Curved bone",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 48.7
+	},
+	"11037": {
+		"name": "Brine sabre",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 15.5
+	},
+	"11235": {
+		"name": "Dark bow",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 12.4
+	},
+	"11286": {
+		"name": "Draconic visage",
+		"tabs": [
+			"King Black Dragon",
+			"Vorkath",
+			"Slayer"
+		],
+		"comp": 7.6
+	},
+	"11335": {
+		"name": "Dragon full helm",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.5
+	},
+	"11338": {
+		"name": "Chewed bones",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 25
+	},
+	"11341": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11342": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11343": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11344": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11345": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11346": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11347": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11348": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 4
+	},
+	"11349": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11350": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11351": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11352": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11353": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 4
+	},
+	"11354": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11355": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 4
+	},
+	"11356": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11357": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11358": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11359": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 4
+	},
+	"11360": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 4
+	},
+	"11361": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11362": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11363": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11364": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 4
+	},
+	"11365": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11366": {
+		"name": "Ancient page",
+		"tabs": [
+			"My Notes"
+		],
+		"comp": 3.9
+	},
+	"11663": {
+		"name": "Void mage helm",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 37.1
+	},
+	"11664": {
+		"name": "Void ranger helm",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 51
+	},
+	"11665": {
+		"name": "Void melee helm",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 36.6
+	},
+	"11666": {
+		"name": "Void seal(8)",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 8.6
+	},
+	"11785": {
+		"name": "Armadyl crossbow",
+		"tabs": [
+			"Commander Zilyana"
+		],
+		"comp": 6.8
+	},
+	"11787": {
+		"name": "Steam battlestaff",
+		"tabs": [
+			"K'ril Tsutsaroth"
+		],
+		"comp": 12.5
+	},
+	"11791": {
+		"name": "Staff of the dead",
+		"tabs": [
+			"K'ril Tsutsaroth"
+		],
+		"comp": 5.7
+	},
+	"11810": {
+		"name": "Armadyl hilt",
+		"tabs": [
+			"Kree'arra"
+		],
+		"comp": 4.7
+	},
+	"11812": {
+		"name": "Bandos hilt",
+		"tabs": [
+			"General Graardor"
+		],
+		"comp": 10.1
+	},
+	"11814": {
+		"name": "Saradomin hilt",
+		"tabs": [
+			"Commander Zilyana"
+		],
+		"comp": 6.4
+	},
+	"11816": {
+		"name": "Zamorak hilt",
+		"tabs": [
+			"K'ril Tsutsaroth"
+		],
+		"comp": 6.1
+	},
+	"11818": {
+		"name": "Godsword shard 1",
+		"tabs": [
+			"Commander Zilyana",
+			"General Graardor",
+			"Kree'arra",
+			"K'ril Tsutsaroth"
+		],
+		"comp": 18.7
+	},
+	"11820": {
+		"name": "Godsword shard 2",
+		"tabs": [
+			"Commander Zilyana",
+			"General Graardor",
+			"Kree'arra",
+			"K'ril Tsutsaroth"
+		],
+		"comp": 18.7
+	},
+	"11822": {
+		"name": "Godsword shard 3",
+		"tabs": [
+			"Commander Zilyana",
+			"General Graardor",
+			"Kree'arra",
+			"K'ril Tsutsaroth"
+		],
+		"comp": 18.7
+	},
+	"11824": {
+		"name": "Zamorakian spear",
+		"tabs": [
+			"K'ril Tsutsaroth"
+		],
+		"comp": 15.1
+	},
+	"11826": {
+		"name": "Armadyl helmet",
+		"tabs": [
+			"Kree'arra"
+		],
+		"comp": 6.1
+	},
+	"11828": {
+		"name": "Armadyl chestplate",
+		"tabs": [
+			"Kree'arra"
+		],
+		"comp": 6.3
+	},
+	"11830": {
+		"name": "Armadyl chainskirt",
+		"tabs": [
+			"Kree'arra"
+		],
+		"comp": 6.2
+	},
+	"11832": {
+		"name": "Bandos chestplate",
+		"tabs": [
+			"General Graardor"
+		],
+		"comp": 12.1
+	},
+	"11834": {
+		"name": "Bandos tassets",
+		"tabs": [
+			"General Graardor"
+		],
+		"comp": 12.3
+	},
+	"11836": {
+		"name": "Bandos boots",
+		"tabs": [
+			"General Graardor"
+		],
+		"comp": 11.2
+	},
+	"11838": {
+		"name": "Saradomin sword",
+		"tabs": [
+			"Commander Zilyana"
+		],
+		"comp": 11.8
+	},
+	"11840": {
+		"name": "Dragon boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 29.3
+	},
+	"11849": {
+		"name": "Mark of grace",
+		"tabs": [
+			"Rooftop Agility"
+		],
+		"comp": 96.8
+	},
+	"11850": {
+		"name": "Graceful hood",
+		"tabs": [
+			"Rooftop Agility"
+		],
+		"comp": 75.9
+	},
+	"11852": {
+		"name": "Graceful cape",
+		"tabs": [
+			"Rooftop Agility"
+		],
+		"comp": 72.5
+	},
+	"11854": {
+		"name": "Graceful top",
+		"tabs": [
+			"Rooftop Agility"
+		],
+		"comp": 74.8
+	},
+	"11856": {
+		"name": "Graceful legs",
+		"tabs": [
+			"Rooftop Agility"
+		],
+		"comp": 76.6
+	},
+	"11858": {
+		"name": "Graceful gloves",
+		"tabs": [
+			"Rooftop Agility"
+		],
+		"comp": 74.8
+	},
+	"11860": {
+		"name": "Graceful boots",
+		"tabs": [
+			"Rooftop Agility"
+		],
+		"comp": 70.4
+	},
+	"11891": {
+		"name": "Saradomin banner",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 2.6
+	},
+	"11892": {
+		"name": "Zamorak banner",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 2.6
+	},
+	"11893": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.2
+	},
+	"11894": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.1
+	},
+	"11895": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.3
+	},
+	"11896": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.4
+	},
+	"11897": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.4
+	},
+	"11898": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.6
+	},
+	"11899": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.4
+	},
+	"11900": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.4
+	},
+	"11901": {
+		"name": "Decorative armour",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.3
+	},
+	"11902": {
+		"name": "Leaf-bladed sword",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 42.1
+	},
+	"11905": {
+		"name": "Trident of the seas (full)",
+		"tabs": [
+			"Kraken"
+		],
+		"comp": 25.1
+	},
+	"11908": {
+		"name": "Uncharged trident",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 14.9
+	},
+	"11920": {
+		"name": "Dragon pickaxe",
+		"tabs": [
+			"Callisto and Artio",
+			"Chaos Elemental",
+			"Kalphite Queen",
+			"King Black Dragon",
+			"Venenatis and Spindel",
+			"Vet'ion and Calvar'ion"
+		],
+		"comp": 23.6
+	},
+	"11928": {
+		"name": "Odium shard 1",
+		"tabs": [
+			"Chaos Fanatic"
+		],
+		"comp": 4.9
+	},
+	"11929": {
+		"name": "Odium shard 2",
+		"tabs": [
+			"Crazy Archaeologist"
+		],
+		"comp": 6.5
+	},
+	"11930": {
+		"name": "Odium shard 3",
+		"tabs": [
+			"Scorpia"
+		],
+		"comp": 4.1
+	},
+	"11931": {
+		"name": "Malediction shard 1",
+		"tabs": [
+			"Chaos Fanatic"
+		],
+		"comp": 4.8
+	},
+	"11932": {
+		"name": "Malediction shard 2",
+		"tabs": [
+			"Crazy Archaeologist"
+		],
+		"comp": 6.3
+	},
+	"11933": {
+		"name": "Malediction shard 3",
+		"tabs": [
+			"Scorpia"
+		],
+		"comp": 4
+	},
+	"11942": {
+		"name": "Ecumenical key",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 31.1
+	},
+	"11990": {
+		"name": "Fedora",
+		"tabs": [
+			"Crazy Archaeologist"
+		],
+		"comp": 9.7
+	},
+	"11995": {
+		"name": "Pet chaos elemental",
+		"tabs": [
+			"Chaos Elemental",
+			"Chaos Fanatic",
+			"All Pets"
+		],
+		"comp": 6.2
+	},
+	"11998": {
+		"name": "Smoke battlestaff",
+		"tabs": [
+			"Thermonuclear Smoke Devil"
+		],
+		"comp": 11.1
+	},
+	"12002": {
+		"name": "Occult necklace",
+		"tabs": [
+			"Thermonuclear Smoke Devil",
+			"Slayer"
+		],
+		"comp": 22.8
+	},
+	"12004": {
+		"name": "Kraken tentacle",
+		"tabs": [
+			"Kraken",
+			"Slayer"
+		],
+		"comp": 28.8
+	},
+	"12007": {
+		"name": "Jar of dirt",
+		"tabs": [
+			"Kraken"
+		],
+		"comp": 19.4
+	},
+	"12013": {
+		"name": "Prospector helmet",
+		"tabs": [
+			"Motherlode Mine",
+			"Volcanic Mine"
+		],
+		"comp": 64.9
+	},
+	"12014": {
+		"name": "Prospector jacket",
+		"tabs": [
+			"Motherlode Mine",
+			"Volcanic Mine"
+		],
+		"comp": 53.2
+	},
+	"12015": {
+		"name": "Prospector legs",
+		"tabs": [
+			"Motherlode Mine",
+			"Volcanic Mine"
+		],
+		"comp": 54.5
+	},
+	"12016": {
+		"name": "Prospector boots",
+		"tabs": [
+			"Motherlode Mine",
+			"Volcanic Mine"
+		],
+		"comp": 55.5
+	},
+	"12193": {
+		"name": "Ancient robe top",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"12195": {
+		"name": "Ancient robe legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12197": {
+		"name": "Ancient cloak",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12199": {
+		"name": "Ancient crozier",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12201": {
+		"name": "Ancient stole",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12203": {
+		"name": "Ancient mitre",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12205": {
+		"name": "Bronze platebody (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12207": {
+		"name": "Bronze platelegs (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12209": {
+		"name": "Bronze plateskirt (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12211": {
+		"name": "Bronze full helm (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12213": {
+		"name": "Bronze kiteshield (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12215": {
+		"name": "Bronze platebody (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12217": {
+		"name": "Bronze platelegs (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12219": {
+		"name": "Bronze plateskirt (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12221": {
+		"name": "Bronze full helm (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"12223": {
+		"name": "Bronze kiteshield (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12225": {
+		"name": "Iron platebody (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"12227": {
+		"name": "Iron platelegs (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12229": {
+		"name": "Iron plateskirt (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12231": {
+		"name": "Iron full helm (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12233": {
+		"name": "Iron kiteshield (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12235": {
+		"name": "Iron platebody (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12237": {
+		"name": "Iron platelegs (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12239": {
+		"name": "Iron plateskirt (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12241": {
+		"name": "Iron full helm (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"12243": {
+		"name": "Iron kiteshield (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12245": {
+		"name": "Beanie",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12247": {
+		"name": "Red beret",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12249": {
+		"name": "Imp mask",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12251": {
+		"name": "Goblin mask",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"12253": {
+		"name": "Armadyl robe top",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12255": {
+		"name": "Armadyl robe legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12257": {
+		"name": "Armadyl stole",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12259": {
+		"name": "Armadyl mitre",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12261": {
+		"name": "Armadyl cloak",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12263": {
+		"name": "Armadyl crozier",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12265": {
+		"name": "Bandos robe top",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12267": {
+		"name": "Bandos robe legs",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12269": {
+		"name": "Bandos stole",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12271": {
+		"name": "Bandos mitre",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12273": {
+		"name": "Bandos cloak",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.2
+	},
+	"12275": {
+		"name": "Bandos crozier",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12277": {
+		"name": "Mithril platebody (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12279": {
+		"name": "Mithril platelegs (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12281": {
+		"name": "Mithril kiteshield (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12283": {
+		"name": "Mithril full helm (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12285": {
+		"name": "Mithril plateskirt (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12287": {
+		"name": "Mithril platebody (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.2
+	},
+	"12289": {
+		"name": "Mithril platelegs (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12291": {
+		"name": "Mithril kiteshield (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12293": {
+		"name": "Mithril full helm (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12295": {
+		"name": "Mithril plateskirt (t)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12297": {
+		"name": "Black pickaxe",
+		"tabs": [
+			"Beginner Treasure Trails",
+			"Easy Treasure Trails"
+		],
+		"comp": 36.1
+	},
+	"12299": {
+		"name": "White headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12301": {
+		"name": "Blue headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12303": {
+		"name": "Gold headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12305": {
+		"name": "Pink headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12307": {
+		"name": "Green headband",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12309": {
+		"name": "Pink boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12311": {
+		"name": "Purple boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12313": {
+		"name": "White boater",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12315": {
+		"name": "Pink elegant shirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"12317": {
+		"name": "Pink elegant legs",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"12319": {
+		"name": "Crier hat",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12321": {
+		"name": "White cavalier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"12323": {
+		"name": "Red cavalier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12325": {
+		"name": "Navy cavalier",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"12327": {
+		"name": "Red d'hide body (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12329": {
+		"name": "Red d'hide chaps (g)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12331": {
+		"name": "Red d'hide body (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12333": {
+		"name": "Red d'hide chaps (t)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12335": {
+		"name": "Briefcase",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12337": {
+		"name": "Sagacious spectacles",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12339": {
+		"name": "Pink elegant blouse",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"12341": {
+		"name": "Pink elegant skirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"12343": {
+		"name": "Gold elegant blouse",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 5.9
+	},
+	"12345": {
+		"name": "Gold elegant skirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"12347": {
+		"name": "Gold elegant shirt",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"12349": {
+		"name": "Gold elegant legs",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"12351": {
+		"name": "Musketeer hat",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12353": {
+		"name": "Monocle",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12355": {
+		"name": "Big pirate hat",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12357": {
+		"name": "Katana",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12359": {
+		"name": "Leprechaun hat",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"12361": {
+		"name": "Cat mask",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12363": {
+		"name": "Bronze dragon mask",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12365": {
+		"name": "Iron dragon mask",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12367": {
+		"name": "Steel dragon mask",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12369": {
+		"name": "Mithril dragon mask",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12371": {
+		"name": "Lava dragon mask",
+		"tabs": [
+			"Elite Treasure Trails (Rare)"
+		],
+		"comp": 0.5
+	},
+	"12373": {
+		"name": "Dragon cane",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12375": {
+		"name": "Black cane",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"12377": {
+		"name": "Adamant cane",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12379": {
+		"name": "Rune cane",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12381": {
+		"name": "Black d'hide body (g)",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12383": {
+		"name": "Black d'hide chaps (g)",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12385": {
+		"name": "Black d'hide body (t)",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12387": {
+		"name": "Black d'hide chaps (t)",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12389": {
+		"name": "Gilded scimitar",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"12391": {
+		"name": "Gilded boots",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"12393": {
+		"name": "Royal gown top",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12395": {
+		"name": "Royal gown bottom",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12397": {
+		"name": "Royal crown",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12402": {
+		"name": "Nardah teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.3
+	},
+	"12403": {
+		"name": "Digsite teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.2
+	},
+	"12404": {
+		"name": "Feldip hills teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.4
+	},
+	"12405": {
+		"name": "Lunar isle teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.3
+	},
+	"12406": {
+		"name": "Mort'ton teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.3
+	},
+	"12407": {
+		"name": "Pest control teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.3
+	},
+	"12408": {
+		"name": "Piscatoris teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.4
+	},
+	"12409": {
+		"name": "Tai bwo wannai teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.4
+	},
+	"12410": {
+		"name": "Iorwerth camp teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.4
+	},
+	"12411": {
+		"name": "Mos le'harmless teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.3
+	},
+	"12422": {
+		"name": "3rd age wand",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.1
+	},
+	"12424": {
+		"name": "3rd age bow",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.1
+	},
+	"12426": {
+		"name": "3rd age longsword",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.1
+	},
+	"12428": {
+		"name": "Penguin mask",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12430": {
+		"name": "Afro",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12432": {
+		"name": "Top hat",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12437": {
+		"name": "3rd age cloak",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.1
+	},
+	"12439": {
+		"name": "Royal sceptre",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12441": {
+		"name": "Musketeer tabard",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12443": {
+		"name": "Musketeer pants",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12445": {
+		"name": "Black skirt (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 5
+	},
+	"12447": {
+		"name": "Black skirt (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12449": {
+		"name": "Black wizard robe (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12451": {
+		"name": "Black wizard robe (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12453": {
+		"name": "Black wizard hat (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12455": {
+		"name": "Black wizard hat (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"12460": {
+		"name": "Ancient platebody",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12462": {
+		"name": "Ancient platelegs",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12464": {
+		"name": "Ancient plateskirt",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"12466": {
+		"name": "Ancient full helm",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12468": {
+		"name": "Ancient kiteshield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"12470": {
+		"name": "Armadyl platebody",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12472": {
+		"name": "Armadyl platelegs",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"12474": {
+		"name": "Armadyl plateskirt",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12476": {
+		"name": "Armadyl full helm",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12478": {
+		"name": "Armadyl kiteshield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12480": {
+		"name": "Bandos platebody",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"12482": {
+		"name": "Bandos platelegs",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12484": {
+		"name": "Bandos plateskirt",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12486": {
+		"name": "Bandos full helm",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12488": {
+		"name": "Bandos kiteshield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12490": {
+		"name": "Ancient bracers",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12492": {
+		"name": "Ancient d'hide body",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"12494": {
+		"name": "Ancient chaps",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12496": {
+		"name": "Ancient coif",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"12498": {
+		"name": "Bandos bracers",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12500": {
+		"name": "Bandos d'hide body",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12502": {
+		"name": "Bandos chaps",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12504": {
+		"name": "Bandos coif",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12506": {
+		"name": "Armadyl bracers",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12508": {
+		"name": "Armadyl d'hide body",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12510": {
+		"name": "Armadyl chaps",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12512": {
+		"name": "Armadyl coif",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12514": {
+		"name": "Explorer backpack",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12516": {
+		"name": "Pith helmet",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12518": {
+		"name": "Green dragon mask",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12520": {
+		"name": "Blue dragon mask",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12522": {
+		"name": "Red dragon mask",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"12524": {
+		"name": "Black dragon mask",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"12526": {
+		"name": "Fury ornament kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12528": {
+		"name": "Dark infinity colour kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12530": {
+		"name": "Light infinity colour kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12532": {
+		"name": "Dragon sq shield ornament kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12534": {
+		"name": "Dragon chainbody ornament kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12536": {
+		"name": "Dragon legs/skirt ornament kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"12538": {
+		"name": "Dragon full helm ornament kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12540": {
+		"name": "Deerstalker",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12596": {
+		"name": "Rangers' tunic",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"12598": {
+		"name": "Holy sandals",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"12601": {
+		"name": "Ring of the gods",
+		"tabs": [
+			"Vet'ion and Calvar'ion"
+		],
+		"comp": 6.4
+	},
+	"12603": {
+		"name": "Tyrannical ring",
+		"tabs": [
+			"Callisto and Artio"
+		],
+		"comp": 5.1
+	},
+	"12605": {
+		"name": "Treasonous ring",
+		"tabs": [
+			"Venenatis and Spindel"
+		],
+		"comp": 5
+	},
+	"12613": {
+		"name": "Bandos page 1",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.2
+	},
+	"12614": {
+		"name": "Bandos page 2",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.5
+	},
+	"12615": {
+		"name": "Bandos page 3",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"12616": {
+		"name": "Bandos page 4",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.4
+	},
+	"12617": {
+		"name": "Armadyl page 1",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"12618": {
+		"name": "Armadyl page 2",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.5
+	},
+	"12619": {
+		"name": "Armadyl page 3",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.4
+	},
+	"12620": {
+		"name": "Armadyl page 4",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.2
+	},
+	"12621": {
+		"name": "Ancient page 1",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"12622": {
+		"name": "Ancient page 2",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"12623": {
+		"name": "Ancient page 3",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.5
+	},
+	"12624": {
+		"name": "Ancient page 4",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 31.3
+	},
+	"12637": {
+		"name": "Saradomin halo",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.3
+	},
+	"12638": {
+		"name": "Zamorak halo",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.3
+	},
+	"12639": {
+		"name": "Guthix halo",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.2
+	},
+	"12642": {
+		"name": "Lumberyard teleport",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.4
+	},
+	"12643": {
+		"name": "Pet dagannoth supreme",
+		"tabs": [
+			"Dagannoth Kings",
+			"All Pets"
+		],
+		"comp": 1.3
+	},
+	"12644": {
+		"name": "Pet dagannoth prime",
+		"tabs": [
+			"Dagannoth Kings",
+			"All Pets"
+		],
+		"comp": 1.3
+	},
+	"12645": {
+		"name": "Pet dagannoth rex",
+		"tabs": [
+			"Dagannoth Kings",
+			"All Pets"
+		],
+		"comp": 1.8
+	},
+	"12646": {
+		"name": "Baby mole",
+		"tabs": [
+			"Giant Mole",
+			"All Pets"
+		],
+		"comp": 3.8
+	},
+	"12647": {
+		"name": "Kalphite princess",
+		"tabs": [
+			"Kalphite Queen",
+			"All Pets"
+		],
+		"comp": 1.5
+	},
+	"12648": {
+		"name": "Pet smoke devil",
+		"tabs": [
+			"Thermonuclear Smoke Devil",
+			"All Pets"
+		],
+		"comp": 4.6
+	},
+	"12649": {
+		"name": "Pet kree'arra",
+		"tabs": [
+			"Kree'arra",
+			"All Pets"
+		],
+		"comp": 0.9
+	},
+	"12650": {
+		"name": "Pet general graardor",
+		"tabs": [
+			"General Graardor",
+			"All Pets"
+		],
+		"comp": 1.6
+	},
+	"12651": {
+		"name": "Pet zilyana",
+		"tabs": [
+			"Commander Zilyana",
+			"All Pets"
+		],
+		"comp": 1
+	},
+	"12652": {
+		"name": "Pet k'ril tsutsaroth",
+		"tabs": [
+			"K'ril Tsutsaroth",
+			"All Pets"
+		],
+		"comp": 1
+	},
+	"12653": {
+		"name": "Prince black dragon",
+		"tabs": [
+			"King Black Dragon",
+			"All Pets"
+		],
+		"comp": 2.5
+	},
+	"12655": {
+		"name": "Pet kraken",
+		"tabs": [
+			"Kraken",
+			"All Pets"
+		],
+		"comp": 12.1
+	},
+	"12703": {
+		"name": "Pet penance queen",
+		"tabs": [
+			"Barbarian Assault",
+			"All Pets"
+		],
+		"comp": 0.2
+	},
+	"12757": {
+		"name": "Blue dark bow paint",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.1
+	},
+	"12759": {
+		"name": "Green dark bow paint",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.1
+	},
+	"12761": {
+		"name": "Yellow dark bow paint",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.1
+	},
+	"12763": {
+		"name": "White dark bow paint",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.1
+	},
+	"12769": {
+		"name": "Frozen whip mix",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.5
+	},
+	"12771": {
+		"name": "Volcanic whip mix",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.7
+	},
+	"12798": {
+		"name": "Steam staff upgrade kit",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 2.2
+	},
+	"12800": {
+		"name": "Dragon pickaxe upgrade kit",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 3.2
+	},
+	"12802": {
+		"name": "Ward upgrade kit",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.9
+	},
+	"12816": {
+		"name": "Pet dark core",
+		"tabs": [
+			"Corporeal Beast",
+			"All Pets"
+		],
+		"comp": 0.5
+	},
+	"12819": {
+		"name": "Elysian sigil",
+		"tabs": [
+			"Corporeal Beast"
+		],
+		"comp": 0.6
+	},
+	"12823": {
+		"name": "Spectral sigil",
+		"tabs": [
+			"Corporeal Beast"
+		],
+		"comp": 1.3
+	},
+	"12827": {
+		"name": "Arcane sigil",
+		"tabs": [
+			"Corporeal Beast"
+		],
+		"comp": 1.3
+	},
+	"12829": {
+		"name": "Spirit shield",
+		"tabs": [
+			"Corporeal Beast"
+		],
+		"comp": 7.4
+	},
+	"12833": {
+		"name": "Holy elixir",
+		"tabs": [
+			"Corporeal Beast"
+		],
+		"comp": 4.8
+	},
+	"12849": {
+		"name": "Granite clamp",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.6
+	},
+	"12851": {
+		"name": "Amulet of the damned (full)",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 14.2
+	},
+	"12885": {
+		"name": "Jar of sand",
+		"tabs": [
+			"Kalphite Queen"
+		],
+		"comp": 1.8
+	},
+	"12921": {
+		"name": "Pet snakeling",
+		"tabs": [
+			"Zulrah",
+			"All Pets"
+		],
+		"comp": 4.6
+	},
+	"12922": {
+		"name": "Tanzanite fang",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 18.4
+	},
+	"12927": {
+		"name": "Serpentine visage",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 16.7
+	},
+	"12932": {
+		"name": "Magic fang",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 17.5
+	},
+	"12934": {
+		"name": "Zulrah's scales",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 50
+	},
+	"12936": {
+		"name": "Jar of swamp",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 5.1
+	},
+	"12938": {
+		"name": "Zul-andra teleport",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 35.7
+	},
+	"12954": {
+		"name": "Dragon defender",
+		"tabs": [
+			"Cyclopes"
+		],
+		"comp": 80.5
+	},
+	"13071": {
+		"name": "Chompy chick",
+		"tabs": [
+			"All Pets",
+			"Chompy Bird Hunting",
+			"Miscellaneous"
+		],
+		"comp": 6.9
+	},
+	"13072": {
+		"name": "Elite void top",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 40.5
+	},
+	"13073": {
+		"name": "Elite void robe",
+		"tabs": [
+			"Pest Control"
+		],
+		"comp": 40.4
+	},
+	"13177": {
+		"name": "Venenatis spiderling",
+		"tabs": [
+			"Venenatis and Spindel",
+			"All Pets"
+		],
+		"comp": 2.3
+	},
+	"13178": {
+		"name": "Callisto cub",
+		"tabs": [
+			"Callisto and Artio",
+			"All Pets"
+		],
+		"comp": 2.3
+	},
+	"13179": {
+		"name": "Vet'ion jr.",
+		"tabs": [
+			"Vet'ion and Calvar'ion",
+			"All Pets"
+		],
+		"comp": 2.5
+	},
+	"13181": {
+		"name": "Scorpia's offspring",
+		"tabs": [
+			"Scorpia",
+			"All Pets"
+		],
+		"comp": 1.1
+	},
+	"13200": {
+		"name": "Tanzanite mutagen",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 2.9
+	},
+	"13201": {
+		"name": "Magma mutagen",
+		"tabs": [
+			"Zulrah"
+		],
+		"comp": 2.8
+	},
+	"13225": {
+		"name": "Tzrek-jad",
+		"tabs": [
+			"The Fight Caves",
+			"All Pets"
+		],
+		"comp": 3.4
+	},
+	"13226": {
+		"name": "Herb sack",
+		"tabs": [
+			"Tithe Farm"
+		],
+		"comp": 44.6
+	},
+	"13227": {
+		"name": "Eternal crystal",
+		"tabs": [
+			"Cerberus"
+		],
+		"comp": 14.8
+	},
+	"13229": {
+		"name": "Pegasian crystal",
+		"tabs": [
+			"Cerberus"
+		],
+		"comp": 14.7
+	},
+	"13231": {
+		"name": "Primordial crystal",
+		"tabs": [
+			"Cerberus"
+		],
+		"comp": 16
+	},
+	"13233": {
+		"name": "Smouldering stone",
+		"tabs": [
+			"Cerberus"
+		],
+		"comp": 15.7
+	},
+	"13245": {
+		"name": "Jar of souls",
+		"tabs": [
+			"Cerberus"
+		],
+		"comp": 5.9
+	},
+	"13247": {
+		"name": "Hellpuppy",
+		"tabs": [
+			"Cerberus",
+			"All Pets"
+		],
+		"comp": 5
+	},
+	"13249": {
+		"name": "Key master teleport",
+		"tabs": [
+			"Cerberus"
+		],
+		"comp": 23.8
+	},
+	"13256": {
+		"name": "Saradomin's light",
+		"tabs": [
+			"Commander Zilyana"
+		],
+		"comp": 8.4
+	},
+	"13258": {
+		"name": "Angler hat",
+		"tabs": [
+			"Fishing Trawler",
+			"Aerial Fishing"
+		],
+		"comp": 51.5
+	},
+	"13259": {
+		"name": "Angler top",
+		"tabs": [
+			"Fishing Trawler",
+			"Aerial Fishing"
+		],
+		"comp": 51.4
+	},
+	"13260": {
+		"name": "Angler waders",
+		"tabs": [
+			"Fishing Trawler",
+			"Aerial Fishing"
+		],
+		"comp": 51.5
+	},
+	"13261": {
+		"name": "Angler boots",
+		"tabs": [
+			"Fishing Trawler",
+			"Aerial Fishing"
+		],
+		"comp": 51.4
+	},
+	"13262": {
+		"name": "Abyssal orphan",
+		"tabs": [
+			"Abyssal Sire",
+			"All Pets"
+		],
+		"comp": 3.3
+	},
+	"13265": {
+		"name": "Abyssal dagger",
+		"tabs": [
+			"Abyssal Sire",
+			"Slayer"
+		],
+		"comp": 12.1
+	},
+	"13274": {
+		"name": "Bludgeon spine",
+		"tabs": [
+			"Abyssal Sire"
+		],
+		"comp": 11.4
+	},
+	"13275": {
+		"name": "Bludgeon claw",
+		"tabs": [
+			"Abyssal Sire"
+		],
+		"comp": 11.5
+	},
+	"13276": {
+		"name": "Bludgeon axon",
+		"tabs": [
+			"Abyssal Sire"
+		],
+		"comp": 11.4
+	},
+	"13277": {
+		"name": "Jar of miasma",
+		"tabs": [
+			"Abyssal Sire"
+		],
+		"comp": 6.1
+	},
+	"13320": {
+		"name": "Heron",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 9.2
+	},
+	"13321": {
+		"name": "Rock golem",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 11.8
+	},
+	"13322": {
+		"name": "Beaver",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 10.2
+	},
+	"13324": {
+		"name": "Baby chinchompa",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 1.7
+	},
+	"13353": {
+		"name": "Gricoller's can",
+		"tabs": [
+			"Tithe Farm"
+		],
+		"comp": 8.5
+	},
+	"13357": {
+		"name": "Shayzien gloves (1)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.6
+	},
+	"13358": {
+		"name": "Shayzien boots (1)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.6
+	},
+	"13359": {
+		"name": "Shayzien helm (1)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13360": {
+		"name": "Shayzien greaves (1)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.6
+	},
+	"13361": {
+		"name": "Shayzien platebody (1)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13362": {
+		"name": "Shayzien gloves (2)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13363": {
+		"name": "Shayzien boots (2)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.4
+	},
+	"13364": {
+		"name": "Shayzien helm (2)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.4
+	},
+	"13365": {
+		"name": "Shayzien greaves (2)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13366": {
+		"name": "Shayzien platebody (2)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 53.2
+	},
+	"13367": {
+		"name": "Shayzien gloves (3)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13368": {
+		"name": "Shayzien boots (3)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13369": {
+		"name": "Shayzien helm (3)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13370": {
+		"name": "Shayzien greaves (3)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13371": {
+		"name": "Shayzien platebody (3)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.8
+	},
+	"13372": {
+		"name": "Shayzien gloves (4)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.6
+	},
+	"13373": {
+		"name": "Shayzien boots (4)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.6
+	},
+	"13374": {
+		"name": "Shayzien helm (4)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13375": {
+		"name": "Shayzien greaves (4)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.5
+	},
+	"13376": {
+		"name": "Shayzien platebody (4)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 52.8
+	},
+	"13377": {
+		"name": "Shayzien gloves (5)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 53.7
+	},
+	"13378": {
+		"name": "Shayzien boots (5)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 53.7
+	},
+	"13379": {
+		"name": "Shayzien helm (5)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 53.6
+	},
+	"13380": {
+		"name": "Shayzien greaves (5)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 53.6
+	},
+	"13381": {
+		"name": "Shayzien body (5)",
+		"tabs": [
+			"Shayzien Armour"
+		],
+		"comp": 53.7
+	},
+	"13392": {
+		"name": "Xeric's talisman (inert)",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 62.5
+	},
+	"13576": {
+		"name": "Dragon warhammer",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 11.5
+	},
+	"13639": {
+		"name": "Seed box",
+		"tabs": [
+			"Tithe Farm"
+		],
+		"comp": 11.8
+	},
+	"13640": {
+		"name": "Farmer's boro trousers",
+		"tabs": [
+			"Tithe Farm"
+		],
+		"comp": 9
+	},
+	"13642": {
+		"name": "Farmer's jacket",
+		"tabs": [
+			"Tithe Farm"
+		],
+		"comp": 9.1
+	},
+	"13644": {
+		"name": "Farmer's boots",
+		"tabs": [
+			"Tithe Farm"
+		],
+		"comp": 10.4
+	},
+	"13646": {
+		"name": "Farmer's strawhat",
+		"tabs": [
+			"Tithe Farm"
+		],
+		"comp": 19.6
+	},
+	"13652": {
+		"name": "Dragon claws",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 4.7
+	},
+	"19529": {
+		"name": "Zenyte shard",
+		"tabs": [
+			"Glough's Experiments"
+		],
+		"comp": 27.4
+	},
+	"19586": {
+		"name": "Light frame",
+		"tabs": [
+			"Glough's Experiments"
+		],
+		"comp": 17.1
+	},
+	"19589": {
+		"name": "Heavy frame",
+		"tabs": [
+			"Glough's Experiments"
+		],
+		"comp": 10.9
+	},
+	"19592": {
+		"name": "Ballista limbs",
+		"tabs": [
+			"Glough's Experiments"
+		],
+		"comp": 21
+	},
+	"19601": {
+		"name": "Ballista spring",
+		"tabs": [
+			"Glough's Experiments"
+		],
+		"comp": 21
+	},
+	"19610": {
+		"name": "Monkey tail",
+		"tabs": [
+			"Glough's Experiments"
+		],
+		"comp": 11.8
+	},
+	"19677": {
+		"name": "Ancient shard",
+		"tabs": [
+			"Skotizo"
+		],
+		"comp": 74.2
+	},
+	"19679": {
+		"name": "Dark totem base",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 72.7
+	},
+	"19681": {
+		"name": "Dark totem middle",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 67.5
+	},
+	"19683": {
+		"name": "Dark totem top",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 64.1
+	},
+	"19685": {
+		"name": "Dark totem",
+		"tabs": [
+			"Skotizo"
+		],
+		"comp": 5.9
+	},
+	"19701": {
+		"name": "Jar of darkness",
+		"tabs": [
+			"Skotizo"
+		],
+		"comp": 2.8
+	},
+	"19707": {
+		"name": "Amulet of eternal glory",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.6
+	},
+	"19724": {
+		"name": "Left eye patch",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"19730": {
+		"name": "Bloodhound",
+		"tabs": [
+			"Master Treasure Trails",
+			"All Pets"
+		],
+		"comp": 1.1
+	},
+	"19912": {
+		"name": "Zombie head",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"19915": {
+		"name": "Cyclops head",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"19918": {
+		"name": "Nunchaku",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"19921": {
+		"name": "Ancient d'hide boots",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"19924": {
+		"name": "Bandos d'hide boots",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"19927": {
+		"name": "Guthix d'hide boots",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"19930": {
+		"name": "Armadyl d'hide boots",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"19933": {
+		"name": "Saradomin d'hide boots",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.7
+	},
+	"19936": {
+		"name": "Zamorak d'hide boots",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.9
+	},
+	"19943": {
+		"name": "Arceuus scarf",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"19946": {
+		"name": "Hosidius scarf",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"19949": {
+		"name": "Lovakengj scarf",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"19952": {
+		"name": "Piscarilius scarf",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"19955": {
+		"name": "Shayzien scarf",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"19958": {
+		"name": "Dark tuxedo jacket",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19961": {
+		"name": "Dark tuxedo cuffs",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19964": {
+		"name": "Dark trousers",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19967": {
+		"name": "Dark tuxedo shoes",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19970": {
+		"name": "Dark bow tie",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19973": {
+		"name": "Light tuxedo jacket",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19976": {
+		"name": "Light tuxedo cuffs",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19979": {
+		"name": "Light trousers",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19982": {
+		"name": "Light tuxedo shoes",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19985": {
+		"name": "Light bow tie",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"19988": {
+		"name": "Blacksmith's helm",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"19991": {
+		"name": "Bucket helm",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"19994": {
+		"name": "Ranger gloves",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"19997": {
+		"name": "Holy wraps",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.7
+	},
+	"20002": {
+		"name": "Dragon scimitar ornament kit",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"20005": {
+		"name": "Ring of nature",
+		"tabs": [
+			"Elite Treasure Trails (Rare)"
+		],
+		"comp": 0.5
+	},
+	"20008": {
+		"name": "Fancy tiara",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20011": {
+		"name": "3rd age axe",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0
+	},
+	"20014": {
+		"name": "3rd age pickaxe",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.1
+	},
+	"20017": {
+		"name": "Ring of coins",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.5
+	},
+	"20020": {
+		"name": "Lesser demon mask",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20023": {
+		"name": "Greater demon mask",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20026": {
+		"name": "Black demon mask",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20029": {
+		"name": "Old demon mask",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20032": {
+		"name": "Jungle demon mask",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20035": {
+		"name": "Samurai kasa",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20038": {
+		"name": "Samurai shirt",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20041": {
+		"name": "Samurai gloves",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20044": {
+		"name": "Samurai greaves",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20047": {
+		"name": "Samurai boots",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20050": {
+		"name": "Obsidian cape (r)",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20053": {
+		"name": "Half moon spectacles",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20056": {
+		"name": "Ale of the gods",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20059": {
+		"name": "Bucket helm (g)",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.5
+	},
+	"20062": {
+		"name": "Torture ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20065": {
+		"name": "Occult ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20068": {
+		"name": "Armadyl godsword ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 1.7
+	},
+	"20071": {
+		"name": "Bandos godsword ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 1.7
+	},
+	"20074": {
+		"name": "Saradomin godsword ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 1.8
+	},
+	"20077": {
+		"name": "Zamorak godsword ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 1.8
+	},
+	"20080": {
+		"name": "Mummy's head",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20083": {
+		"name": "Mummy's body",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20086": {
+		"name": "Mummy's hands",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20089": {
+		"name": "Mummy's legs",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20092": {
+		"name": "Mummy's feet",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20095": {
+		"name": "Ankou mask",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20098": {
+		"name": "Ankou top",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20101": {
+		"name": "Ankou gloves",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.6
+	},
+	"20104": {
+		"name": "Ankou's leggings",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20107": {
+		"name": "Ankou socks",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"20110": {
+		"name": "Bowl wig",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20113": {
+		"name": "Arceuus hood",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20116": {
+		"name": "Hosidius hood",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20119": {
+		"name": "Lovakengj hood",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20122": {
+		"name": "Piscarilius hood",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20125": {
+		"name": "Shayzien hood",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20128": {
+		"name": "Hood of darkness",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20131": {
+		"name": "Robe top of darkness",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20134": {
+		"name": "Gloves of darkness",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20137": {
+		"name": "Robe bottom of darkness",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.2
+	},
+	"20140": {
+		"name": "Boots of darkness",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20143": {
+		"name": "Dragon defender ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"20146": {
+		"name": "Gilded med helm",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"20149": {
+		"name": "Gilded chainbody",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"20152": {
+		"name": "Gilded sq shield",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 1
+	},
+	"20155": {
+		"name": "Gilded 2h sword",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"20158": {
+		"name": "Gilded spear",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"20161": {
+		"name": "Gilded hasta",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"20166": {
+		"name": "Wooden shield (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20169": {
+		"name": "Steel platebody (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20172": {
+		"name": "Steel platelegs (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20175": {
+		"name": "Steel plateskirt (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20178": {
+		"name": "Steel full helm (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20181": {
+		"name": "Steel kiteshield (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20184": {
+		"name": "Steel platebody (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20187": {
+		"name": "Steel platelegs (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20190": {
+		"name": "Steel plateskirt (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20193": {
+		"name": "Steel full helm (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20196": {
+		"name": "Steel kiteshield (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"20199": {
+		"name": "Monk's robe top (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 0.7
+	},
+	"20202": {
+		"name": "Monk's robe (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 0.7
+	},
+	"20205": {
+		"name": "Golden chef's hat",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"20208": {
+		"name": "Golden apron",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 2.9
+	},
+	"20211": {
+		"name": "Team cape zero",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 1.6
+	},
+	"20214": {
+		"name": "Team cape x",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 1.7
+	},
+	"20217": {
+		"name": "Team cape i",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 1.7
+	},
+	"20220": {
+		"name": "Holy blessing",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 32.5
+	},
+	"20223": {
+		"name": "Unholy blessing",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 32.7
+	},
+	"20226": {
+		"name": "Peaceful blessing",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 32.7
+	},
+	"20229": {
+		"name": "Honourable blessing",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 32.6
+	},
+	"20232": {
+		"name": "War blessing",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 32.8
+	},
+	"20235": {
+		"name": "Ancient blessing",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 32.7
+	},
+	"20238": {
+		"name": "Charge dragonstone jewellery scroll",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 42.3
+	},
+	"20240": {
+		"name": "Crier coat",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"20243": {
+		"name": "Crier bell",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"20246": {
+		"name": "Black leprechaun hat",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"20251": {
+		"name": "Arceuus banner",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"20254": {
+		"name": "Hosidius banner",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"20257": {
+		"name": "Lovakengj banner",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10
+	},
+	"20260": {
+		"name": "Piscarilius banner",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"20263": {
+		"name": "Shayzien banner",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"20266": {
+		"name": "Black unicorn mask",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"20269": {
+		"name": "White unicorn mask",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 6
+	},
+	"20272": {
+		"name": "Cabbage round shield",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 10.1
+	},
+	"20275": {
+		"name": "Gnomish firelighter",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 21
+	},
+	"20433": {
+		"name": "Evil chicken feet",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 2.1
+	},
+	"20436": {
+		"name": "Evil chicken wings",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 2
+	},
+	"20439": {
+		"name": "Evil chicken head",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 2.1
+	},
+	"20442": {
+		"name": "Evil chicken legs",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 2.1
+	},
+	"20517": {
+		"name": "Elder chaos top",
+		"tabs": [
+			"Elder Chaos Druids"
+		],
+		"comp": 2.6
+	},
+	"20520": {
+		"name": "Elder chaos robe",
+		"tabs": [
+			"Elder Chaos Druids"
+		],
+		"comp": 2.6
+	},
+	"20590": {
+		"name": "Stale baguette",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 5.4
+	},
+	"20595": {
+		"name": "Elder chaos hood",
+		"tabs": [
+			"Elder Chaos Druids"
+		],
+		"comp": 2.5
+	},
+	"20659": {
+		"name": "Giant squirrel",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 6.5
+	},
+	"20661": {
+		"name": "Tangleroot",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 8.3
+	},
+	"20663": {
+		"name": "Rocky",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 10.6
+	},
+	"20665": {
+		"name": "Rift guardian",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": 5
+	},
+	"20693": {
+		"name": "Phoenix",
+		"tabs": [
+			"Wintertodt",
+			"All Pets"
+		],
+		"comp": 6.6
+	},
+	"20704": {
+		"name": "Pyromancer garb",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 61.5
+	},
+	"20706": {
+		"name": "Pyromancer robe",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 38.1
+	},
+	"20708": {
+		"name": "Pyromancer hood",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 47.4
+	},
+	"20710": {
+		"name": "Pyromancer boots",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 30.2
+	},
+	"20712": {
+		"name": "Warm gloves",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 61.5
+	},
+	"20716": {
+		"name": "Tome of fire (empty)",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 23.8
+	},
+	"20718": {
+		"name": "Burnt page",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 72.6
+	},
+	"20720": {
+		"name": "Bruma torch",
+		"tabs": [
+			"Wintertodt"
+		],
+		"comp": 61.3
+	},
+	"20724": {
+		"name": "Imbued heart",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 7.7
+	},
+	"20727": {
+		"name": "Leaf-bladed battleaxe",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 22.9
+	},
+	"20730": {
+		"name": "Mist battlestaff",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 19.5
+	},
+	"20736": {
+		"name": "Dust battlestaff",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 30.6
+	},
+	"20754": {
+		"name": "Giant key",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 54.4
+	},
+	"20756": {
+		"name": "Hill giant club",
+		"tabs": [
+			"Obor"
+		],
+		"comp": 2.7
+	},
+	"20849": {
+		"name": "Dragon thrownaxe",
+		"tabs": [
+			"Alchemical Hydra",
+			"Slayer"
+		],
+		"comp": 23
+	},
+	"20851": {
+		"name": "Olmlet",
+		"tabs": [
+			"Chambers of Xeric",
+			"All Pets"
+		],
+		"comp": 2.8
+	},
+	"20997": {
+		"name": "Twisted bow",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 3.9
+	},
+	"21000": {
+		"name": "Twisted buckler",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 5.6
+	},
+	"21003": {
+		"name": "Elder maul",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 3.6
+	},
+	"21009": {
+		"name": "Dragon sword",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 17.6
+	},
+	"21012": {
+		"name": "Dragon hunter crossbow",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 5.5
+	},
+	"21015": {
+		"name": "Dinh's bulwark",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 4.7
+	},
+	"21018": {
+		"name": "Ancestral hat",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 4.7
+	},
+	"21021": {
+		"name": "Ancestral robe top",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 4.7
+	},
+	"21024": {
+		"name": "Ancestral robe bottom",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 4.7
+	},
+	"21027": {
+		"name": "Dark relic",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 19.6
+	},
+	"21028": {
+		"name": "Dragon harpoon",
+		"tabs": [
+			"Tempoross",
+			"Slayer"
+		],
+		"comp": 20.9
+	},
+	"21034": {
+		"name": "Dexterous prayer scroll",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 11.5
+	},
+	"21043": {
+		"name": "Kodai insignia",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 3.6
+	},
+	"21047": {
+		"name": "Torn prayer scroll",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 19.6
+	},
+	"21061": {
+		"name": "Graceful hood",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 6
+	},
+	"21064": {
+		"name": "Graceful cape",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 6
+	},
+	"21067": {
+		"name": "Graceful top",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 6
+	},
+	"21070": {
+		"name": "Graceful legs",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 6
+	},
+	"21073": {
+		"name": "Graceful gloves",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 6
+	},
+	"21076": {
+		"name": "Graceful boots",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 6
+	},
+	"21079": {
+		"name": "Arcane prayer scroll",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 11.2
+	},
+	"21202": {
+		"name": "Lava staff upgrade kit",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 2.3
+	},
+	"21270": {
+		"name": "Eternal gem",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 7.1
+	},
+	"21273": {
+		"name": "Skotos",
+		"tabs": [
+			"Skotizo",
+			"All Pets"
+		],
+		"comp": 11.7
+	},
+	"21275": {
+		"name": "Dark claw",
+		"tabs": [
+			"Skotizo"
+		],
+		"comp": 22.1
+	},
+	"21291": {
+		"name": "Jal-nib-rek",
+		"tabs": [
+			"The Inferno",
+			"All Pets"
+		],
+		"comp": 0.6
+	},
+	"21295": {
+		"name": "Infernal cape",
+		"tabs": [
+			"The Inferno"
+		],
+		"comp": 9.8
+	},
+	"21298": {
+		"name": "Obsidian helmet",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 1.6
+	},
+	"21301": {
+		"name": "Obsidian platebody",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 1.6
+	},
+	"21304": {
+		"name": "Obsidian platelegs",
+		"tabs": [
+			"TzHaar"
+		],
+		"comp": 1.7
+	},
+	"21343": {
+		"name": "Mining gloves",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 21
+	},
+	"21345": {
+		"name": "Superior mining gloves",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 15.9
+	},
+	"21387": {
+		"name": "Master scroll book (empty)",
+		"tabs": [
+			"Shared Treasure Trail Rewards"
+		],
+		"comp": 33.8
+	},
+	"21392": {
+		"name": "Expert mining gloves",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 14.6
+	},
+	"21439": {
+		"name": "Champion's cape",
+		"tabs": [
+			"Champion's Challenge"
+		],
+		"comp": 1.2
+	},
+	"21509": {
+		"name": "Herbi",
+		"tabs": [
+			"All Pets",
+			"Miscellaneous"
+		],
+		"comp": 3
+	},
+	"21541": {
+		"name": "Volcanic mine teleport",
+		"tabs": [
+			"Volcanic Mine"
+		],
+		"comp": 5.5
+	},
+	"21637": {
+		"name": "Wyvern visage",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 1.1
+	},
+	"21643": {
+		"name": "Granite boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 4.8
+	},
+	"21646": {
+		"name": "Granite longsword",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 11.2
+	},
+	"21649": {
+		"name": "Merfolk trident",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 1.6
+	},
+	"21664": {
+		"name": "Scribbled note",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 10.9
+	},
+	"21666": {
+		"name": "Partial note",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 10.4
+	},
+	"21668": {
+		"name": "Ancient note",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 10.1
+	},
+	"21670": {
+		"name": "Ancient writings",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 9.9
+	},
+	"21672": {
+		"name": "Experimental note",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 9.7
+	},
+	"21674": {
+		"name": "Paragraph of text",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 9.5
+	},
+	"21676": {
+		"name": "Musty smelling note",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 9.4
+	},
+	"21678": {
+		"name": "Hastily scrawled note",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 9.3
+	},
+	"21680": {
+		"name": "Old writing",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 9.2
+	},
+	"21682": {
+		"name": "Short note",
+		"tabs": [
+			"Fossil Island Notes"
+		],
+		"comp": 9.1
+	},
+	"21697": {
+		"name": "Ash covered tome",
+		"tabs": [
+			"Volcanic Mine"
+		],
+		"comp": 2.3
+	},
+	"21726": {
+		"name": "Granite dust",
+		"tabs": [
+			"Grotesque Guardians",
+			"The Mad Angel"
+		],
+		"comp": 33.3
+	},
+	"21730": {
+		"name": "Black tourmaline core",
+		"tabs": [
+			"Grotesque Guardians"
+		],
+		"comp": 7.3
+	},
+	"21736": {
+		"name": "Granite gloves",
+		"tabs": [
+			"Grotesque Guardians"
+		],
+		"comp": 10.7
+	},
+	"21739": {
+		"name": "Granite ring",
+		"tabs": [
+			"Grotesque Guardians"
+		],
+		"comp": 10.6
+	},
+	"21742": {
+		"name": "Granite hammer",
+		"tabs": [
+			"Grotesque Guardians"
+		],
+		"comp": 8.4
+	},
+	"21745": {
+		"name": "Jar of stone",
+		"tabs": [
+			"Grotesque Guardians"
+		],
+		"comp": 1.1
+	},
+	"21748": {
+		"name": "Noon",
+		"tabs": [
+			"Grotesque Guardians",
+			"All Pets"
+		],
+		"comp": 2
+	},
+	"21802": {
+		"name": "Revenant cave teleport",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 27.6
+	},
+	"21804": {
+		"name": "Ancient crystal",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 5.3
+	},
+	"21807": {
+		"name": "Ancient emblem",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 5.5
+	},
+	"21810": {
+		"name": "Ancient totem",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 6.9
+	},
+	"21813": {
+		"name": "Ancient statuette",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 4.5
+	},
+	"21817": {
+		"name": "Bracelet of ethereum (uncharged)",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 21.7
+	},
+	"21820": {
+		"name": "Revenant ether",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 27
+	},
+	"21838": {
+		"name": "Shaman mask",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 2.2
+	},
+	"21907": {
+		"name": "Vorkath's head",
+		"tabs": [
+			"Vorkath"
+		],
+		"comp": 47.4
+	},
+	"21918": {
+		"name": "Dragon limbs",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 4.6
+	},
+	"21992": {
+		"name": "Vorki",
+		"tabs": [
+			"Vorkath",
+			"All Pets"
+		],
+		"comp": 4
+	},
+	"22006": {
+		"name": "Skeletal visage",
+		"tabs": [
+			"Vorkath"
+		],
+		"comp": 2.3
+	},
+	"22100": {
+		"name": "Dragon metal slice",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.3
+	},
+	"22103": {
+		"name": "Dragon metal lump",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.9
+	},
+	"22106": {
+		"name": "Jar of decay",
+		"tabs": [
+			"Vorkath"
+		],
+		"comp": 3.5
+	},
+	"22111": {
+		"name": "Dragonbone necklace",
+		"tabs": [
+			"Vorkath"
+		],
+		"comp": 8.4
+	},
+	"22231": {
+		"name": "Dragon boots ornament kit",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.8
+	},
+	"22236": {
+		"name": "Dragon platebody ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.5
+	},
+	"22239": {
+		"name": "Dragon kiteshield ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 0.3
+	},
+	"22246": {
+		"name": "Anguish ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"22299": {
+		"name": "Ancient medallion",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 3
+	},
+	"22302": {
+		"name": "Ancient effigy",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 2.9
+	},
+	"22305": {
+		"name": "Ancient relic",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 2.9
+	},
+	"22324": {
+		"name": "Ghrazi rapier",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 3.5
+	},
+	"22326": {
+		"name": "Justiciar faceguard",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 3.4
+	},
+	"22327": {
+		"name": "Justiciar chestguard",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 3.5
+	},
+	"22328": {
+		"name": "Justiciar legguards",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 3.5
+	},
+	"22372": {
+		"name": "Bryophyta's essence",
+		"tabs": [
+			"Bryophyta"
+		],
+		"comp": 3.8
+	},
+	"22374": {
+		"name": "Mossy key",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 51.6
+	},
+	"22386": {
+		"name": "Metamorphic dust",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 1.9
+	},
+	"22388": {
+		"name": "Xeric's guard",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 2.3
+	},
+	"22390": {
+		"name": "Xeric's warrior",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 0.4
+	},
+	"22392": {
+		"name": "Xeric's sentinel",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 0.1
+	},
+	"22394": {
+		"name": "Xeric's general",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 0
+	},
+	"22396": {
+		"name": "Xeric's champion",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 0
+	},
+	"22446": {
+		"name": "Vial of blood",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 16.6
+	},
+	"22473": {
+		"name": "Lil' zik",
+		"tabs": [
+			"Theatre of Blood",
+			"All Pets"
+		],
+		"comp": 2.6
+	},
+	"22477": {
+		"name": "Avernic defender hilt",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 5.8
+	},
+	"22481": {
+		"name": "Sanguinesti staff (uncharged)",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 3.4
+	},
+	"22486": {
+		"name": "Scythe of vitur (uncharged)",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 2.5
+	},
+	"22494": {
+		"name": "Sinhaza shroud tier 1",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 2.9
+	},
+	"22496": {
+		"name": "Sinhaza shroud tier 2",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 1.5
+	},
+	"22498": {
+		"name": "Sinhaza shroud tier 3",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 0.7
+	},
+	"22500": {
+		"name": "Sinhaza shroud tier 4",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 0.3
+	},
+	"22502": {
+		"name": "Sinhaza shroud tier 5",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 0.2
+	},
+	"22542": {
+		"name": "Viggora's chainmace (u)",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 2.5
+	},
+	"22547": {
+		"name": "Craw's bow (u)",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 2.6
+	},
+	"22552": {
+		"name": "Thammaron's sceptre (u)",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 2.5
+	},
+	"22557": {
+		"name": "Amulet of avarice",
+		"tabs": [
+			"Revenants"
+		],
+		"comp": 3.6
+	},
+	"22746": {
+		"name": "Ikkle hydra",
+		"tabs": [
+			"Alchemical Hydra",
+			"All Pets"
+		],
+		"comp": 4.5
+	},
+	"22804": {
+		"name": "Dragon knife",
+		"tabs": [
+			"Alchemical Hydra",
+			"Slayer"
+		],
+		"comp": 22.8
+	},
+	"22838": {
+		"name": "Fish sack",
+		"tabs": [
+			"Aerial Fishing"
+		],
+		"comp": 0.7
+	},
+	"22840": {
+		"name": "Golden tench",
+		"tabs": [
+			"Aerial Fishing"
+		],
+		"comp": 3.1
+	},
+	"22842": {
+		"name": "Pearl barbarian rod",
+		"tabs": [
+			"Aerial Fishing"
+		],
+		"comp": 1.6
+	},
+	"22844": {
+		"name": "Pearl fly fishing rod",
+		"tabs": [
+			"Aerial Fishing"
+		],
+		"comp": 1.3
+	},
+	"22846": {
+		"name": "Pearl fishing rod",
+		"tabs": [
+			"Aerial Fishing"
+		],
+		"comp": 2.3
+	},
+	"22875": {
+		"name": "Hespori seed",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 80.3
+	},
+	"22881": {
+		"name": "Attas seed",
+		"tabs": [
+			"Hespori"
+		],
+		"comp": 59.8
+	},
+	"22883": {
+		"name": "Iasor seed",
+		"tabs": [
+			"Hespori"
+		],
+		"comp": 59.7
+	},
+	"22885": {
+		"name": "Kronos seed",
+		"tabs": [
+			"Hespori"
+		],
+		"comp": 59.8
+	},
+	"22957": {
+		"name": "Drake's claw",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 12.6
+	},
+	"22960": {
+		"name": "Drake's tooth",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 12.9
+	},
+	"22963": {
+		"name": "Broken dragon hasta",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 13.4
+	},
+	"22966": {
+		"name": "Hydra's claw",
+		"tabs": [
+			"Alchemical Hydra"
+		],
+		"comp": 10.7
+	},
+	"22969": {
+		"name": "Hydra's heart",
+		"tabs": [
+			"Alchemical Hydra",
+			"Slayer"
+		],
+		"comp": 11.3
+	},
+	"22971": {
+		"name": "Hydra's fang",
+		"tabs": [
+			"Alchemical Hydra",
+			"Slayer"
+		],
+		"comp": 13.6
+	},
+	"22973": {
+		"name": "Hydra's eye",
+		"tabs": [
+			"Alchemical Hydra",
+			"Slayer"
+		],
+		"comp": 16.7
+	},
+	"22983": {
+		"name": "Hydra leather",
+		"tabs": [
+			"Alchemical Hydra"
+		],
+		"comp": 12.9
+	},
+	"22988": {
+		"name": "Hydra tail",
+		"tabs": [
+			"Alchemical Hydra",
+			"Slayer"
+		],
+		"comp": 12.4
+	},
+	"22994": {
+		"name": "Bottomless compost bucket",
+		"tabs": [
+			"Hespori"
+		],
+		"comp": 33.9
+	},
+	"23047": {
+		"name": "Mystic hat (dusk)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 3.6
+	},
+	"23050": {
+		"name": "Mystic robe top (dusk)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 3.5
+	},
+	"23053": {
+		"name": "Mystic robe bottom (dusk)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 3.6
+	},
+	"23056": {
+		"name": "Mystic gloves (dusk)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 3.6
+	},
+	"23059": {
+		"name": "Mystic boots (dusk)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 3.6
+	},
+	"23064": {
+		"name": "Jar of chemicals",
+		"tabs": [
+			"Alchemical Hydra"
+		],
+		"comp": 5.5
+	},
+	"23077": {
+		"name": "Alchemical hydra heads",
+		"tabs": [
+			"Alchemical Hydra"
+		],
+		"comp": 15
+	},
+	"23185": {
+		"name": "Ring of 3rd age",
+		"tabs": [
+			"Elite Treasure Trails",
+			"Master Treasure Trails"
+		],
+		"comp": 2.3
+	},
+	"23188": {
+		"name": "Guthix d'hide shield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.2
+	},
+	"23191": {
+		"name": "Saradomin d'hide shield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.3
+	},
+	"23194": {
+		"name": "Zamorak d'hide shield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.3
+	},
+	"23197": {
+		"name": "Ancient d'hide shield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.3
+	},
+	"23200": {
+		"name": "Armadyl d'hide shield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.3
+	},
+	"23203": {
+		"name": "Bandos d'hide shield",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.3
+	},
+	"23206": {
+		"name": "Dual sai",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.5
+	},
+	"23209": {
+		"name": "Rune platebody (h1)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.7
+	},
+	"23212": {
+		"name": "Rune platebody (h2)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.7
+	},
+	"23215": {
+		"name": "Rune platebody (h3)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.7
+	},
+	"23218": {
+		"name": "Rune platebody (h4)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.7
+	},
+	"23221": {
+		"name": "Rune platebody (h5)",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 2.7
+	},
+	"23224": {
+		"name": "Thieving bag",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.6
+	},
+	"23227": {
+		"name": "Rune defender ornament kit",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.5
+	},
+	"23232": {
+		"name": "Tzhaar-ket-om ornament kit",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.5
+	},
+	"23237": {
+		"name": "Berserker necklace ornament kit",
+		"tabs": [
+			"Hard Treasure Trails"
+		],
+		"comp": 10.4
+	},
+	"23242": {
+		"name": "3rd age plateskirt",
+		"tabs": [
+			"Hard Treasure Trails (Rare)",
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.2
+	},
+	"23246": {
+		"name": "Fremennik kilt",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"23249": {
+		"name": "Rangers' tights",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"23252": {
+		"name": "Giant boot",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"23255": {
+		"name": "Uri's hat",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"23258": {
+		"name": "Gilded coif",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"23261": {
+		"name": "Gilded d'hide vambraces",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"23264": {
+		"name": "Gilded d'hide body",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"23267": {
+		"name": "Gilded d'hide chaps",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"23270": {
+		"name": "Adamant dragon mask",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.6
+	},
+	"23273": {
+		"name": "Rune dragon mask",
+		"tabs": [
+			"Elite Treasure Trails"
+		],
+		"comp": 4.5
+	},
+	"23276": {
+		"name": "Gilded pickaxe",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"23279": {
+		"name": "Gilded axe",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"23282": {
+		"name": "Gilded spade",
+		"tabs": [
+			"Elite Treasure Trails (Rare)",
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0.9
+	},
+	"23285": {
+		"name": "Mole slippers",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.3
+	},
+	"23288": {
+		"name": "Frog slippers",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23291": {
+		"name": "Bear feet",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23294": {
+		"name": "Demon feet",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23297": {
+		"name": "Jester cape",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23300": {
+		"name": "Shoulder parrot",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.1
+	},
+	"23303": {
+		"name": "Monk's robe top (t)",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23306": {
+		"name": "Monk's robe (t)",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23309": {
+		"name": "Amulet of defence (t)",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23312": {
+		"name": "Sandwich lady hat",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23315": {
+		"name": "Sandwich lady top",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23318": {
+		"name": "Sandwich lady bottom",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23321": {
+		"name": "Rune scimitar ornament kit (guthix)",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23324": {
+		"name": "Rune scimitar ornament kit (saradomin)",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23327": {
+		"name": "Rune scimitar ornament kit (zamorak)",
+		"tabs": [
+			"Beginner Treasure Trails"
+		],
+		"comp": 8.2
+	},
+	"23336": {
+		"name": "3rd age druidic robe top",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0
+	},
+	"23339": {
+		"name": "3rd age druidic robe bottoms",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0
+	},
+	"23342": {
+		"name": "3rd age druidic staff",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0
+	},
+	"23345": {
+		"name": "3rd age druidic cloak",
+		"tabs": [
+			"Master Treasure Trails (Rare)"
+		],
+		"comp": 0
+	},
+	"23348": {
+		"name": "Tormented ornament kit",
+		"tabs": [
+			"Master Treasure Trails"
+		],
+		"comp": 5.1
+	},
+	"23351": {
+		"name": "Cape of skulls",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 1.6
+	},
+	"23354": {
+		"name": "Amulet of power (t)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23357": {
+		"name": "Rain bow",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23360": {
+		"name": "Ham joint",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"23363": {
+		"name": "Staff of bob the cat",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23366": {
+		"name": "Black platebody (h1)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23369": {
+		"name": "Black platebody (h2)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.9
+	},
+	"23372": {
+		"name": "Black platebody (h3)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23375": {
+		"name": "Black platebody (h4)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23378": {
+		"name": "Black platebody (h5)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23381": {
+		"name": "Leather body (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23384": {
+		"name": "Leather chaps (g)",
+		"tabs": [
+			"Easy Treasure Trails"
+		],
+		"comp": 4.8
+	},
+	"23389": {
+		"name": "Spiked manacles",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.8
+	},
+	"23392": {
+		"name": "Adamant platebody (h1)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.7
+	},
+	"23395": {
+		"name": "Adamant platebody (h2)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.8
+	},
+	"23398": {
+		"name": "Adamant platebody (h3)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.7
+	},
+	"23401": {
+		"name": "Adamant platebody (h4)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.8
+	},
+	"23404": {
+		"name": "Adamant platebody (h5)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.8
+	},
+	"23407": {
+		"name": "Wolf mask",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.8
+	},
+	"23410": {
+		"name": "Wolf cloak",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.7
+	},
+	"23413": {
+		"name": "Climbing boots (g)",
+		"tabs": [
+			"Medium Treasure Trails"
+		],
+		"comp": 9.8
+	},
+	"23495": {
+		"name": "Sraracha",
+		"tabs": [
+			"Sarachnis",
+			"All Pets"
+		],
+		"comp": 2.5
+	},
+	"23517": {
+		"name": "Giant egg sac(full)",
+		"tabs": [
+			"Sarachnis"
+		],
+		"comp": 30
+	},
+	"23522": {
+		"name": "Mask of ranul",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 2.8
+	},
+	"23525": {
+		"name": "Jar of eyes",
+		"tabs": [
+			"Sarachnis"
+		],
+		"comp": 2.9
+	},
+	"23528": {
+		"name": "Sarachnis cudgel",
+		"tabs": [
+			"Sarachnis"
+		],
+		"comp": 8.8
+	},
+	"23757": {
+		"name": "Youngllef",
+		"tabs": [
+			"The Gauntlet",
+			"All Pets"
+		],
+		"comp": 6.6
+	},
+	"23760": {
+		"name": "Smolcano",
+		"tabs": [
+			"Zalcano",
+			"All Pets"
+		],
+		"comp": 1.7
+	},
+	"23859": {
+		"name": "Gauntlet cape",
+		"tabs": [
+			"The Gauntlet"
+		],
+		"comp": 30
+	},
+	"23908": {
+		"name": "Zalcano shard",
+		"tabs": [
+			"Zalcano"
+		],
+		"comp": 2.8
+	},
+	"23943": {
+		"name": "Elven signet",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 5.2
+	},
+	"23953": {
+		"name": "Crystal tool seed",
+		"tabs": [
+			"Zalcano"
+		],
+		"comp": 2.7
+	},
+	"23956": {
+		"name": "Crystal armour seed",
+		"tabs": [
+			"The Gauntlet"
+		],
+		"comp": 22.9
+	},
+	"23959": {
+		"name": "Enhanced crystal teleport seed",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 14.8
+	},
+	"24000": {
+		"name": "Crystal grail",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 4.1
+	},
+	"24034": {
+		"name": "Dragonstone full helm",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.7
+	},
+	"24037": {
+		"name": "Dragonstone platebody",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.7
+	},
+	"24040": {
+		"name": "Dragonstone platelegs",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.7
+	},
+	"24043": {
+		"name": "Dragonstone boots",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.7
+	},
+	"24046": {
+		"name": "Dragonstone gauntlets",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.7
+	},
+	"24189": {
+		"name": "Deadman's chest",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.6
+	},
+	"24190": {
+		"name": "Deadman's legs",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.6
+	},
+	"24191": {
+		"name": "Deadman's cape",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.6
+	},
+	"24192": {
+		"name": "Armadyl halo",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.4
+	},
+	"24195": {
+		"name": "Bandos halo",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.3
+	},
+	"24198": {
+		"name": "Seren halo",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.5
+	},
+	"24201": {
+		"name": "Ancient halo",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.4
+	},
+	"24204": {
+		"name": "Brassica halo",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.3
+	},
+	"24207": {
+		"name": "Victor's cape (1)",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 7.8
+	},
+	"24209": {
+		"name": "Victor's cape (10)",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 3
+	},
+	"24211": {
+		"name": "Victor's cape (50)",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.1
+	},
+	"24213": {
+		"name": "Victor's cape (100)",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.6
+	},
+	"24215": {
+		"name": "Victor's cape (500)",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.1
+	},
+	"24217": {
+		"name": "Guthixian icon",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.4
+	},
+	"24219": {
+		"name": "Swift blade",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.1
+	},
+	"24229": {
+		"name": "Ornate maul handle",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 4.1
+	},
+	"24268": {
+		"name": "Basilisk jaw",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 18.8
+	},
+	"24288": {
+		"name": "Dagon'hai hat",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 2.7
+	},
+	"24291": {
+		"name": "Dagon'hai robe top",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 2.8
+	},
+	"24294": {
+		"name": "Dagon'hai robe bottom",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 2.8
+	},
+	"24417": {
+		"name": "Inquisitor's mace",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 0.7
+	},
+	"24419": {
+		"name": "Inquisitor's great helm",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 1.1
+	},
+	"24420": {
+		"name": "Inquisitor's hauberk",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 1
+	},
+	"24421": {
+		"name": "Inquisitor's plateskirt",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 1.1
+	},
+	"24422": {
+		"name": "Nightmare staff",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 1.4
+	},
+	"24491": {
+		"name": "Little nightmare",
+		"tabs": [
+			"The Nightmare",
+			"All Pets"
+		],
+		"comp": 0.8
+	},
+	"24495": {
+		"name": "Jar of dreams",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 0.6
+	},
+	"24511": {
+		"name": "Harmonised orb",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 0.5
+	},
+	"24514": {
+		"name": "Volatile orb",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 0.5
+	},
+	"24517": {
+		"name": "Eldritch orb",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 0.5
+	},
+	"24520": {
+		"name": "Victor's cape (1000)",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0
+	},
+	"24670": {
+		"name": "Twisted ancestral colour kit",
+		"tabs": [
+			"Chambers of Xeric"
+		],
+		"comp": 4.4
+	},
+	"24711": {
+		"name": "Hallowed mark",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 23
+	},
+	"24719": {
+		"name": "Hallowed token",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 7.2
+	},
+	"24721": {
+		"name": "Hallowed grapple",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 12.5
+	},
+	"24723": {
+		"name": "Hallowed focus",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 10.8
+	},
+	"24725": {
+		"name": "Hallowed symbol",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 11.5
+	},
+	"24727": {
+		"name": "Hallowed hammer",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 10.1
+	},
+	"24729": {
+		"name": "Dark dye",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 6.2
+	},
+	"24731": {
+		"name": "Hallowed ring",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 11.6
+	},
+	"24733": {
+		"name": "Dark acorn",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 2.2
+	},
+	"24740": {
+		"name": "Strange old lockpick (full)",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 13.9
+	},
+	"24763": {
+		"name": "Mysterious page",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 14.6
+	},
+	"24765": {
+		"name": "Mysterious page",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 15.4
+	},
+	"24767": {
+		"name": "Mysterious page",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 16.8
+	},
+	"24769": {
+		"name": "Mysterious page",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 10.9
+	},
+	"24771": {
+		"name": "Mysterious page",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 5.2
+	},
+	"24777": {
+		"name": "Blood shard",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 18.6
+	},
+	"24844": {
+		"name": "Ring of endurance (uncharged)",
+		"tabs": [
+			"Hallowed Sepulchre"
+		],
+		"comp": 2.9
+	},
+	"24862": {
+		"name": "Karamjan monkey",
+		"tabs": [
+			"Monkey Backpacks"
+		],
+		"comp": 6.6
+	},
+	"24863": {
+		"name": "Zombie monkey",
+		"tabs": [
+			"Monkey Backpacks"
+		],
+		"comp": 5.9
+	},
+	"24864": {
+		"name": "Maniacal monkey",
+		"tabs": [
+			"Monkey Backpacks"
+		],
+		"comp": 5.3
+	},
+	"24865": {
+		"name": "Skeleton monkey",
+		"tabs": [
+			"Monkey Backpacks"
+		],
+		"comp": 4.6
+	},
+	"24866": {
+		"name": "Kruk jr",
+		"tabs": [
+			"Monkey Backpacks"
+		],
+		"comp": 4.3
+	},
+	"24867": {
+		"name": "Princely monkey",
+		"tabs": [
+			"Monkey Backpacks"
+		],
+		"comp": 4.2
+	},
+	"24868": {
+		"name": "Golden armadyl special attack",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1
+	},
+	"24869": {
+		"name": "Golden bandos special attack",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.7
+	},
+	"24870": {
+		"name": "Golden saradomin special attack",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 1.1
+	},
+	"24871": {
+		"name": "Golden zamorak special attack",
+		"tabs": [
+			"Last Man Standing"
+		],
+		"comp": 0.9
+	},
+	"24872": {
+		"name": "Carpenter's helmet",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 18.4
+	},
+	"24874": {
+		"name": "Carpenter's shirt",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 15.2
+	},
+	"24876": {
+		"name": "Carpenter's trousers",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 16.3
+	},
+	"24878": {
+		"name": "Carpenter's boots",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 20.4
+	},
+	"24880": {
+		"name": "Amy's saw",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 12.4
+	},
+	"24884": {
+		"name": "Supply crate",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 12.7
+	},
+	"24885": {
+		"name": "Hosidius blueprints",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 5.4
+	},
+	"25129": {
+		"name": "Beekeeper's hat",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 47
+	},
+	"25131": {
+		"name": "Beekeeper's top",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 47.2
+	},
+	"25133": {
+		"name": "Beekeeper's legs",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 47.1
+	},
+	"25135": {
+		"name": "Beekeeper's gloves",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 47
+	},
+	"25137": {
+		"name": "Beekeeper's boots",
+		"tabs": [
+			"Random Events"
+		],
+		"comp": 47
+	},
+	"25163": {
+		"name": "Decorative boots",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.3
+	},
+	"25165": {
+		"name": "Decorative full helm",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 4.2
+	},
+	"25167": {
+		"name": "Decorative boots",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.3
+	},
+	"25169": {
+		"name": "Decorative full helm",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 3.2
+	},
+	"25171": {
+		"name": "Decorative boots",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.4
+	},
+	"25174": {
+		"name": "Decorative full helm",
+		"tabs": [
+			"Castle Wars"
+		],
+		"comp": 1.3
+	},
+	"25340": {
+		"name": "Ectoplasmator",
+		"tabs": [
+			"Soul Wars"
+		],
+		"comp": 2.9
+	},
+	"25346": {
+		"name": "Soul cape",
+		"tabs": [
+			"Soul Wars"
+		],
+		"comp": 0.5
+	},
+	"25348": {
+		"name": "Lil' creator",
+		"tabs": [
+			"Soul Wars",
+			"All Pets"
+		],
+		"comp": 1.1
+	},
+	"25434": {
+		"name": "Zealot's robe top",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 4.5
+	},
+	"25436": {
+		"name": "Zealot's robe bottom",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 4.6
+	},
+	"25438": {
+		"name": "Zealot's helm",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 5
+	},
+	"25440": {
+		"name": "Zealot's boots",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 6.1
+	},
+	"25442": {
+		"name": "Bronze locks",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 3.3
+	},
+	"25445": {
+		"name": "Steel locks",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 3.2
+	},
+	"25448": {
+		"name": "Black locks",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 3.6
+	},
+	"25451": {
+		"name": "Silver locks",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 6.6
+	},
+	"25454": {
+		"name": "Gold locks",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 7.2
+	},
+	"25474": {
+		"name": "Tree wizards' journal",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 8.3
+	},
+	"25476": {
+		"name": "Bloody notes",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 8.6
+	},
+	"25521": {
+		"name": "Jar of spirits",
+		"tabs": [
+			"Corporeal Beast"
+		],
+		"comp": 1.3
+	},
+	"25524": {
+		"name": "Jar of smoke",
+		"tabs": [
+			"Thermonuclear Smoke Devil"
+		],
+		"comp": 4.3
+	},
+	"25539": {
+		"name": "Celestial ring (uncharged)",
+		"tabs": [
+			"Shooting Stars"
+		],
+		"comp": 46.5
+	},
+	"25547": {
+		"name": "Star fragment",
+		"tabs": [
+			"Shooting Stars"
+		],
+		"comp": 20.7
+	},
+	"25559": {
+		"name": "Big harpoonfish",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 10.9
+	},
+	"25576": {
+		"name": "Tome of water (empty)",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 11.2
+	},
+	"25578": {
+		"name": "Soaked page",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 56.9
+	},
+	"25580": {
+		"name": "Tackle box",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 28.6
+	},
+	"25582": {
+		"name": "Fish barrel",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 33.8
+	},
+	"25588": {
+		"name": "Spirit flakes",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 68.3
+	},
+	"25592": {
+		"name": "Spirit angler headband",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 22.8
+	},
+	"25594": {
+		"name": "Spirit angler top",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 23.8
+	},
+	"25596": {
+		"name": "Spirit angler waders",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 22.1
+	},
+	"25598": {
+		"name": "Spirit angler boots",
+		"tabs": [
+			"Tempoross"
+		],
+		"comp": 20.4
+	},
+	"25602": {
+		"name": "Tiny tempor",
+		"tabs": [
+			"Tempoross",
+			"All Pets"
+		],
+		"comp": 2.9
+	},
+	"25615": {
+		"name": "Large water container",
+		"tabs": [
+			"Volcanic Mine"
+		],
+		"comp": 3.4
+	},
+	"25617": {
+		"name": "Tea flask",
+		"tabs": [
+			"Creature Creation"
+		],
+		"comp": 23.6
+	},
+	"25618": {
+		"name": "Plain satchel",
+		"tabs": [
+			"Creature Creation"
+		],
+		"comp": 5.1
+	},
+	"25619": {
+		"name": "Green satchel",
+		"tabs": [
+			"Creature Creation"
+		],
+		"comp": 12.8
+	},
+	"25620": {
+		"name": "Red satchel",
+		"tabs": [
+			"Creature Creation"
+		],
+		"comp": 17.6
+	},
+	"25621": {
+		"name": "Black satchel",
+		"tabs": [
+			"Creature Creation"
+		],
+		"comp": 10.8
+	},
+	"25622": {
+		"name": "Gold satchel",
+		"tabs": [
+			"Creature Creation"
+		],
+		"comp": 5.1
+	},
+	"25623": {
+		"name": "Rune satchel",
+		"tabs": [
+			"Creature Creation"
+		],
+		"comp": 5.7
+	},
+	"25624": {
+		"name": "Unsired",
+		"tabs": [
+			"Abyssal Sire"
+		],
+		"comp": 18.6
+	},
+	"25627": {
+		"name": "Coal bag",
+		"tabs": [
+			"Motherlode Mine"
+		],
+		"comp": 39.1
+	},
+	"25628": {
+		"name": "Gem bag",
+		"tabs": [
+			"Motherlode Mine"
+		],
+		"comp": 29.1
+	},
+	"25629": {
+		"name": "Plank sack",
+		"tabs": [
+			"Mahogany Homes"
+		],
+		"comp": 31.3
+	},
+	"25630": {
+		"name": "Flamtaer bag",
+		"tabs": [
+			"Shades of Mort'ton"
+		],
+		"comp": 19.1
+	},
+	"25635": {
+		"name": "Barronite head",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 16.5
+	},
+	"25637": {
+		"name": "Barronite handle",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 9.1
+	},
+	"25639": {
+		"name": "Barronite guard",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 8.9
+	},
+	"25641": {
+		"name": "Barronite mace",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 8.1
+	},
+	"25644": {
+		"name": "Imcando hammer",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 21
+	},
+	"25686": {
+		"name": "Ancient globe",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 13.6
+	},
+	"25688": {
+		"name": "Ancient ledger",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 13.6
+	},
+	"25690": {
+		"name": "Ancient astroscope",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 13.7
+	},
+	"25692": {
+		"name": "Ancient treatise",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 13.6
+	},
+	"25694": {
+		"name": "Ancient carcanet",
+		"tabs": [
+			"Camdozaal"
+		],
+		"comp": 13.7
+	},
+	"25742": {
+		"name": "Holy ornament kit",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 1.6
+	},
+	"25744": {
+		"name": "Sanguine ornament kit",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 1.4
+	},
+	"25746": {
+		"name": "Sanguine dust",
+		"tabs": [
+			"Theatre of Blood"
+		],
+		"comp": 1
+	},
+	"25837": {
+		"name": "Slepey tablet",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 3.8
+	},
+	"25838": {
+		"name": "Parasitic egg",
+		"tabs": [
+			"The Nightmare"
+		],
+		"comp": 2
+	},
+	"25844": {
+		"name": "Orange egg sac",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 5.3
+	},
+	"25846": {
+		"name": "Blue egg sac",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 5.4
+	},
+	"25859": {
+		"name": "Enhanced crystal weapon seed",
+		"tabs": [
+			"The Gauntlet"
+		],
+		"comp": 13.2
+	},
+	"25975": {
+		"name": "Lightbearer",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 13.4
+	},
+	"25985": {
+		"name": "Elidinis' ward",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 9.1
+	},
+	"26219": {
+		"name": "Osmumten's fang",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 13.6
+	},
+	"26221": {
+		"name": "Ancient ceremonial top",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 8
+	},
+	"26223": {
+		"name": "Ancient ceremonial legs",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 8
+	},
+	"26225": {
+		"name": "Ancient ceremonial mask",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 8
+	},
+	"26227": {
+		"name": "Ancient ceremonial gloves",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 8
+	},
+	"26229": {
+		"name": "Ancient ceremonial boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 8.1
+	},
+	"26231": {
+		"name": "Nihil shard",
+		"tabs": [
+			"Nex"
+		],
+		"comp": 18.2
+	},
+	"26235": {
+		"name": "Zaryte vambraces",
+		"tabs": [
+			"Nex"
+		],
+		"comp": 2.6
+	},
+	"26241": {
+		"name": "Virtus mask",
+		"tabs": [
+			"Duke Sucellus",
+			"The Leviathan",
+			"Vardorvis",
+			"The Whisperer"
+		],
+		"comp": 5.7
+	},
+	"26243": {
+		"name": "Virtus robe top",
+		"tabs": [
+			"Duke Sucellus",
+			"The Leviathan",
+			"Vardorvis",
+			"The Whisperer"
+		],
+		"comp": 5.7
+	},
+	"26245": {
+		"name": "Virtus robe bottom",
+		"tabs": [
+			"Duke Sucellus",
+			"The Leviathan",
+			"Vardorvis",
+			"The Whisperer"
+		],
+		"comp": 5.7
+	},
+	"26348": {
+		"name": "Nexling",
+		"tabs": [
+			"Nex",
+			"All Pets"
+		],
+		"comp": 1.4
+	},
+	"26370": {
+		"name": "Ancient hilt",
+		"tabs": [
+			"Nex"
+		],
+		"comp": 1.3
+	},
+	"26372": {
+		"name": "Nihil horn",
+		"tabs": [
+			"Nex"
+		],
+		"comp": 2.1
+	},
+	"26376": {
+		"name": "Torva full helm (damaged)",
+		"tabs": [
+			"Nex"
+		],
+		"comp": 2.1
+	},
+	"26378": {
+		"name": "Torva platebody (damaged)",
+		"tabs": [
+			"Nex"
+		],
+		"comp": 2.1
+	},
+	"26380": {
+		"name": "Torva platelegs (damaged)",
+		"tabs": [
+			"Nex"
+		],
+		"comp": 2.1
+	},
+	"26792": {
+		"name": "Abyssal pearls",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 69.3
+	},
+	"26798": {
+		"name": "Catalytic talisman",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 40.5
+	},
+	"26807": {
+		"name": "Abyssal green dye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 14.2
+	},
+	"26809": {
+		"name": "Abyssal blue dye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 14.3
+	},
+	"26811": {
+		"name": "Abyssal red dye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 14.3
+	},
+	"26813": {
+		"name": "Abyssal needle",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 35.2
+	},
+	"26815": {
+		"name": "Ring of the elements",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 7.6
+	},
+	"26820": {
+		"name": "Guardian's eye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 1.8
+	},
+	"26822": {
+		"name": "Abyssal lantern",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 21.3
+	},
+	"26850": {
+		"name": "Hat of the eye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 26.5
+	},
+	"26852": {
+		"name": "Robe top of the eye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 22.6
+	},
+	"26854": {
+		"name": "Robe bottoms of the eye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 27.7
+	},
+	"26856": {
+		"name": "Boots of the eye",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 34.6
+	},
+	"26901": {
+		"name": "Abyssal protector",
+		"tabs": [
+			"Guardians of the Rift",
+			"All Pets"
+		],
+		"comp": 5.4
+	},
+	"26908": {
+		"name": "Intricate pouch",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 63.5
+	},
+	"26910": {
+		"name": "Tarnished locket",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 15.4
+	},
+	"26912": {
+		"name": "Lost bag",
+		"tabs": [
+			"Guardians of the Rift"
+		],
+		"comp": 11
+	},
+	"26945": {
+		"name": "Pharaoh's sceptre (uncharged)",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 17.8
+	},
+	"27012": {
+		"name": "Double ammo mould",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 19.9
+	},
+	"27014": {
+		"name": "Kovac's grog",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 19.4
+	},
+	"27017": {
+		"name": "Smithing catalyst",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 9.8
+	},
+	"27019": {
+		"name": "Ore pack",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 9.3
+	},
+	"27021": {
+		"name": "Colossal blade",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 6.3
+	},
+	"27023": {
+		"name": "Smiths tunic",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 10.9
+	},
+	"27025": {
+		"name": "Smiths trousers",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 10.3
+	},
+	"27027": {
+		"name": "Smiths boots",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 11.5
+	},
+	"27029": {
+		"name": "Smiths gloves",
+		"tabs": [
+			"Giants' Foundry"
+		],
+		"comp": 13.9
+	},
+	"27226": {
+		"name": "Masori mask",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 7.3
+	},
+	"27229": {
+		"name": "Masori body",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 7.4
+	},
+	"27232": {
+		"name": "Masori chaps",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 7.4
+	},
+	"27248": {
+		"name": "Cursed phalanx",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 5
+	},
+	"27255": {
+		"name": "Menaphite ornament kit",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 6.1
+	},
+	"27257": {
+		"name": "Icthlarin's shroud (tier 1)",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 7.4
+	},
+	"27259": {
+		"name": "Icthlarin's shroud (tier 2)",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 1.5
+	},
+	"27261": {
+		"name": "Icthlarin's shroud (tier 3)",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 0.3
+	},
+	"27263": {
+		"name": "Icthlarin's shroud (tier 4)",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 0.1
+	},
+	"27265": {
+		"name": "Icthlarin's shroud (tier 5)",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 0
+	},
+	"27277": {
+		"name": "Tumeken's shadow (uncharged)",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 5.1
+	},
+	"27279": {
+		"name": "Thread of elidinis",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 32.8
+	},
+	"27283": {
+		"name": "Breach of the scarab",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 18.8
+	},
+	"27285": {
+		"name": "Eye of the corruptor",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 18.7
+	},
+	"27289": {
+		"name": "Jewel of the sun",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 18.7
+	},
+	"27293": {
+		"name": "Cache of runes",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 30.3
+	},
+	"27352": {
+		"name": "Tumeken's guardian",
+		"tabs": [
+			"Tombs of Amascut",
+			"All Pets"
+		],
+		"comp": 4.4
+	},
+	"27372": {
+		"name": "Masori crafting kit",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 14.1
+	},
+	"27377": {
+		"name": "Remnant of akkha",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 1.8
+	},
+	"27378": {
+		"name": "Remnant of ba-ba",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 3.5
+	},
+	"27379": {
+		"name": "Remnant of kephri",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 1.3
+	},
+	"27380": {
+		"name": "Remnant of zebak",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 2.9
+	},
+	"27381": {
+		"name": "Ancient remnant",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 3.8
+	},
+	"27590": {
+		"name": "Muphin",
+		"tabs": [
+			"Phantom Muspah",
+			"All Pets"
+		],
+		"comp": 1.8
+	},
+	"27614": {
+		"name": "Venator shard",
+		"tabs": [
+			"Phantom Muspah"
+		],
+		"comp": 14.7
+	},
+	"27616": {
+		"name": "Ancient essence",
+		"tabs": [
+			"Phantom Muspah"
+		],
+		"comp": 26.5
+	},
+	"27622": {
+		"name": "Frozen cache",
+		"tabs": [
+			"Phantom Muspah"
+		],
+		"comp": 20.7
+	},
+	"27627": {
+		"name": "Ancient icon",
+		"tabs": [
+			"Phantom Muspah"
+		],
+		"comp": 20.2
+	},
+	"27643": {
+		"name": "Charged ice",
+		"tabs": [
+			"Phantom Muspah"
+		],
+		"comp": 18.4
+	},
+	"27667": {
+		"name": "Claws of callisto",
+		"tabs": [
+			"Callisto and Artio"
+		],
+		"comp": 5.9
+	},
+	"27670": {
+		"name": "Fangs of venenatis",
+		"tabs": [
+			"Venenatis and Spindel"
+		],
+		"comp": 5.6
+	},
+	"27673": {
+		"name": "Skull of vet'ion",
+		"tabs": [
+			"Vet'ion and Calvar'ion"
+		],
+		"comp": 7.8
+	},
+	"27681": {
+		"name": "Voidwaker hilt",
+		"tabs": [
+			"Callisto and Artio"
+		],
+		"comp": 5.8
+	},
+	"27684": {
+		"name": "Voidwaker blade",
+		"tabs": [
+			"Vet'ion and Calvar'ion"
+		],
+		"comp": 7.2
+	},
+	"27687": {
+		"name": "Voidwaker gem",
+		"tabs": [
+			"Venenatis and Spindel"
+		],
+		"comp": 5.4
+	},
+	"27695": {
+		"name": "Dragon pickaxe (broken)",
+		"tabs": [
+			"Volcanic Mine"
+		],
+		"comp": 0.9
+	},
+	"28138": {
+		"name": "Funky shaped log",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 4.7
+	},
+	"28140": {
+		"name": "Log basket",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 27.6
+	},
+	"28146": {
+		"name": "Log brace",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 10.4
+	},
+	"28166": {
+		"name": "Clothes pouch blueprint",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 6.7
+	},
+	"28169": {
+		"name": "Forestry top",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 9.2
+	},
+	"28171": {
+		"name": "Forestry legs",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 9.2
+	},
+	"28173": {
+		"name": "Forestry hat",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 9.2
+	},
+	"28175": {
+		"name": "Forestry boots",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 9
+	},
+	"28177": {
+		"name": "Felling axe handle",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 12.3
+	},
+	"28246": {
+		"name": "Wisp",
+		"tabs": [
+			"The Whisperer",
+			"All Pets"
+		],
+		"comp": 1.3
+	},
+	"28248": {
+		"name": "Butch",
+		"tabs": [
+			"Vardorvis",
+			"All Pets"
+		],
+		"comp": 2.6
+	},
+	"28250": {
+		"name": "Baron",
+		"tabs": [
+			"Duke Sucellus",
+			"All Pets"
+		],
+		"comp": 2.5
+	},
+	"28252": {
+		"name": "Lil'viathan",
+		"tabs": [
+			"The Leviathan",
+			"All Pets"
+		],
+		"comp": 1.3
+	},
+	"28268": {
+		"name": "Blood quartz",
+		"tabs": [
+			"Vardorvis"
+		],
+		"comp": 10.9
+	},
+	"28270": {
+		"name": "Ice quartz",
+		"tabs": [
+			"Duke Sucellus"
+		],
+		"comp": 12.1
+	},
+	"28272": {
+		"name": "Shadow quartz",
+		"tabs": [
+			"The Whisperer"
+		],
+		"comp": 5
+	},
+	"28274": {
+		"name": "Smoke quartz",
+		"tabs": [
+			"The Leviathan"
+		],
+		"comp": 5.5
+	},
+	"28276": {
+		"name": "Chromium ingot",
+		"tabs": [
+			"Duke Sucellus",
+			"The Leviathan",
+			"Vardorvis",
+			"The Whisperer"
+		],
+		"comp": 14.4
+	},
+	"28279": {
+		"name": "Bellator vestige",
+		"tabs": [
+			"The Whisperer"
+		],
+		"comp": 2.7
+	},
+	"28281": {
+		"name": "Magus vestige",
+		"tabs": [
+			"Duke Sucellus"
+		],
+		"comp": 5.4
+	},
+	"28283": {
+		"name": "Venator vestige",
+		"tabs": [
+			"The Leviathan"
+		],
+		"comp": 2.5
+	},
+	"28285": {
+		"name": "Ultor vestige",
+		"tabs": [
+			"Vardorvis"
+		],
+		"comp": 5.5
+	},
+	"28319": {
+		"name": "Executioner's axe head",
+		"tabs": [
+			"Vardorvis"
+		],
+		"comp": 5.6
+	},
+	"28321": {
+		"name": "Eye of the duke",
+		"tabs": [
+			"Duke Sucellus"
+		],
+		"comp": 6.7
+	},
+	"28323": {
+		"name": "Siren's staff",
+		"tabs": [
+			"The Whisperer"
+		],
+		"comp": 3.8
+	},
+	"28325": {
+		"name": "Leviathan's lure",
+		"tabs": [
+			"The Leviathan"
+		],
+		"comp": 3.6
+	},
+	"28330": {
+		"name": "Strangled tablet",
+		"tabs": [
+			"Vardorvis"
+		],
+		"comp": 15.2
+	},
+	"28331": {
+		"name": "Sirenic tablet",
+		"tabs": [
+			"The Whisperer"
+		],
+		"comp": 8.4
+	},
+	"28332": {
+		"name": "Scarred tablet",
+		"tabs": [
+			"The Leviathan"
+		],
+		"comp": 9.2
+	},
+	"28333": {
+		"name": "Frozen tablet",
+		"tabs": [
+			"Duke Sucellus"
+		],
+		"comp": 20
+	},
+	"28334": {
+		"name": "Awakener's orb",
+		"tabs": [
+			"Duke Sucellus",
+			"The Leviathan",
+			"Vardorvis",
+			"The Whisperer"
+		],
+		"comp": 19.8
+	},
+	"28583": {
+		"name": "Warped sceptre (uncharged)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 10.8
+	},
+	"28613": {
+		"name": "Cape pouch",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 6.6
+	},
+	"28616": {
+		"name": "Pheasant cape",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 11.9
+	},
+	"28618": {
+		"name": "Pheasant boots",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 12
+	},
+	"28620": {
+		"name": "Pheasant hat",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 12.6
+	},
+	"28622": {
+		"name": "Pheasant legs",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 12.3
+	},
+	"28626": {
+		"name": "Fox whistle",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 7.7
+	},
+	"28630": {
+		"name": "Twitcher's gloves",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 10.4
+	},
+	"28655": {
+		"name": "Petal garland",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 8.4
+	},
+	"28663": {
+		"name": "Golden pheasant egg",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 6.7
+	},
+	"28674": {
+		"name": "Sturdy beehive parts",
+		"tabs": [
+			"Forestry"
+		],
+		"comp": 38.2
+	},
+	"28798": {
+		"name": "Scurrius' spine",
+		"tabs": [
+			"Scurrius"
+		],
+		"comp": 34
+	},
+	"28801": {
+		"name": "Scurry",
+		"tabs": [
+			"Scurrius",
+			"All Pets"
+		],
+		"comp": 1.5
+	},
+	"28813": {
+		"name": "Broken zombie axe",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 20.1
+	},
+	"28919": {
+		"name": "Tonalztics of ralos (uncharged)",
+		"tabs": [
+			"Fortis Colosseum"
+		],
+		"comp": 1.6
+	},
+	"28924": {
+		"name": "Sunfire splinters",
+		"tabs": [
+			"Fortis Colosseum"
+		],
+		"comp": 46.9
+	},
+	"28933": {
+		"name": "Sunfire fanatic helm",
+		"tabs": [
+			"Fortis Colosseum"
+		],
+		"comp": 4
+	},
+	"28936": {
+		"name": "Sunfire fanatic cuirass",
+		"tabs": [
+			"Fortis Colosseum"
+		],
+		"comp": 4.6
+	},
+	"28939": {
+		"name": "Sunfire fanatic chausses",
+		"tabs": [
+			"Fortis Colosseum"
+		],
+		"comp": 3.9
+	},
+	"28942": {
+		"name": "Echo crystal",
+		"tabs": [
+			"Fortis Colosseum"
+		],
+		"comp": 5
+	},
+	"28947": {
+		"name": "Dizana's quiver (uncharged)",
+		"tabs": [
+			"Fortis Colosseum"
+		],
+		"comp": 7.9
+	},
+	"28960": {
+		"name": "Smol heredit",
+		"tabs": [
+			"Fortis Colosseum",
+			"All Pets"
+		],
+		"comp": 0.7
+	},
+	"28962": {
+		"name": "Quetzin",
+		"tabs": [
+			"All Pets",
+			"Hunter Guild"
+		],
+		"comp": 3.4
+	},
+	"28988": {
+		"name": "Blue moon spear",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 18.5
+	},
+	"28991": {
+		"name": "Atlatl dart",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 51.7
+	},
+	"28997": {
+		"name": "Dual macuahuitl",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 18.9
+	},
+	"29000": {
+		"name": "Eclipse atlatl",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 18.2
+	},
+	"29004": {
+		"name": "Eclipse moon chestplate",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 13.5
+	},
+	"29007": {
+		"name": "Eclipse moon tassets",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 12.3
+	},
+	"29010": {
+		"name": "Eclipse moon helm",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 15.3
+	},
+	"29013": {
+		"name": "Blue moon chestplate",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 14.2
+	},
+	"29016": {
+		"name": "Blue moon tassets",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 12.9
+	},
+	"29019": {
+		"name": "Blue moon helm",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 15.9
+	},
+	"29022": {
+		"name": "Blood moon chestplate",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 14.2
+	},
+	"29025": {
+		"name": "Blood moon tassets",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 13.2
+	},
+	"29028": {
+		"name": "Blood moon helm",
+		"tabs": [
+			"Moons of Peril"
+		],
+		"comp": 15.9
+	},
+	"29084": {
+		"name": "Sulphur blades",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 12.2
+	},
+	"29263": {
+		"name": "Guild hunter headwear",
+		"tabs": [
+			"Hunter Guild"
+		],
+		"comp": 22.7
+	},
+	"29265": {
+		"name": "Guild hunter top",
+		"tabs": [
+			"Hunter Guild"
+		],
+		"comp": 15.4
+	},
+	"29267": {
+		"name": "Guild hunter legs",
+		"tabs": [
+			"Hunter Guild"
+		],
+		"comp": 11.4
+	},
+	"29269": {
+		"name": "Guild hunter boots",
+		"tabs": [
+			"Hunter Guild"
+		],
+		"comp": 8.9
+	},
+	"29309": {
+		"name": "Huntsman's kit",
+		"tabs": [
+			"Hunter Guild"
+		],
+		"comp": 23
+	},
+	"29455": {
+		"name": "Teleport anchoring scroll",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 3.1
+	},
+	"29472": {
+		"name": null,
+		"tabs": [],
+		"comp": 64.9
+	},
+	"29474": {
+		"name": null,
+		"tabs": [],
+		"comp": 53.2
+	},
+	"29476": {
+		"name": null,
+		"tabs": [],
+		"comp": 54.5
+	},
+	"29478": {
+		"name": null,
+		"tabs": [],
+		"comp": 55.5
+	},
+	"29482": {
+		"name": "Brimhaven voucher",
+		"tabs": [
+			"Brimhaven Agility Arena"
+		],
+		"comp": 25.4
+	},
+	"29574": {
+		"name": "Burning claw",
+		"tabs": [
+			"Tormented Demons"
+		],
+		"comp": 18.6
+	},
+	"29580": {
+		"name": "Tormented synapse",
+		"tabs": [
+			"Tormented Demons"
+		],
+		"comp": 20.6
+	},
+	"29684": {
+		"name": "Guthixian temple teleport",
+		"tabs": [
+			"Tormented Demons"
+		],
+		"comp": 32.8
+	},
+	"29781": {
+		"name": "Coagulated venom",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 10.5
+	},
+	"29782": {
+		"name": "Spider cave teleport",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 21.4
+	},
+	"29784": {
+		"name": "Araxyte venom sac",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 25.3
+	},
+	"29786": {
+		"name": "Jar of venom",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 5.6
+	},
+	"29788": {
+		"name": "Araxyte head",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 16.6
+	},
+	"29790": {
+		"name": "Noxious point",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 12.9
+	},
+	"29792": {
+		"name": "Noxious blade",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 12.9
+	},
+	"29794": {
+		"name": "Noxious pommel",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 12.9
+	},
+	"29799": {
+		"name": "Araxyte fang",
+		"tabs": [
+			"Araxxor"
+		],
+		"comp": 12.1
+	},
+	"29806": {
+		"name": "Aranea boots",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 10.4
+	},
+	"29836": {
+		"name": "Nid",
+		"tabs": [
+			"Araxxor",
+			"All Pets"
+		],
+		"comp": 4
+	},
+	"29889": {
+		"name": "Glacial temotli",
+		"tabs": [
+			"Amoxliatl",
+			"Slayer"
+		],
+		"comp": 13.7
+	},
+	"29892": {
+		"name": "Pendant of ates (inert)",
+		"tabs": [
+			"Amoxliatl",
+			"Slayer"
+		],
+		"comp": 27.3
+	},
+	"29895": {
+		"name": "Frozen tear",
+		"tabs": [
+			"Amoxliatl",
+			"Slayer"
+		],
+		"comp": 34.6
+	},
+	"29974": {
+		"name": "Prescription goggles",
+		"tabs": [
+			"Mastering Mixology"
+		],
+		"comp": 12.2
+	},
+	"29978": {
+		"name": "Alchemist labcoat",
+		"tabs": [
+			"Mastering Mixology"
+		],
+		"comp": 2.7
+	},
+	"29982": {
+		"name": "Alchemist pants",
+		"tabs": [
+			"Mastering Mixology"
+		],
+		"comp": 2.6
+	},
+	"29986": {
+		"name": "Alchemist gloves",
+		"tabs": [
+			"Mastering Mixology"
+		],
+		"comp": 2.6
+	},
+	"29992": {
+		"name": "Alchemist's amulet",
+		"tabs": [
+			"Mastering Mixology"
+		],
+		"comp": 11.7
+	},
+	"29996": {
+		"name": "Reagent pouch",
+		"tabs": [
+			"Mastering Mixology"
+		],
+		"comp": 4.2
+	},
+	"30002": {
+		"name": "Chugging barrel (disassembled)",
+		"tabs": [
+			"Mastering Mixology"
+		],
+		"comp": 3.5
+	},
+	"30040": {
+		"name": "Colossal wyrm teleport scroll",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 7.6
+	},
+	"30042": {
+		"name": "Calcified acorn",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 5.5
+	},
+	"30045": {
+		"name": "Graceful hood",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 9.8
+	},
+	"30048": {
+		"name": "Graceful cape",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 9.8
+	},
+	"30051": {
+		"name": "Graceful top",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 9.8
+	},
+	"30054": {
+		"name": "Graceful legs",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 9.8
+	},
+	"30057": {
+		"name": "Graceful gloves",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 9.8
+	},
+	"30060": {
+		"name": "Graceful boots",
+		"tabs": [
+			"Colossal Wyrm Agility"
+		],
+		"comp": 9.8
+	},
+	"30066": {
+		"name": "Tome of earth (empty)",
+		"tabs": [
+			"The Hueycoatl"
+		],
+		"comp": 4.5
+	},
+	"30068": {
+		"name": "Soiled page",
+		"tabs": [
+			"The Hueycoatl"
+		],
+		"comp": 23.4
+	},
+	"30070": {
+		"name": "Dragon hunter wand",
+		"tabs": [
+			"The Hueycoatl"
+		],
+		"comp": 3.5
+	},
+	"30085": {
+		"name": "Hueycoatl hide",
+		"tabs": [
+			"The Hueycoatl"
+		],
+		"comp": 9
+	},
+	"30088": {
+		"name": "Huasca seed",
+		"tabs": [
+			"The Hueycoatl"
+		],
+		"comp": 25.3
+	},
+	"30111": {
+		"name": "Helmet of the moon",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0
+	},
+	"30152": {
+		"name": "Huberte",
+		"tabs": [
+			"The Hueycoatl",
+			"All Pets"
+		],
+		"comp": 1.4
+	},
+	"30154": {
+		"name": "Moxi",
+		"tabs": [
+			"Amoxliatl",
+			"All Pets"
+		],
+		"comp": 0.7
+	},
+	"30324": {
+		"name": "Broken zombie helmet",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 3.3
+	},
+	"30622": {
+		"name": "Bran",
+		"tabs": [
+			"Royal Titans",
+			"All Pets"
+		],
+		"comp": 1.9
+	},
+	"30626": {
+		"name": "Deadeye prayer scroll",
+		"tabs": [
+			"Royal Titans"
+		],
+		"comp": 15.7
+	},
+	"30627": {
+		"name": "Mystic vigour prayer scroll",
+		"tabs": [
+			"Royal Titans"
+		],
+		"comp": 14.5
+	},
+	"30628": {
+		"name": "Ice element staff crown",
+		"tabs": [
+			"Royal Titans"
+		],
+		"comp": 13.7
+	},
+	"30631": {
+		"name": "Fire element staff crown",
+		"tabs": [
+			"Royal Titans"
+		],
+		"comp": 13.4
+	},
+	"30637": {
+		"name": "Giantsoul amulet (uncharged)",
+		"tabs": [
+			"Royal Titans"
+		],
+		"comp": 29.3
+	},
+	"30640": {
+		"name": "Desiccated page",
+		"tabs": [
+			"Royal Titans"
+		],
+		"comp": 32.3
+	},
+	"30750": {
+		"name": "Oathplate helm",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 2.9
+	},
+	"30753": {
+		"name": "Oathplate chest",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 3
+	},
+	"30756": {
+		"name": "Oathplate legs",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 3
+	},
+	"30759": {
+		"name": "Soulflame horn",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 4.3
+	},
+	"30763": {
+		"name": "Forgotten lockbox",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 10.4
+	},
+	"30765": {
+		"name": "Oathplate shards",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 11.2
+	},
+	"30775": {
+		"name": "Chasm teleport scroll",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 10.8
+	},
+	"30795": {
+		"name": "Barrel of demonic tallow (full)",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 11
+	},
+	"30805": {
+		"name": "Dossier",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 10.5
+	},
+	"30806": {
+		"name": "Rite of vile transference",
+		"tabs": [
+			"Yama"
+		],
+		"comp": 8.5
+	},
+	"30888": {
+		"name": "Yami",
+		"tabs": [
+			"Yama",
+			"All Pets"
+		],
+		"comp": 1.5
+	},
+	"30893": {
+		"name": "Jewel of amascut",
+		"tabs": [
+			"Tombs of Amascut"
+		],
+		"comp": 10.9
+	},
+	"30895": {
+		"name": "Steel ring",
+		"tabs": [
+			"Deranged archaeologist"
+		],
+		"comp": 5.2
+	},
+	"30902": {
+		"name": "Minor beginner scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 8.3
+	},
+	"30904": {
+		"name": "Major beginner scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 5.4
+	},
+	"30906": {
+		"name": "Minor easy scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 6.3
+	},
+	"30908": {
+		"name": "Major easy scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 3.6
+	},
+	"30910": {
+		"name": "Minor medium scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 9.7
+	},
+	"30912": {
+		"name": "Major medium scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 4.3
+	},
+	"30914": {
+		"name": "Minor hard scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 19.6
+	},
+	"30916": {
+		"name": "Major hard scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 9.3
+	},
+	"30918": {
+		"name": "Minor elite scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 7.1
+	},
+	"30920": {
+		"name": "Major elite scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 2.1
+	},
+	"30922": {
+		"name": "Minor master scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 7.4
+	},
+	"30924": {
+		"name": "Major master scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 3.3
+	},
+	"30926": {
+		"name": "Mimic scroll case",
+		"tabs": [
+			"Scroll Cases"
+		],
+		"comp": 15.8
+	},
+	"30957": {
+		"name": "Earthbound tecpatl",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 1.4
+	},
+	"31032": {
+		"name": "Ent branch",
+		"tabs": [
+			"Vale Totems"
+		],
+		"comp": 16.5
+	},
+	"31034": {
+		"name": "Greenman mask",
+		"tabs": [
+			"Vale Totems"
+		],
+		"comp": 6.4
+	},
+	"31043": {
+		"name": "Fletching knife",
+		"tabs": [
+			"Vale Totems"
+		],
+		"comp": 10.1
+	},
+	"31052": {
+		"name": "Bow string spool",
+		"tabs": [
+			"Vale Totems"
+		],
+		"comp": 10
+	},
+	"31081": {
+		"name": "Antler guard",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 2.4
+	},
+	"31084": {
+		"name": "Alchemist's signet",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 3.5
+	},
+	"31086": {
+		"name": "Broken antler",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 7.7
+	},
+	"31088": {
+		"name": "Avernic treads",
+		"tabs": [
+			"Doom of Mokhaiotl"
+		],
+		"comp": 3.7
+	},
+	"31099": {
+		"name": "Mokhaiotl waystone",
+		"tabs": [
+			"Doom of Mokhaiotl"
+		],
+		"comp": 10.5
+	},
+	"31109": {
+		"name": "Mokhaiotl cloth",
+		"tabs": [
+			"Doom of Mokhaiotl"
+		],
+		"comp": 4.1
+	},
+	"31111": {
+		"name": "Demon tear",
+		"tabs": [
+			"Doom of Mokhaiotl"
+		],
+		"comp": 11.1
+	},
+	"31115": {
+		"name": "Eye of ayak",
+		"tabs": [
+			"Doom of Mokhaiotl"
+		],
+		"comp": 3.8
+	},
+	"31130": {
+		"name": "Dom",
+		"tabs": [
+			"Doom of Mokhaiotl",
+			"All Pets"
+		],
+		"comp": 2.3
+	},
+	"31235": {
+		"name": "Gryphon feather",
+		"tabs": [
+			"Shellbane Gryphon",
+			"Slayer"
+		],
+		"comp": 7.1
+	},
+	"31243": {
+		"name": "Horn of plenty (empty)",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 0.8
+	},
+	"31245": {
+		"name": "Belle's folly (tarnished)",
+		"tabs": [
+			"Shellbane Gryphon"
+		],
+		"comp": 2.7
+	},
+	"31283": {
+		"name": "Soup",
+		"tabs": [
+			"Skilling Pets",
+			"All Pets"
+		],
+		"comp": 1.7
+	},
+	"31285": {
+		"name": "Gull (pet)",
+		"tabs": [
+			"Shellbane Gryphon",
+			"All Pets"
+		],
+		"comp": 0.5
+	},
+	"31406": {
+		"name": "Dragon nails",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 6.9
+	},
+	"31408": {
+		"name": "Giant blue krill",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.4
+	},
+	"31412": {
+		"name": "Golden haddock",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.3
+	},
+	"31416": {
+		"name": "Orangefin",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.2
+	},
+	"31420": {
+		"name": "Huge halibut",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.3
+	},
+	"31424": {
+		"name": "Purplefin",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.2
+	},
+	"31428": {
+		"name": "Swift marlin",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 0.2
+	},
+	"31572": {
+		"name": "Squid beak",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": 2
+	},
+	"31732": {
+		"name": "Stormy key",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 18
+	},
+	"31733": {
+		"name": "Barrel stand",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 17.2
+	},
+	"31734": {
+		"name": "Ralph's fabric roll",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 15.2
+	},
+	"31744": {
+		"name": "Fetid key",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 12.3
+	},
+	"31745": {
+		"name": "Captured wind mote",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 11.8
+	},
+	"31746": {
+		"name": "Gurtob's fabric roll",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 8
+	},
+	"31756": {
+		"name": "Serrated key",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 8.5
+	},
+	"31757": {
+		"name": "Heart of ithell",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 8.2
+	},
+	"31758": {
+		"name": "Gwyna's fabric roll",
+		"tabs": [
+			"Barracuda Trials"
+		],
+		"comp": 4.5
+	},
+	"31770": {
+		"name": "Tiny pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 5.5
+	},
+	"31773": {
+		"name": "Small pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 3
+	},
+	"31776": {
+		"name": "Shiny pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.9
+	},
+	"31779": {
+		"name": "Bright pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.5
+	},
+	"31782": {
+		"name": "Big pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.1
+	},
+	"31785": {
+		"name": "Huge pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.2
+	},
+	"31788": {
+		"name": "Enormous pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.3
+	},
+	"31791": {
+		"name": "Shimmering pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.1
+	},
+	"31794": {
+		"name": "Glistening pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.3
+	},
+	"31797": {
+		"name": "Brilliant pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1
+	},
+	"31800": {
+		"name": "Radiant pearl",
+		"tabs": [
+			"Ocean Encounters"
+		],
+		"comp": 1.3
+	},
+	"31916": {
+		"name": "Dragon cannonball",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 10.9
+	},
+	"31946": {
+		"name": "Echo pearl",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 1
+	},
+	"31949": {
+		"name": "Bottled storm",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 1.1
+	},
+	"31952": {
+		"name": "Swift albatross feather",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 3
+	},
+	"31954": {
+		"name": "Narwhal horn",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 1.6
+	},
+	"31959": {
+		"name": "Ray barbs",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 3.8
+	},
+	"31961": {
+		"name": "Broken dragon hook",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 1.2
+	},
+	"31989": {
+		"name": "Boat bottle (empty)",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 13.2
+	},
+	"31996": {
+		"name": "Dragon metal sheet",
+		"tabs": [
+			"Sailing Miscellaneous",
+			"Slayer"
+		],
+		"comp": 5.5
+	},
+	"32087": {
+		"name": "Barracuda paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 0.8
+	},
+	"32090": {
+		"name": "Shark paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 14.9
+	},
+	"32093": {
+		"name": "Inky paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 0.6
+	},
+	"32096": {
+		"name": "Angler's paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 0.2
+	},
+	"32099": {
+		"name": "Salvor's paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 1.6
+	},
+	"32102": {
+		"name": "Armadylean paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 2.4
+	},
+	"32104": {
+		"name": "Zamorakian paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 2.8
+	},
+	"32106": {
+		"name": "Guthixian paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 2.5
+	},
+	"32108": {
+		"name": "Saradominist paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 2.8
+	},
+	"32110": {
+		"name": "Merchant's paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 0.1
+	},
+	"32113": {
+		"name": "Sandy paint",
+		"tabs": [
+			"Boat Paints"
+		],
+		"comp": 1.8
+	},
+	"32115": {
+		"name": "Dragon cannon barrel",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 3.9
+	},
+	"32388": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 7.2
+	},
+	"32389": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 4.8
+	},
+	"32390": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 5.3
+	},
+	"32391": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 4.7
+	},
+	"32392": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 5.5
+	},
+	"32393": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 4.8
+	},
+	"32394": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 5.7
+	},
+	"32395": {
+		"name": "Medallion fragment",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 8.6
+	},
+	"32398": {
+		"name": "Sailors' amulet (inert)",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 16.6
+	},
+	"32401": {
+		"name": "Salvaging station schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 17.3
+	},
+	"32402": {
+		"name": "Gale catcher schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 6.2
+	},
+	"32403": {
+		"name": "Eternal brazier schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 9.3
+	},
+	"32404": {
+		"name": "Dragon salvaging hook schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 3.7
+	},
+	"32405": {
+		"name": "Rosewood cargo hold schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 4.8
+	},
+	"32406": {
+		"name": "Dragon cannon schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 3.9
+	},
+	"32407": {
+		"name": "Rosewood hull schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 5
+	},
+	"32408": {
+		"name": "Rosewood & cotton sails schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 3.6
+	},
+	"32409": {
+		"name": "Dragon helm schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 3.8
+	},
+	"32410": {
+		"name": "Dragon keel schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 2.7
+	},
+	"32863": {
+		"name": "Rusty locket",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 2.6
+	},
+	"32864": {
+		"name": "Mouldy block",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 2.7
+	},
+	"32865": {
+		"name": "Dull knife",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 5.4
+	},
+	"32866": {
+		"name": "Broken compass",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 7
+	},
+	"32867": {
+		"name": "Rusty coin",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 7.9
+	},
+	"32868": {
+		"name": "Broken sextant",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 5.6
+	},
+	"32869": {
+		"name": "Mouldy doll",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 6
+	},
+	"32870": {
+		"name": "Smashed mirror",
+		"tabs": [
+			"Sea Treasures"
+		],
+		"comp": 6.3
+	},
+	"32876": {
+		"name": "Aquanite tendon",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": 0.5
+	},
+	"32921": {
+		"name": "Jar of feathers",
+		"tabs": [
+			"Shellbane Gryphon"
+		],
+		"comp": 0.7
+	},
+	"33074": {
+		"name": "Facility bottle (empty)",
+		"tabs": [
+			"Sailing Miscellaneous"
+		],
+		"comp": 4.9
+	},
+	"33091": {
+		"name": "Bottomless milk bucket (empty)",
+		"tabs": [
+			"Brutus"
+		],
+		"comp": 9
+	},
+	"33093": {
+		"name": "Cow slippers",
+		"tabs": [
+			"Brutus"
+		],
+		"comp": 7.1
+	},
+	"33101": {
+		"name": "Mooleta",
+		"tabs": [
+			"Brutus"
+		],
+		"comp": 9.3
+	},
+	"33124": {
+		"name": "Beef",
+		"tabs": [
+			"Brutus",
+			"All Pets"
+		],
+		"comp": 4.6
+	},
+	"33133": {
+		"name": "Pristine spider silk",
+		"tabs": [
+			"Sarachnis"
+		],
+		"comp": 3.2
+	},
+	"33143": {
+		"name": "Ballistic attractor schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 1.7
+	},
+	"33382": {
+		"name": "Immaculate mole skin",
+		"tabs": [
+			"Giant Mole"
+		],
+		"comp": 1.7
+	},
+	"33423": {
+		"name": "Bosun's workbench schematic",
+		"tabs": [
+			"Lost Schematics"
+		],
+		"comp": 1.3
+	},
+	"33631": {
+		"name": "Crimson kisten",
+		"tabs": [
+			"Maggot King"
+		],
+		"comp": null
+	},
+	"33634": {
+		"name": "Elder venator fang",
+		"tabs": [
+			"Maggot King"
+		],
+		"comp": null
+	},
+	"33642": {
+		"name": "Maggot marquess",
+		"tabs": [
+			"Maggot King",
+			"All Pets"
+		],
+		"comp": null
+	},
+	"33661": {
+		"name": "Venator fang",
+		"tabs": [
+			"Venators"
+		],
+		"comp": null
+	},
+	"33663": {
+		"name": "Venator tooth",
+		"tabs": [
+			"Venators"
+		],
+		"comp": null
+	},
+	"34024": {
+		"name": "Jeweller's chisel",
+		"tabs": [
+			"Miscellaneous"
+		],
+		"comp": null
+	},
+	"34027": {
+		"name": "Hallowfell",
+		"tabs": [
+			"The Mad Angel"
+		],
+		"comp": null
+	},
+	"34030": {
+		"name": "Jar of light",
+		"tabs": [
+			"The Mad Angel"
+		],
+		"comp": null
+	},
+	"34033": {
+		"name": "Ardeaglais teleport",
+		"tabs": [
+			"The Mad Angel"
+		],
+		"comp": null
+	},
+	"34040": {
+		"name": "Mr mcgroot",
+		"tabs": [
+			"All Pets",
+			"Skilling Pets"
+		],
+		"comp": null
+	},
+	"34042": {
+		"name": "Aggy",
+		"tabs": [
+			"The Mad Angel",
+			"All Pets"
+		],
+		"comp": null
+	}
+}
