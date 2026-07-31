@@ -1,0 +1,61 @@
+name: Update plugin data
+
+# Regenerates the wiki-sourced datasets - drop-rates.json (see generate-drop-rates.py) and
+# collection-log.json (see generate-collection-log.py) - and publishes both to the orphan "data"
+# branch, which CollectionLogPopupEnhanced's RemoteDropRateUpdater and RemoteRarityOverridesUpdater
+# fetch at runtime (github.com/TimHeessels/collection-log-popup-enhanced). This keeps both datasets
+# fresh without needing a new plugin Hub version.
+#
+# Scheduled a day after the usual Wednesday OSRS update so the wiki has had time to update its data
+# first.
+on:
+  schedule:
+    - cron: '0 6 * * 4'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-plugin-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate drop-rates.json
+        run: python generate-drop-rates.py
+
+      - name: Generate collection-log.json
+        run: python generate-collection-log.py
+
+      - name: Publish to data branch
+        run: |
+          set -e
+          cp drop-rates.json /tmp/drop-rates.json
+          cp collection-log.json /tmp/collection-log.json
+          rm -f drop-rates.json collection-log.json
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git fetch origin data; then
+            git checkout -B data origin/data
+          else
+            git checkout --orphan data
+            git rm -rf . > /dev/null
+          fi
+
+          cp /tmp/drop-rates.json ./drop-rates.json
+          cp /tmp/collection-log.json ./collection-log.json
+          git add drop-rates.json collection-log.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to plugin data - skipping commit."
+          else
+            git commit -m "Update plugin data"
+            git push origin data
+          fi
