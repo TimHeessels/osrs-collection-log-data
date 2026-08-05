@@ -435,10 +435,14 @@
 	},
 	"Blood-starved venator": {
 		"Blood shard": 0.19999999999999996,
+		"Dragon spear": 4.193249128814358e-06,
 		"Dust battlestaff": 0.006535947712418277,
 		"Eternal gem": 0.001865671641791078,
 		"Imbued heart": 0.001865671641791078,
-		"Mist battlestaff": 0.006535947712418277
+		"Mist battlestaff": 0.006535947712418277,
+		"Shield left half": 5.590996259519088e-06,
+		"Venator fang": 0.1518919830202602,
+		"Venator tooth": 0.1518919830202602
 	},
 	"Bloodthirsty Hydra": {
 		"Dragon spear": 1.2874529541684332e-05,
@@ -464,6 +468,9 @@
 	},
 	"Blurite rocks": {
 		"Rock golem": 1.3488905374892113e-06
+	},
+	"Boat fishing spot (small net, bait)": {
+		"Heron": 1.149022469171257e-06
 	},
 	"Body Golem": {
 		"Barronite guard": 0.0040000000000000036
@@ -5033,6 +5040,9 @@
 		"Dragon sword": 9.999999999998899e-05,
 		"Dragon thrownaxe": 9.999999999998899e-05,
 		"Shield left half": 3.212376644690096e-06
+	},
+	"Wyrmscraig Goat": {
+		"Mr mcgroot": 2.928571428573168e-05
 	},
 	"Yadviga": {
 		"Dragon spear": 3.5762786820825454e-07,
