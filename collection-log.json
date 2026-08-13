@@ -8414,21 +8414,21 @@
 		"comp": 8.2
 	},
 	"23321": {
-		"name": "Rune scimitar ornament kit (guthix)",
+		"name": "Rune scimitar ornament kit (Guthix)",
 		"tabs": [
 			"Beginner Treasure Trails"
 		],
 		"comp": 8.2
 	},
 	"23324": {
-		"name": "Rune scimitar ornament kit (saradomin)",
+		"name": "Rune scimitar ornament kit (Saradomin)",
 		"tabs": [
 			"Beginner Treasure Trails"
 		],
 		"comp": 8.2
 	},
 	"23327": {
-		"name": "Rune scimitar ornament kit (zamorak)",
+		"name": "Rune scimitar ornament kit (Zamorak)",
 		"tabs": [
 			"Beginner Treasure Trails"
 		],
@@ -12198,10 +12198,9 @@
 		"comp": null
 	},
 	"34040": {
-		"name": "Mr mcgroot",
+		"name": "Mr McGroot",
 		"tabs": [
-			"All Pets",
-			"Skilling Pets"
+			"All Pets"
 		],
 		"comp": null
 	},

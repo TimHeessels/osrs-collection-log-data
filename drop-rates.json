@@ -115,23 +115,23 @@
 		"Shield left half": 1.2413929571075677e-05
 	},
 	"Ancient chest": {
-		"Ancestral hat": 0.04347826086956519,
-		"Ancestral robe bottom": 0.04347826086956519,
-		"Ancestral robe top": 0.04347826086956519,
-		"Arcane prayer scroll": 0.28985507246376807,
+		"Ancestral hat": 0.06666666666666665,
+		"Ancestral robe bottom": 0.06666666666666665,
+		"Ancestral robe top": 0.06666666666666665,
+		"Arcane prayer scroll": 0.2333333333333334,
 		"Dark relic": 0.05968778696051413,
-		"Dexterous prayer scroll": 0.28985507246376807,
-		"Dinh's bulwark": 0.04347826086956519,
-		"Dragon claws": 0.04347826086956519,
-		"Dragon hunter crossbow": 0.05797101449275366,
-		"Elder maul": 0.02898550724637683,
-		"Kodai insignia": 0.02898550724637683,
+		"Dexterous prayer scroll": 0.2333333333333334,
+		"Dinh's bulwark": 0.050000000000000044,
+		"Dragon claws": 0.050000000000000044,
+		"Dragon hunter crossbow": 0.06666666666666665,
+		"Elder maul": 0.033333333333333326,
+		"Kodai insignia": 0.033333333333333326,
 		"Metamorphic dust": 0.0024999999999999467,
 		"Olmlet": 0.018867924528301883,
 		"Torn prayer scroll": 0.05968778696051413,
 		"Twisted ancestral colour kit": 0.013333333333333308,
-		"Twisted bow": 0.02898550724637683,
-		"Twisted buckler": 0.05797101449275366
+		"Twisted bow": 0.033333333333333326,
+		"Twisted buckler": 0.06666666666666665
 	},
 	"Angry barbarian spirit": {
 		"Ancient page": 0.0390625,
@@ -161,9 +161,9 @@
 		"Dragon spear": 2.4132106875351944e-05,
 		"Jar of venom": 0.0006666666666667043,
 		"Nid": 0.0003333333333332966,
-		"Noxious blade": 0.0050000000000000044,
-		"Noxious point": 0.0050000000000000044,
-		"Noxious pommel": 0.0050000000000000044,
+		"Noxious blade": 0.0016666666666667052,
+		"Noxious point": 0.0016666666666667052,
+		"Noxious pommel": 0.0016666666666667052,
 		"Shield left half": 3.217613991213231e-05,
 		"Spider cave teleport": 0.06956521739130439
 	},
@@ -1712,7 +1712,7 @@
 		"Rock golem": 3.38249222031628e-06
 	},
 	"Golem crafting": {
-		"Jeweller's chisel": 0.0031746031746031633
+		"Jeweller's chisel": 0.0033333333333332993
 	},
 	"Gorad": {
 		"Curved bone": 0.00019950124688283832,
@@ -2097,7 +2097,7 @@
 		"Shield left half": 1.8925629845512049e-06
 	},
 	"Juvenile custodian stalker": {
-		"Broken antler": 0.06666666666666665,
+		"Broken antler": 0.06874999999999998,
 		"Curved bone": 0.00019950124688283832,
 		"Dragon spear": 2.4211404297758143e-05,
 		"Long bone": 0.0024999999999999467,
@@ -2337,7 +2337,7 @@
 		"Aggy": 0.0004999999999999449,
 		"Ardeaglais teleport": 0.040000000000000036,
 		"Dragon spear": 3.70025698285259e-05,
-		"Hallowfell": 0.0078125,
+		"Hallowfell": 0.007874015748031482,
 		"Jar of light": 0.0010000000000000009,
 		"Shield left half": 4.933674151541556e-05
 	},
@@ -2425,7 +2425,7 @@
 	},
 	"Mature custodian stalker": {
 		"Antler guard": 0.0012499999999999734,
-		"Broken antler": 0.0625,
+		"Broken antler": 0.06542056074766356,
 		"Curved bone": 0.00019950124688283832,
 		"Dragon spear": 3.620397027215283e-05,
 		"Huasca seed": 0.009345794392523366,
@@ -3054,9 +3054,9 @@
 		"Mole slippers": 0.002777777777777768,
 		"Monk's robe (t)": 0.002777777777777768,
 		"Monk's robe top (t)": 0.002777777777777768,
-		"Rune scimitar ornament kit (guthix)": 0.002777777777777768,
-		"Rune scimitar ornament kit (saradomin)": 0.002777777777777768,
-		"Rune scimitar ornament kit (zamorak)": 0.002777777777777768,
+		"Rune scimitar ornament kit (Guthix)": 0.002777777777777768,
+		"Rune scimitar ornament kit (Saradomin)": 0.002777777777777768,
+		"Rune scimitar ornament kit (Zamorak)": 0.002777777777777768,
 		"Sandwich lady bottom": 0.002777777777777768,
 		"Sandwich lady hat": 0.002777777777777768,
 		"Sandwich lady top": 0.002777777777777768,
@@ -5046,7 +5046,7 @@
 		"Shield left half": 3.212376644690096e-06
 	},
 	"Wyrmscraig Goat": {
-		"Mr mcgroot": 2.928571428573168e-05
+		"Mr McGroot": 2.5000000000052758e-05
 	},
 	"Yadviga": {
 		"Dragon spear": 3.5762786820825454e-07,
