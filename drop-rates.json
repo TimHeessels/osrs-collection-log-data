@@ -64,8 +64,8 @@
 		"Hydra's eye": 0.005521811154058476,
 		"Hydra's fang": 0.005521811154058476,
 		"Hydra's heart": 0.005521811154058476,
-		"Ikkle hydra": 0.0003333333333332966,
-		"Jar of chemicals": 0.0004999999999999449,
+		"Ikkle Hydra": 0.0003333333333332966,
+		"Jar of Chemicals": 0.0004999999999999449,
 		"Mystic robe bottom (light)": 0.019703950593079167,
 		"Mystic robe top (light)": 0.019703950593079167,
 		"Shield left half": 7.327105047350013e-05
@@ -159,7 +159,7 @@
 		"Araxyte head": 0.0040000000000000036,
 		"Araxyte venom sac": 0.0625,
 		"Dragon spear": 2.4132106875351944e-05,
-		"Jar of venom": 0.0006666666666667043,
+		"Jar of Venom": 0.0006666666666667043,
 		"Nid": 0.0003333333333332966,
 		"Noxious blade": 0.0016666666666667052,
 		"Noxious point": 0.0016666666666667052,
@@ -180,7 +180,7 @@
 	},
 	"Armoured kraken": {
 		"Bottled storm": 0.0020000000000000018,
-		"Dragon metal sheet": 0.0071428571428571175,
+		"Dragon metal sheet": 0.007407407407407418,
 		"Dragon spear": 1.5387014101753138e-06,
 		"Inky paint": 0.0004999999999999449,
 		"Shield left half": 2.0516018907068556e-06
@@ -211,7 +211,7 @@
 	},
 	"Artio": {
 		"Callisto cub": 0.00035714285714283367,
-		"Claws of callisto": 0.0016181229773463146,
+		"Claws of Callisto": 0.0016181229773463146,
 		"Curved bone": 0.00019950124688283832,
 		"Dragon 2h sword": 0.0027932960893854997,
 		"Dragon pickaxe": 0.0027932960893854997,
@@ -282,7 +282,7 @@
 	"Barbarian Assault/Gambles": {
 		"Dragon chainbody": 6.249999999996536e-05,
 		"Granite helm": 0.03125,
-		"Pet penance queen": 0.0010000000000000009
+		"Pet Penance Queen": 0.0010000000000000009
 	},
 	"Barracuda salvage": {
 		"Boat bottle (empty)": 0.0020000000000000018,
@@ -670,7 +670,7 @@
 	},
 	"Callisto": {
 		"Callisto cub": 0.0006666666666667043,
-		"Claws of callisto": 0.005102040816326481,
+		"Claws of Callisto": 0.005102040816326481,
 		"Curved bone": 0.00019950124688283832,
 		"Dragon 2h sword": 0.00390625,
 		"Dragon pickaxe": 0.00390625,
@@ -685,8 +685,8 @@
 		"Long bone": 0.0024999999999999467,
 		"Ring of the gods": 0.0013966480446927498,
 		"Skeleton champion scroll": 0.00019999999999997797,
-		"Skull of vet'ion": 0.0016181229773463146,
-		"Vet'ion jr.": 0.00035714285714283367,
+		"Skull of Vet'ion": 0.0016181229773463146,
+		"Vet'ion Jr.": 0.00035714285714283367,
 		"Voidwaker blade": 0.0010964912280702066
 	},
 	"Camphor tree": {
@@ -760,7 +760,7 @@
 		"Dragon spear": 6.404291387573924e-05,
 		"Eternal crystal": 0.0019230769230769162,
 		"Hellpuppy": 0.0003333333333332966,
-		"Jar of souls": 0.0004999999999999449,
+		"Jar of Souls": 0.0004999999999999449,
 		"Key master teleport": 0.01538461538461533,
 		"Pegasian crystal": 0.0019230769230769162,
 		"Primordial crystal": 0.0019230769230769162,
@@ -771,14 +771,14 @@
 		"Dragon 2h sword": 0.015625,
 		"Dragon pickaxe": 0.00390625,
 		"Dragon spear": 0.00017344940567565192,
-		"Pet chaos elemental": 0.0033333333333332993,
+		"Pet Chaos Elemental": 0.0033333333333332993,
 		"Shield left half": 0.00023126627536418365
 	},
 	"Chaos Fanatic": {
 		"Dragon spear": 9.244681765696594e-05,
 		"Malediction shard 1": 0.00390625,
 		"Odium shard 1": 0.00390625,
-		"Pet chaos elemental": 0.0010000000000000009,
+		"Pet Chaos Elemental": 0.0010000000000000009,
 		"Shield left half": 0.0001232624615267186
 	},
 	"Chaos Golem": {
@@ -933,7 +933,7 @@
 		"Godsword shard 1": 0.001312335958005284,
 		"Godsword shard 2": 0.001312335958005284,
 		"Godsword shard 3": 0.001312335958005284,
-		"Pet zilyana": 0.00019999999999997797,
+		"Pet Zilyana": 0.00019999999999997797,
 		"Saradomin hilt": 0.0019685039370078705,
 		"Saradomin sword": 0.007874015748031482,
 		"Saradomin's light": 0.003937007874015741,
@@ -947,7 +947,7 @@
 		"Dragon spear": 4.291451526650114e-05,
 		"Elysian sigil": 0.00024420024420024333,
 		"Holy elixir": 0.005859375,
-		"Jar of spirits": 0.0010000000000000009,
+		"Jar of Spirits": 0.0010000000000000009,
 		"Pet dark core": 0.00019999999999997797,
 		"Shield left half": 5.721898453414642e-05,
 		"Spectral sigil": 0.00073260073260073,
@@ -1061,7 +1061,7 @@
 		"Dragon axe": 0.0078125,
 		"Dragon spear": 0.00018775464223352856,
 		"Mud battlestaff": 0.0078125,
-		"Pet dagannoth prime": 0.00019999999999997797,
+		"Pet Dagannoth Prime": 0.00019999999999997797,
 		"Seers ring": 0.0078125,
 		"Shield left half": 0.00025033920962902467
 	},
@@ -1069,7 +1069,7 @@
 		"Berserker ring": 0.0078125,
 		"Dragon axe": 0.0078125,
 		"Dragon spear": 0.00018775464223352856,
-		"Pet dagannoth rex": 0.00019999999999997797,
+		"Pet Dagannoth Rex": 0.00019999999999997797,
 		"Shield left half": 0.00025033920962902467,
 		"Warrior ring": 0.0078125
 	},
@@ -1077,7 +1077,7 @@
 		"Archers ring": 0.0078125,
 		"Dragon axe": 0.0078125,
 		"Dragon spear": 0.00018775464223352856,
-		"Pet dagannoth supreme": 0.00019999999999997797,
+		"Pet Dagannoth Supreme": 0.00019999999999997797,
 		"Seercull": 0.0078125,
 		"Shield left half": 0.00025033920962902467
 	},
@@ -1183,7 +1183,7 @@
 		"Awakener's orb": 0.020618556701030966,
 		"Baron": 0.00039999999999995595,
 		"Chromium ingot": 0.004166666666666652,
-		"Eye of the duke": 0.001388888888888884,
+		"Eye of the Duke": 0.001388888888888884,
 		"Frozen tablet": 0.03875968992248058,
 		"Ice quartz": 0.004840271055179035,
 		"Magus vestige": 0.001388888888888884,
@@ -1534,7 +1534,7 @@
 		"Godsword shard 2": 0.001312335958005284,
 		"Godsword shard 3": 0.001312335958005284,
 		"Long bone": 0.0024999999999999467,
-		"Pet general graardor": 0.00019999999999997797,
+		"Pet General Graardor": 0.00019999999999997797,
 		"Shield left half": 0.00023693201472774206
 	},
 	"Georgy": {
@@ -1553,7 +1553,7 @@
 		"Long bone": 0.0024999999999999467
 	},
 	"Giant Mole": {
-		"Baby mole": 0.0003333333333332966,
+		"Baby Mole": 0.0003333333333332966,
 		"Curved bone": 0.00019950124688283832,
 		"Dragon spear": 9.312521709814447e-05,
 		"Immaculate mole skin": 0.020000000000000018,
@@ -1734,7 +1734,7 @@
 	"Great white shark": {
 		"Broken dragon hook": 0.0020000000000000018,
 		"Dragon cannonball": 0.020000000000000018,
-		"Dragon metal sheet": 0.0050000000000000044,
+		"Dragon metal sheet": 0.005555555555555536,
 		"Dragon spear": 1.8310546986421983e-06,
 		"Shield left half": 2.4414062500532907e-06
 	},
@@ -1792,7 +1792,7 @@
 		"Granite hammer": 0.002664888888888828,
 		"Granite maul": 0.007983999999999991,
 		"Granite ring": 0.0039959999999999996,
-		"Jar of stone": 0.00019999999999997797,
+		"Jar of Stone": 0.00019999999999997797,
 		"Noon": 0.0003333333333332966
 	},
 	"Growler": {
@@ -2108,9 +2108,9 @@
 		"Godsword shard 1": 0.001312335958005284,
 		"Godsword shard 2": 0.001312335958005284,
 		"Godsword shard 3": 0.001312335958005284,
-		"Pet k'ril tsutsaroth": 0.00019999999999997797,
+		"Pet K'ril Tsutsaroth": 0.00019999999999997797,
 		"Shield left half": 0.00023693201472774206,
-		"Staff of the dead": 0.0019685039370078705,
+		"Staff of the Dead": 0.0019685039370078705,
 		"Steam battlestaff": 0.007874015748031482,
 		"Zamorak hilt": 0.0019685039370078705,
 		"Zamorakian spear": 0.007874015748031482
@@ -2124,8 +2124,8 @@
 		"Dragon chainbody": 0.0078125,
 		"Dragon pickaxe": 0.0024999999999999467,
 		"Dragon spear": 2.2025335302711113e-05,
-		"Jar of sand": 0.0004999999999999449,
-		"Kalphite princess": 0.0003333333333332966,
+		"Jar of Sand": 0.0004999999999999449,
+		"Kalphite Princess": 0.0003333333333332966,
 		"Kq head": 0.0078125,
 		"Shield left half": 2.936711804901737e-05
 	},
@@ -2150,7 +2150,7 @@
 		"Dragon pickaxe": 0.0010000000000000009,
 		"Dragon spear": 0.0001763105604736248,
 		"Kbd heads": 0.0078125,
-		"Prince black dragon": 0.0003333333333332966,
+		"Prince Black Dragon": 0.0003333333333332966,
 		"Shield left half": 0.000235080609140903
 	},
 	"King Sand Crab": {
@@ -2187,11 +2187,11 @@
 	},
 	"Kraken": {
 		"Dragon spear": 2.8610229765302364e-06,
-		"Jar of dirt": 0.0010000000000000009,
+		"Jar of Dirt": 0.0010000000000000009,
 		"Kraken tentacle": 0.0024999999999999467,
-		"Pet kraken": 0.0003333333333332966,
+		"Pet Kraken": 0.0003333333333332966,
 		"Shield left half": 3.814697265625e-06,
-		"Trident of the seas (full)": 0.001953125
+		"Trident of the Seas (full)": 0.001953125
 	},
 	"Kree'arra": {
 		"Armadyl chainskirt": 0.002624671916010457,
@@ -2204,7 +2204,7 @@
 		"Godsword shard 2": 0.001312335958005284,
 		"Godsword shard 3": 0.001312335958005284,
 		"Long bone": 0.0024999999999999467,
-		"Pet kree'arra": 0.00019999999999997797,
+		"Pet Kree'arra": 0.00019999999999997797,
 		"Shield left half": 0.00023693201472774206
 	},
 	"Ksenia": {
@@ -2338,7 +2338,7 @@
 		"Ardeaglais teleport": 0.040000000000000036,
 		"Dragon spear": 3.70025698285259e-05,
 		"Hallowfell": 0.007874015748031482,
-		"Jar of light": 0.0010000000000000009,
+		"Jar of Light": 0.0010000000000000009,
 		"Shield left half": 4.933674151541556e-05
 	},
 	"Maggot King": {
@@ -2499,7 +2499,7 @@
 		"Justiciar chestguard": 0.10526315789473684,
 		"Justiciar faceguard": 0.10526315789473684,
 		"Justiciar legguards": 0.10526315789473684,
-		"Lil' zik": 0.0015384615384614886,
+		"Lil' Zik": 0.0015384615384614886,
 		"Sanguine dust": 0.0036363636363636598,
 		"Sanguine ornament kit": 0.00666666666666671,
 		"Sanguinesti staff (uncharged)": 0.10526315789473684,
@@ -2708,6 +2708,8 @@
 	},
 	"Orca": {
 		"Dragon cannonball": 0.021739130434782594,
+		"Dragon metal sheet": 0.0050000000000000044,
+		"Dragon nails": 0.013333333333333308,
 		"Dragon spear": 3.980553721305569e-06,
 		"Echo pearl": 0.014285714285714235,
 		"Shield left half": 5.307404891352618e-06
@@ -2756,8 +2758,8 @@
 		"Inquisitor's hauberk": 0.0014285714285714457,
 		"Inquisitor's mace": 0.0008857142857142675,
 		"Inquisitor's plateskirt": 0.0014285714285714457,
-		"Jar of dreams": 0.00024999999999997247,
-		"Little nightmare": 0.0007142857142856673,
+		"Jar of Dreams": 0.00024999999999997247,
+		"Little Nightmare": 0.0007142857142856673,
 		"Nightmare staff": 0.001971428571428624,
 		"Parasitic egg": 0.0050000000000000044,
 		"Slepey tablet": 0.040000000000000036,
@@ -3035,7 +3037,7 @@
 		"Pyromancer garb": 0.00666666666666671,
 		"Pyromancer hood": 0.00666666666666671,
 		"Pyromancer robe": 0.00666666666666671,
-		"Tome of fire (empty)": 0.0010000000000000009,
+		"Tome of Fire (empty)": 0.0010000000000000009,
 		"Warm gloves": 0.00666666666666671
 	},
 	"Reward Chest (The Gauntlet)": {
@@ -3212,7 +3214,7 @@
 		"Saradomin robe legs": 0.0007122507122506727,
 		"Saradomin robe top": 0.0007122507122506727,
 		"Sleeping cap": 0.0007122507122506727,
-		"Staff of bob the cat": 0.0007122507122506727,
+		"Staff of Bob the Cat": 0.0007122507122506727,
 		"Steel full helm (g)": 0.0007122507122506727,
 		"Steel full helm (t)": 0.0007122507122506727,
 		"Steel kiteshield (g)": 0.0007122507122506727,
@@ -3245,23 +3247,23 @@
 		"Zamorak robe top": 0.0007122507122506727
 	},
 	"Reward casket (elite)": {
-		"3rd age amulet": 4.011834912942547e-06,
-		"3rd age bow": 4.011834912942547e-06,
-		"3rd age cloak": 4.011834912942547e-06,
-		"3rd age full helmet": 4.011834912942547e-06,
-		"3rd age kiteshield": 4.011834912942547e-06,
-		"3rd age longsword": 4.011834912942547e-06,
-		"3rd age mage hat": 4.011834912942547e-06,
-		"3rd age platebody": 4.011834912942547e-06,
-		"3rd age platelegs": 4.011834912942547e-06,
-		"3rd age plateskirt": 4.011834912942547e-06,
-		"3rd age range coif": 4.011834912942547e-06,
-		"3rd age range legs": 4.011834912942547e-06,
-		"3rd age range top": 4.011834912942547e-06,
-		"3rd age robe": 4.011834912942547e-06,
-		"3rd age robe top": 4.011834912942547e-06,
-		"3rd age vambraces": 4.011834912942547e-06,
-		"3rd age wand": 4.011834912942547e-06,
+		"3rd Age amulet": 4.011834912942547e-06,
+		"3rd Age bow": 4.011834912942547e-06,
+		"3rd Age cloak": 4.011834912942547e-06,
+		"3rd Age full helmet": 4.011834912942547e-06,
+		"3rd Age kiteshield": 4.011834912942547e-06,
+		"3rd Age longsword": 4.011834912942547e-06,
+		"3rd Age mage hat": 4.011834912942547e-06,
+		"3rd Age platebody": 4.011834912942547e-06,
+		"3rd Age platelegs": 4.011834912942547e-06,
+		"3rd Age plateskirt": 4.011834912942547e-06,
+		"3rd Age range coif": 4.011834912942547e-06,
+		"3rd Age range legs": 4.011834912942547e-06,
+		"3rd Age range top": 4.011834912942547e-06,
+		"3rd Age robe": 4.011834912942547e-06,
+		"3rd Age robe top": 4.011834912942547e-06,
+		"3rd Age vambraces": 4.011834912942547e-06,
+		"3rd Age wand": 4.011834912942547e-06,
 		"Adamant dragon mask": 0.0007843137254901489,
 		"Afro": 0.0007843137254901489,
 		"Ancient blessing": 0.001548467017652544,
@@ -3393,19 +3395,19 @@
 		"Zamorak page 4": 0.001290322580645209
 	},
 	"Reward casket (hard)": {
-		"3rd age amulet": 4.733727810624089e-06,
-		"3rd age full helmet": 4.733727810624089e-06,
-		"3rd age kiteshield": 4.733727810624089e-06,
-		"3rd age mage hat": 4.733727810624089e-06,
-		"3rd age platebody": 4.733727810624089e-06,
-		"3rd age platelegs": 4.733727810624089e-06,
-		"3rd age plateskirt": 4.733727810624089e-06,
-		"3rd age range coif": 4.733727810624089e-06,
-		"3rd age range legs": 4.733727810624089e-06,
-		"3rd age range top": 4.733727810624089e-06,
-		"3rd age robe": 4.733727810624089e-06,
-		"3rd age robe top": 4.733727810624089e-06,
-		"3rd age vambraces": 4.733727810624089e-06,
+		"3rd Age amulet": 4.733727810624089e-06,
+		"3rd Age full helmet": 4.733727810624089e-06,
+		"3rd Age kiteshield": 4.733727810624089e-06,
+		"3rd Age mage hat": 4.733727810624089e-06,
+		"3rd Age platebody": 4.733727810624089e-06,
+		"3rd Age platelegs": 4.733727810624089e-06,
+		"3rd Age plateskirt": 4.733727810624089e-06,
+		"3rd Age range coif": 4.733727810624089e-06,
+		"3rd Age range legs": 4.733727810624089e-06,
+		"3rd Age range top": 4.733727810624089e-06,
+		"3rd Age robe": 4.733727810624089e-06,
+		"3rd Age robe top": 4.733727810624089e-06,
+		"3rd Age vambraces": 4.733727810624089e-06,
 		"Amulet of glory (t4)": 0.0006153846153845732,
 		"Ancient blessing": 0.0018460402436772938,
 		"Ancient bracers": 0.0006153846153845732,
@@ -3601,29 +3603,29 @@
 		"Zamorak stole": 0.0006153846153845732
 	},
 	"Reward casket (master)": {
-		"3rd age amulet": 3.1931742706658994e-06,
-		"3rd age axe": 3.1931742706658994e-06,
-		"3rd age bow": 3.1931742706658994e-06,
-		"3rd age cloak": 3.1931742706658994e-06,
-		"3rd age druidic cloak": 3.1931742706658994e-06,
-		"3rd age druidic robe bottoms": 3.1931742706658994e-06,
-		"3rd age druidic robe top": 3.1931742706658994e-06,
-		"3rd age druidic staff": 3.1931742706658994e-06,
-		"3rd age full helmet": 3.1931742706658994e-06,
-		"3rd age kiteshield": 3.1931742706658994e-06,
-		"3rd age longsword": 3.1931742706658994e-06,
-		"3rd age mage hat": 3.1931742706658994e-06,
-		"3rd age pickaxe": 3.1931742706658994e-06,
-		"3rd age platebody": 3.1931742706658994e-06,
-		"3rd age platelegs": 3.1931742706658994e-06,
-		"3rd age plateskirt": 3.1931742706658994e-06,
-		"3rd age range coif": 3.1931742706658994e-06,
-		"3rd age range legs": 3.1931742706658994e-06,
-		"3rd age range top": 3.1931742706658994e-06,
-		"3rd age robe": 3.1931742706658994e-06,
-		"3rd age robe top": 3.1931742706658994e-06,
-		"3rd age vambraces": 3.1931742706658994e-06,
-		"3rd age wand": 3.1931742706658994e-06,
+		"3rd Age amulet": 3.1931742706658994e-06,
+		"3rd Age axe": 3.1931742706658994e-06,
+		"3rd Age bow": 3.1931742706658994e-06,
+		"3rd Age cloak": 3.1931742706658994e-06,
+		"3rd Age druidic cloak": 3.1931742706658994e-06,
+		"3rd Age druidic robe bottoms": 3.1931742706658994e-06,
+		"3rd Age druidic robe top": 3.1931742706658994e-06,
+		"3rd Age druidic staff": 3.1931742706658994e-06,
+		"3rd Age full helmet": 3.1931742706658994e-06,
+		"3rd Age kiteshield": 3.1931742706658994e-06,
+		"3rd Age longsword": 3.1931742706658994e-06,
+		"3rd Age mage hat": 3.1931742706658994e-06,
+		"3rd Age pickaxe": 3.1931742706658994e-06,
+		"3rd Age platebody": 3.1931742706658994e-06,
+		"3rd Age platelegs": 3.1931742706658994e-06,
+		"3rd Age plateskirt": 3.1931742706658994e-06,
+		"3rd Age range coif": 3.1931742706658994e-06,
+		"3rd Age range legs": 3.1931742706658994e-06,
+		"3rd Age range top": 3.1931742706658994e-06,
+		"3rd Age robe": 3.1931742706658994e-06,
+		"3rd Age robe top": 3.1931742706658994e-06,
+		"3rd Age vambraces": 3.1931742706658994e-06,
+		"3rd Age wand": 3.1931742706658994e-06,
 		"Ale of the gods": 0.001175088131609825,
 		"Ancient blessing": 0.0016490765171504052,
 		"Ancient page 1": 0.001423284941645342,
@@ -3918,16 +3920,16 @@
 		"Spirit flakes": 0.25,
 		"Tackle box": 0.0024999999999999467,
 		"Tiny tempor": 0.00012500000000004174,
-		"Tome of water (empty)": 0.0006249999999999867
+		"Tome of Water (empty)": 0.0006249999999999867
 	},
 	"Rewards Chest (Fortis Colosseum)": {
 		"Echo crystal": 0.002903225806451637,
-		"Smol heredit": 0.0050000000000000044,
+		"Smol Heredit": 0.0050000000000000044,
 		"Sunfire fanatic chausses": 0.001612903225806428,
 		"Sunfire fanatic cuirass": 0.001612903225806428,
 		"Sunfire fanatic helm": 0.001612903225806428,
 		"Sunfire splinters": 0.1428571428571428,
-		"Tonalztics of ralos (uncharged)": 0.0007621951219511924,
+		"Tonalztics of Ralos (uncharged)": 0.0007621951219511924,
 		"Uncut onyx": 0.022916666666666696
 	},
 	"Rewards Guardian": {
@@ -3964,6 +3966,9 @@
 		"Mystic gloves (light)": 0.001953125,
 		"Shield left half": 1.1444092233414693e-05
 	},
+	"Rod Fishing spot (anglerfish)": {
+		"Heron": 1.3055000718020793e-05
+	},
 	"Rogue": {
 		"Rocky": 3.8999886899926395e-06
 	},
@@ -3997,7 +4002,7 @@
 	"Sarachnis": {
 		"Dragon spear": 1.8310546986421983e-06,
 		"Giant egg sac(full)": 0.050000000000000044,
-		"Jar of eyes": 0.0004999999999999449,
+		"Jar of Eyes": 0.0004999999999999449,
 		"Pristine spider silk": 0.020000000000000018,
 		"Sarachnis cudgel": 0.0026041666666666297,
 		"Shield left half": 2.4414062500532907e-06,
@@ -4116,7 +4121,7 @@
 		"Dragon spear": 2.86102088931095e-06,
 		"Gryphon feather": 0.16448974609375,
 		"Gull (pet)": 0.0003333333333332966,
-		"Jar of feathers": 0.0004999999999999449,
+		"Jar of Feathers": 0.0004999999999999449,
 		"Long bone": 0.0024999999999999467,
 		"Shield left half": 3.814693627646193e-06
 	},
@@ -4333,7 +4338,7 @@
 		"Dark totem base": 0.0234375,
 		"Dark totem middle": 0.0234375,
 		"Dark totem top": 0.0234375,
-		"Jar of darkness": 0.0050000000000000044,
+		"Jar of Darkness": 0.0050000000000000044,
 		"Shield left half": 0.010000000000000009,
 		"Skotos": 0.01538461538461533,
 		"Uncut onyx": 0.0010000000000000009
@@ -4411,7 +4416,7 @@
 	"Spindel": {
 		"Dragon 2h sword": 0.0027932960893854997,
 		"Dragon pickaxe": 0.0027932960893854997,
-		"Fangs of venenatis": 0.0016181229773463146,
+		"Fangs of Venenatis": 0.0016181229773463146,
 		"Treasonous ring": 0.0013966480446927498,
 		"Venenatis spiderling": 0.00035714285714283367,
 		"Voidwaker gem": 0.0010964912280702066
@@ -4460,8 +4465,8 @@
 		"Granite longsword": 0.001953125,
 		"Wyvern visage": 8.333333333332416e-05
 	},
-	"Spoils of war": {
-		"Lil' creator": 0.0024999999999999467
+	"Spoils of War": {
+		"Lil' Creator": 0.0024999999999999467
 	},
 	"Sq'irk tree": {
 		"Rocky": 9.695559433775536e-05
@@ -4557,6 +4562,12 @@
 		"Shield left half": 1.144405883679589e-05,
 		"Sulphur blades": 0.0022222222222222365
 	},
+	"Sunstone monolith": {
+		"Rock golem": 1.3484812729780415e-06
+	},
+	"Sunstone rocks": {
+		"Rock golem": 1.3484812729780415e-06
+	},
 	"Suqah": {
 		"Curved bone": 0.00019950124688283832,
 		"Dragon spear": 7.097111191844974e-06,
@@ -4604,7 +4615,7 @@
 		"Hueycoatl hide": 0.03492063492063491,
 		"Soiled page": 0.07352941176470584,
 		"Sunfire splinters": 0.044117647058823484,
-		"Tome of earth (empty)": 0.011111111111111072
+		"Tome of Earth (empty)": 0.011111111111111072
 	},
 	"The Leviathan": {
 		"Awakener's orb": 0.018656716417910446,
@@ -4619,30 +4630,30 @@
 		"Virtus robe top": 0.0004340277777777901
 	},
 	"The Mimic": {
-		"3rd age amulet": 0.00017391304347824654,
-		"3rd age axe": 0.00017391304347824654,
-		"3rd age bow": 0.00017391304347824654,
-		"3rd age cloak": 0.00017391304347824654,
-		"3rd age druidic cloak": 0.00017391304347824654,
-		"3rd age druidic robe bottoms": 0.00017391304347824654,
-		"3rd age druidic robe top": 0.00017391304347824654,
-		"3rd age druidic staff": 0.00017391304347824654,
-		"3rd age full helmet": 0.00017391304347824654,
-		"3rd age kiteshield": 0.00017391304347824654,
-		"3rd age longsword": 0.00017391304347824654,
-		"3rd age mage hat": 0.00017391304347824654,
-		"3rd age pickaxe": 0.00017391304347824654,
-		"3rd age platebody": 0.00017391304347824654,
-		"3rd age platelegs": 0.00017391304347824654,
-		"3rd age plateskirt": 0.00017391304347824654,
-		"3rd age range coif": 0.00017391304347824654,
-		"3rd age range legs": 0.00017391304347824654,
-		"3rd age range top": 0.00017391304347824654,
-		"3rd age robe": 0.00017391304347824654,
-		"3rd age robe top": 0.00017391304347824654,
-		"3rd age vambraces": 0.00017391304347824654,
-		"3rd age wand": 0.00017391304347824654,
-		"Ring of 3rd age": 0.02400000000000002
+		"3rd Age amulet": 0.00017391304347824654,
+		"3rd Age axe": 0.00017391304347824654,
+		"3rd Age bow": 0.00017391304347824654,
+		"3rd Age cloak": 0.00017391304347824654,
+		"3rd Age druidic cloak": 0.00017391304347824654,
+		"3rd Age druidic robe bottoms": 0.00017391304347824654,
+		"3rd Age druidic robe top": 0.00017391304347824654,
+		"3rd Age druidic staff": 0.00017391304347824654,
+		"3rd Age full helmet": 0.00017391304347824654,
+		"3rd Age kiteshield": 0.00017391304347824654,
+		"3rd Age longsword": 0.00017391304347824654,
+		"3rd Age mage hat": 0.00017391304347824654,
+		"3rd Age pickaxe": 0.00017391304347824654,
+		"3rd Age platebody": 0.00017391304347824654,
+		"3rd Age platelegs": 0.00017391304347824654,
+		"3rd Age plateskirt": 0.00017391304347824654,
+		"3rd Age range coif": 0.00017391304347824654,
+		"3rd Age range legs": 0.00017391304347824654,
+		"3rd Age range top": 0.00017391304347824654,
+		"3rd Age robe": 0.00017391304347824654,
+		"3rd Age robe top": 0.00017391304347824654,
+		"3rd Age vambraces": 0.00017391304347824654,
+		"3rd Age wand": 0.00017391304347824654,
+		"Ring of 3rd Age": 0.02400000000000002
 	},
 	"The Nightmare": {
 		"Eldritch orb": 0.0010416666666667185,
@@ -4651,8 +4662,8 @@
 		"Inquisitor's hauberk": 0.0023809523809523725,
 		"Inquisitor's mace": 0.0013333333333332975,
 		"Inquisitor's plateskirt": 0.0023809523809523725,
-		"Jar of dreams": 0.000526315789473708,
-		"Little nightmare": 0.0012499999999999734,
+		"Jar of Dreams": 0.000526315789473708,
+		"Little Nightmare": 0.0012499999999999734,
 		"Nightmare staff": 0.0033333333333332993,
 		"Volatile orb": 0.0010416666666667185
 	},
@@ -4671,9 +4682,9 @@
 	"Thermonuclear smoke devil": {
 		"Dragon chainbody": 0.0004999999999999449,
 		"Dragon spear": 3.4225321652314733e-06,
-		"Jar of smoke": 0.0004999999999999449,
+		"Jar of Smoke": 0.0004999999999999449,
 		"Occult necklace": 0.0028571428571428914,
-		"Pet smoke devil": 0.0003333333333332966,
+		"Pet Smoke Devil": 0.0003333333333332966,
 		"Shield left half": 4.563376168276179e-06,
 		"Smoke battlestaff": 0.001953125
 	},
@@ -4788,10 +4799,10 @@
 		"Toktz-xil-ul": 0.001953125
 	},
 	"TzKal-Zuk": {
-		"Jal-nib-rek": 0.010000000000000009
+		"Jal-Nib-Rek": 0.010000000000000009
 	},
 	"TzTok-Jad": {
-		"Tzrek-jad": 0.0050000000000000044
+		"TzRek-Jad": 0.0050000000000000044
 	},
 	"Umbra": {
 		"Ancient ceremonial boots": 0.0010000000000000009,
@@ -4832,7 +4843,7 @@
 		"Bludgeon axon": 0.484375,
 		"Bludgeon claw": 0.484375,
 		"Bludgeon spine": 0.484375,
-		"Jar of miasma": 0.1015625
+		"Jar of Miasma": 0.1015625
 	},
 	"Vale offerings": {
 		"Bow string spool": 0.0050000000000000044,
@@ -4843,7 +4854,7 @@
 	"Vampyre kraken": {
 		"Bottled storm": 0.0028571428571428914,
 		"Dragon cannonball": 0.01666666666666672,
-		"Dragon metal sheet": 0.012499999999999956,
+		"Dragon metal sheet": 0.006249999999999978,
 		"Dragon spear": 1.5258789062277955e-06,
 		"Inky paint": 0.0006666666666667043,
 		"Shield left half": 2.0345052083037274e-06
@@ -4866,7 +4877,7 @@
 	"Veiled kraken": {
 		"Dragon cannon barrel": 0.0020000000000000018,
 		"Dragon cannonball": 0.011029411764705843,
-		"Dragon metal sheet": 0.008000000000000007,
+		"Dragon metal sheet": 0.005555555555555536,
 		"Inky paint": 0.000526315789473708
 	},
 	"Venator": {
@@ -4880,7 +4891,7 @@
 		"Curved bone": 0.00019950124688283832,
 		"Dragon 2h sword": 0.00390625,
 		"Dragon pickaxe": 0.00390625,
-		"Fangs of venenatis": 0.005102040816326481,
+		"Fangs of Venenatis": 0.005102040816326481,
 		"Long bone": 0.0024999999999999467,
 		"Treasonous ring": 0.001953125,
 		"Venenatis spiderling": 0.0006666666666667043,
@@ -4897,8 +4908,8 @@
 		"Long bone": 0.0024999999999999467,
 		"Ring of the gods": 0.001953125,
 		"Skeleton champion scroll": 0.00019999999999997797,
-		"Skull of vet'ion": 0.005102040816326481,
-		"Vet'ion jr.": 0.0006666666666667043,
+		"Skull of Vet'ion": 0.005102040816326481,
+		"Vet'ion Jr.": 0.0006666666666667043,
 		"Voidwaker blade": 0.002777777777777768
 	},
 	"Vibrant shoal": {
@@ -4944,7 +4955,7 @@
 		"Draconic visage": 0.00019999999999997797,
 		"Dragon spear": 0.00018500429170376087,
 		"Dragonbone necklace": 0.0010000000000000009,
-		"Jar of decay": 0.0003333333333332966,
+		"Jar of Decay": 0.0003333333333332966,
 		"Shield left half": 0.0002466684335189484,
 		"Skeletal visage": 0.00019999999999997797,
 		"Vorkath's head": 0.020000000000000018,
@@ -5164,10 +5175,10 @@
 	},
 	"Zulrah": {
 		"Dragon spear": 0.0002228946203032267,
-		"Jar of swamp": 0.0003333333333332966,
+		"Jar of Swamp": 0.0003333333333332966,
 		"Magic fang": 0.0019521713256835938,
 		"Magma mutagen": 0.00015258439802323664,
-		"Pet snakeling": 0.00024999999999997247,
+		"Pet Snakeling": 0.00024999999999997247,
 		"Serpentine visage": 0.0019521713256835938,
 		"Shield left half": 0.0002971874166327604,
 		"Tanzanite fang": 0.0019521713256835938,
