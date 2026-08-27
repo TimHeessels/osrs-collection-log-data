@@ -469,6 +469,9 @@
 	"Blurite rocks": {
 		"Rock golem": 1.3488905374892113e-06
 	},
+	"Boat fishing spot (Piscatoris Fishing Colony)": {
+		"Heron": 7.297512278015006e-06
+	},
 	"Boat fishing spot (big net, harpoon)": {
 		"Big shark": 0.00019999999999997797,
 		"Heron": 8.715151378346775e-07
@@ -561,6 +564,9 @@
 		"Ancient relic": 0.0020000000000000018,
 		"Ancient statuette": 0.015000000000000013,
 		"Ancient totem": 0.030000000000000027
+	},
+	"Bounty tasks": {
+		"Shark paint": 0.02777777777777779
 	},
 	"Brambickle": {
 		"Grand seed pod": 0.044921875,
@@ -841,18 +847,18 @@
 		"Hill giant club": 0.008474576271186418
 	},
 	"Chest (Tombs of Amascut)": {
-		"Breach of the scarab": 0.020000000000000018,
+		"Breach of the Scarab": 0.020000000000000018,
 		"Cache of runes": 0.10704669003708767,
 		"Elidinis' ward": 0.125,
-		"Eye of the corruptor": 0.020000000000000018,
-		"Jewel of amascut": 0.020000000000000018,
-		"Jewel of the sun": 0.020000000000000018,
+		"Eye of the Corruptor": 0.020000000000000018,
+		"Jewel of Amascut": 0.020000000000000018,
+		"Jewel of the Sun": 0.020000000000000018,
 		"Lightbearer": 0.29166666666666674,
 		"Masori body": 0.08333333333333337,
 		"Masori chaps": 0.08333333333333337,
 		"Masori mask": 0.08333333333333337,
 		"Osmumten's fang": 0.29166666666666674,
-		"Thread of elidinis": 0.09999999999999998,
+		"Thread of Elidinis": 0.09999999999999998,
 		"Tumeken's shadow (uncharged)": 0.04166666666666663
 	},
 	"Chest (moon key)": {
@@ -952,6 +958,9 @@
 		"Shield left half": 5.721898453414642e-05,
 		"Spectral sigil": 0.00073260073260073,
 		"Spirit shield": 0.015625
+	},
+	"Courier tasks": {
+		"Shark paint": 0.02777777777777779
 	},
 	"Crab": {
 		"Fresh crab claw": 0.0625,
@@ -1136,7 +1145,7 @@
 		"Dust battlestaff": 0.003937007874015741,
 		"Eternal gem": 0.0011261261261261701,
 		"Gryphon feather": 0.34786272048950195,
-		"Horn of plenty (empty)": 0.0010000000000000009,
+		"Horn of Plenty (empty)": 0.0010000000000000009,
 		"Imbued heart": 0.0011261261261261701,
 		"Mist battlestaff": 0.003937007874015741,
 		"Shield left half": 5.722034984501079e-06
@@ -1649,7 +1658,7 @@
 		"Goblin champion scroll": 0.00019999999999997797
 	},
 	"Gold Chest (black)": {
-		"Amulet of the damned (full)": 0.04161464835622142,
+		"Amulet of the Damned (full)": 0.04161464835622142,
 		"Bloody notes": 0.009640412609659643,
 		"Fine cloth": 0.16645859342488556,
 		"Flamtaer bag": 0.5,
@@ -1661,7 +1670,7 @@
 		"Zealot's robe top": 0.0078125
 	},
 	"Gold Chest (brown)": {
-		"Amulet of the damned (full)": 0.041669560386137894,
+		"Amulet of the Damned (full)": 0.041669560386137894,
 		"Bloody notes": 0.0092824654228163,
 		"Fine cloth": 0.15278838808250572,
 		"Flamtaer bag": 0.5,
@@ -1673,7 +1682,7 @@
 		"Zealot's robe top": 0.0078125
 	},
 	"Gold Chest (crimson)": {
-		"Amulet of the damned (full)": 0.04164353137146026,
+		"Amulet of the Damned (full)": 0.04164353137146026,
 		"Bloody notes": 0.009458053532583,
 		"Fine cloth": 0.15963353692393112,
 		"Flamtaer bag": 0.5,
@@ -1685,7 +1694,7 @@
 		"Zealot's robe top": 0.0078125
 	},
 	"Gold Chest (purple)": {
-		"Amulet of the damned (full)": 0.04158580537843082,
+		"Amulet of the Damned (full)": 0.04158580537843082,
 		"Bloody notes": 0.009830908375933922,
 		"Fine cloth": 0.17327418907679515,
 		"Flamtaer bag": 0.5,
@@ -1697,7 +1706,7 @@
 		"Zealot's robe top": 0.0078125
 	},
 	"Gold Chest (red)": {
-		"Amulet of the damned (full)": 0.04169272461955387,
+		"Amulet of the Damned (full)": 0.04169272461955387,
 		"Bloody notes": 0.009112447603426332,
 		"Fine cloth": 0.1459245361684386,
 		"Flamtaer bag": 0.5,
@@ -1808,7 +1817,7 @@
 	"Gryphon": {
 		"Dragon spear": 1.4305114678370145e-06,
 		"Gryphon feather": 0.1328125,
-		"Horn of plenty (empty)": 0.00039999999999995595,
+		"Horn of Plenty (empty)": 0.00039999999999995595,
 		"Shield left half": 1.9073486328125e-06
 	},
 	"Guard": {
@@ -2503,7 +2512,7 @@
 		"Sanguine dust": 0.0036363636363636598,
 		"Sanguine ornament kit": 0.00666666666666671,
 		"Sanguinesti staff (uncharged)": 0.10526315789473684,
-		"Scythe of vitur (uncharged)": 0.05263157894736836,
+		"Scythe of Vitur (uncharged)": 0.05263157894736836,
 		"Vial of blood": 0.1869629629629629
 	},
 	"Moonlight Cockatrice": {
@@ -4149,7 +4158,7 @@
 		"Rocky": 1.461432788707473e-05
 	},
 	"Silver Chest (black)": {
-		"Amulet of the damned (full)": 0.06553079947575358,
+		"Amulet of the Damned (full)": 0.06553079947575358,
 		"Bloody notes": 0.006735367414292481,
 		"Fine cloth": 0.1245085190039319,
 		"Flamtaer bag": 0.5,
@@ -4157,7 +4166,7 @@
 		"Tree wizards' journal": 0.006735367414292481
 	},
 	"Silver Chest (brown)": {
-		"Amulet of the damned (full)": 0.0655909746818838,
+		"Amulet of the Damned (full)": 0.0655909746818838,
 		"Bloody notes": 0.006559097468188391,
 		"Fine cloth": 0.11150465695920242,
 		"Flamtaer bag": 0.5,
@@ -4165,7 +4174,7 @@
 		"Tree wizards' journal": 0.006559097468188391
 	},
 	"Silver Chest (crimson)": {
-		"Amulet of the damned (full)": 0.06556087327083193,
+		"Amulet of the Damned (full)": 0.06556087327083193,
 		"Bloody notes": 0.006644518272425293,
 		"Fine cloth": 0.1180095718874975,
 		"Flamtaer bag": 0.5,
@@ -4173,7 +4182,7 @@
 		"Tree wizards' journal": 0.006644518272425293
 	},
 	"Silver Chest (purple)": {
-		"Amulet of the damned (full)": 0.06550075325866245,
+		"Amulet of the Damned (full)": 0.06550075325866245,
 		"Bloody notes": 0.006826870562534171,
 		"Fine cloth": 0.1310015065173249,
 		"Flamtaer bag": 0.5,
@@ -4181,7 +4190,7 @@
 		"Tree wizards' journal": 0.006826870562534171
 	},
 	"Silver Chest (red)": {
-		"Amulet of the damned (full)": 0.06562110374696506,
+		"Amulet of the Damned (full)": 0.06562110374696506,
 		"Bloody notes": 0.0064745872450631126,
 		"Fine cloth": 0.1049937659951441,
 		"Flamtaer bag": 0.5,
@@ -4813,7 +4822,7 @@
 	},
 	"Undead Druid": {
 		"Dragon spear": 1.8310546986421983e-06,
-		"Mask of ranul": 0.0010000000000000009,
+		"Mask of Ranul": 0.0010000000000000009,
 		"Shield left half": 2.4414062500532907e-06,
 		"Zombie champion scroll": 0.00019999999999997797
 	},
