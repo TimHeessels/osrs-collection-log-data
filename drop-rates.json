@@ -698,6 +698,9 @@
 	"Camphor tree": {
 		"Beaver": 6.9930069930279615e-06
 	},
+	"Camphor tree (Farming)": {
+		"Beaver": 6.9930069930279615e-06
+	},
 	"Cannonball stall": {
 		"Dragon cannonball": 0.00390625,
 		"Rocky": 2.9141774734120496e-05
@@ -1720,7 +1723,7 @@
 	"Gold rocks": {
 		"Rock golem": 3.38249222031628e-06
 	},
-	"Golem crafting": {
+	"Golem (sunstone)": {
 		"Jeweller's chisel": 0.0033333333333332993
 	},
 	"Gorad": {
@@ -2073,6 +2076,9 @@
 		"Rock golem": 1.349118014082329e-06
 	},
 	"Ironwood tree": {
+		"Beaver": 1.4285714285744433e-05
+	},
+	"Ironwood tree (Farming)": {
 		"Beaver": 1.4285714285744433e-05
 	},
 	"Jatoba tree": {
@@ -3982,6 +3988,9 @@
 		"Rocky": 3.8999886899926395e-06
 	},
 	"Rosewood tree": {
+		"Beaver": 1.4285714285744433e-05
+	},
+	"Rosewood tree (Farming)": {
 		"Beaver": 1.4285714285744433e-05
 	},
 	"Rune dragon": {
