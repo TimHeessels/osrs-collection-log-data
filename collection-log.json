@@ -12158,14 +12158,14 @@
 	"33661": {
 		"name": "Venator fang",
 		"tabs": [
-			"Venators"
+			"Slayer"
 		],
 		"comp": null
 	},
 	"33663": {
 		"name": "Venator tooth",
 		"tabs": [
-			"Venators"
+			"Slayer"
 		],
 		"comp": null
 	},
@@ -12209,6 +12209,41 @@
 		"tabs": [
 			"The Mad Angel",
 			"All Pets"
+		],
+		"comp": null
+	},
+	"34401": {
+		"name": "Necklace of fangs",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": null
+	},
+	"34404": {
+		"name": "Air diamond",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": null
+	},
+	"34410": {
+		"name": "Water sapphire",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": null
+	},
+	"34416": {
+		"name": "Earth emerald",
+		"tabs": [
+			"Slayer"
+		],
+		"comp": null
+	},
+	"34422": {
+		"name": "Fire ruby",
+		"tabs": [
+			"Slayer"
 		],
 		"comp": null
 	}
