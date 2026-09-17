@@ -161,9 +161,9 @@
 		"Dragon spear": 2.4132106875351944e-05,
 		"Jar of Venom": 0.0006666666666667043,
 		"Nid": 0.0003333333333332966,
-		"Noxious blade": 0.0016666666666667052,
-		"Noxious point": 0.0016666666666667052,
-		"Noxious pommel": 0.0016666666666667052,
+		"Noxious blade": 0.0050000000000000044,
+		"Noxious point": 0.0050000000000000044,
+		"Noxious pommel": 0.0050000000000000044,
 		"Shield left half": 3.217613991213231e-05,
 		"Spider cave teleport": 0.06956521739130439
 	},
@@ -780,14 +780,14 @@
 		"Dragon 2h sword": 0.015625,
 		"Dragon pickaxe": 0.00390625,
 		"Dragon spear": 0.00017344940567565192,
-		"Pet Chaos Elemental": 0.0033333333333332993,
+		"Pet chaos elemental": 0.0033333333333332993,
 		"Shield left half": 0.00023126627536418365
 	},
 	"Chaos Fanatic": {
 		"Dragon spear": 9.244681765696594e-05,
 		"Malediction shard 1": 0.00390625,
 		"Odium shard 1": 0.00390625,
-		"Pet Chaos Elemental": 0.0010000000000000009,
+		"Pet chaos elemental": 0.0010000000000000009,
 		"Shield left half": 0.0001232624615267186
 	},
 	"Chaos Golem": {
@@ -1294,6 +1294,10 @@
 		"Uncut onyx": 9.999999999998899e-05
 	},
 	"Emissary Acolyte": {
+		"Dragon spear": 4.291534403400021e-06,
+		"Shield left half": 5.722045789302577e-06
+	},
+	"Emissary Ascended": {
 		"Dragon spear": 4.291534403400021e-06,
 		"Shield left half": 5.722045789302577e-06
 	},
@@ -2341,18 +2345,18 @@
 	},
 	"Lunar Chest": {
 		"Atlatl dart": 0.6651020233196159,
-		"Blood moon chestplate": 0.004464285714285698,
-		"Blood moon helm": 0.004464285714285698,
-		"Blood moon tassets": 0.004464285714285698,
-		"Blue moon chestplate": 0.004464285714285698,
-		"Blue moon helm": 0.004464285714285698,
-		"Blue moon spear": 0.004464285714285698,
-		"Blue moon tassets": 0.004464285714285698,
+		"Blood Moon chestplate": 0.004464285714285698,
+		"Blood Moon helm": 0.004464285714285698,
+		"Blood Moon tassets": 0.004464285714285698,
+		"Blue Moon chestplate": 0.004464285714285698,
+		"Blue Moon helm": 0.004464285714285698,
+		"Blue Moon spear": 0.004464285714285698,
+		"Blue Moon tassets": 0.004464285714285698,
 		"Dual macuahuitl": 0.004464285714285698,
-		"Eclipse atlatl": 0.004464285714285698,
-		"Eclipse moon chestplate": 0.004464285714285698,
-		"Eclipse moon helm": 0.004464285714285698,
-		"Eclipse moon tassets": 0.004464285714285698
+		"Eclipse Moon chestplate": 0.004464285714285698,
+		"Eclipse Moon helm": 0.004464285714285698,
+		"Eclipse Moon tassets": 0.004464285714285698,
+		"Eclipse atlatl": 0.004464285714285698
 	},
 	"Mad Angel": {
 		"Aggy": 0.0004999999999999449,
@@ -3554,7 +3558,7 @@
 		"Red d'hide chaps (t)": 0.0006153846153845732,
 		"Red dragon mask": 0.0006153846153845732,
 		"Red firelighter": 0.00738552437223039,
-		"Robin hood hat": 0.0006153846153845732,
+		"Robin Hood hat": 0.0006153846153845732,
 		"Rune cane": 0.0006153846153845732,
 		"Rune defender ornament kit": 0.0006153846153845732,
 		"Rune full helm (g)": 0.0006153846153845732,
@@ -4439,7 +4443,7 @@
 		"Leaf-bladed sword": 0.005988007999999989,
 		"Mist battlestaff": 0.004201680672268893,
 		"Mystic robe bottom (light)": 0.005847938358783722,
-		"Necklace of fangs": 0.023254871368408203,
+		"Necklace of Fangs": 0.023254871368408203,
 		"Shield left half": 2.8609956644665147e-05
 	},
 	"Spindel": {
@@ -4785,7 +4789,7 @@
 		"Dragon spear": 7.097111191844974e-06,
 		"Leaf-bladed sword": 0.0020000000000000018,
 		"Mystic robe bottom (light)": 0.001953125,
-		"Necklace of fangs": 0.007751937984496138,
+		"Necklace of Fangs": 0.007751937984496138,
 		"Shield left half": 9.46281492253398e-06
 	},
 	"Twig": {
