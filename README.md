@@ -12,7 +12,10 @@ to the orphan `data` branch:
 - `https://raw.githubusercontent.com/TimHeessels/osrs-collection-log-data/data/collection-log.json`
 - `https://raw.githubusercontent.com/TimHeessels/osrs-collection-log-data/data/drop-rates.json`
 
-The plugin's `RemoteRarityOverridesUpdater` and `RemoteDropRateUpdater` fetch these at runtime.
+The plugin bundles its own copy of both files in `src/main/resources/data/` and loads them from
+there, so publishing to `data` doesn't reach players on its own - copy the two files into the plugin
+and cut a release. (It used to fetch them at runtime via `RemoteDropRateUpdater` and
+`RemoteRarityOverridesUpdater`; both were removed.)
 
 To regenerate locally:
 
