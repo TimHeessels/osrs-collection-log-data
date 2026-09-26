@@ -227,6 +227,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Shield left half": 5.722045789302577e-06
 	},
+	"Aviansie (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"Baby blue dragon": {
 		"Frozen tear": 0.010000000000000009
 	},
@@ -453,6 +456,9 @@
 		"Dragon spear": 5.722045789302577e-06,
 		"Ecumenical key": 0.01666666666666672,
 		"Shield left half": 7.62939453125e-06
+	},
+	"Bloodveld (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Bloodwood tree": {
 		"Beaver": 1.0337434538376655e-06
@@ -864,6 +870,13 @@
 		"Thread of Elidinis": 0.09999999999999998,
 		"Tumeken's shadow (uncharged)": 0.04166666666666663
 	},
+	"Chest (Tombs of Amascut) (max)": {
+		"Breach of the Scarab": 0.06000000000000005,
+		"Eye of the Corruptor": 0.06000000000000005,
+		"Jewel of Amascut": 0.06000000000000005,
+		"Jewel of the Sun": 0.06000000000000005,
+		"Thread of Elidinis": 0.30000000000000004
+	},
 	"Chest (moon key)": {
 		"Helmet of the moon": 0.0019996000799840097,
 		"Huasca seed": 0.09345794392523366,
@@ -922,6 +935,9 @@
 		"Mysterious page": 0.09999999999999998,
 		"Strange old lockpick (full)": 0.0050000000000000044
 	},
+	"Coffin (Hallowed Sepulchre) (max)": {
+		"Strange old lockpick (full)": 0.025000000000000022
+	},
 	"Colossal Hydra": {
 		"Dragon knife": 0.0004997501249375258,
 		"Dragon spear": 4.291528264421807e-06,
@@ -961,6 +977,12 @@
 		"Shield left half": 5.721898453414642e-05,
 		"Spectral sigil": 0.00073260073260073,
 		"Spirit shield": 0.015625
+	},
+	"Corrupted Gauntlet": {
+		"Crystal armour seed": 0.020000000000000018,
+		"Crystal weapon seed": 0.020000000000000018,
+		"Enhanced crystal weapon seed": 0.0024999999999999467,
+		"Youngllef": 0.0012499999999999734
 	},
 	"Courier tasks": {
 		"Shark paint": 0.02777777777777779
@@ -1164,8 +1186,15 @@
 		"Avernic treads": 0.0007407407407407085,
 		"Demon tear": 0.06730769230769229,
 		"Dom": 0.0010000000000000009,
+		"Eye of Ayak": 0.0004999999999999449,
 		"Mokhaiotl cloth": 0.00039999999999995595,
 		"Mokhaiotl waystone": 0.06730769230769229
+	},
+	"Doom of Mokhaiotl (max)": {
+		"Avernic treads": 0.0018518518518518823,
+		"Dom": 0.0040000000000000036,
+		"Eye of Ayak": 0.0018518518518518823,
+		"Mokhaiotl cloth": 0.0018518518518518823
 	},
 	"Dossier": {
 		"Chasm teleport scroll": 0.06666666666666665,
@@ -1339,6 +1368,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Shield left half": 7.62939453125e-06
 	},
+	"Feral Vampyre (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"Ferocious barbarian spirit": {
 		"Dragon spear": 1.1444092233414693e-05,
 		"Shield left half": 1.52587890625e-05
@@ -1405,6 +1437,9 @@
 		"Mist battlestaff": 0.003058103975535187,
 		"Shield left half": 1.7166039142701983e-05,
 		"Steel boots": 0.023254871368408203
+	},
+	"Flaming pyrelord (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Flawed Golem": {
 		"Barronite guard": 0.0012499999999999734
@@ -1536,6 +1571,12 @@
 		"Mystic robe top (dark)": 0.001953125,
 		"Shield left half": 9.5367431640625e-06
 	},
+	"Gauntlet": {
+		"Crystal armour seed": 0.008333333333333304,
+		"Crystal weapon seed": 0.008333333333333304,
+		"Enhanced crystal weapon seed": 0.0004999999999999449,
+		"Youngllef": 0.0004999999999999449
+	},
 	"Gem rocks": {
 		"Rock golem": 4.741898466442684e-06
 	},
@@ -1662,6 +1703,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Goblin champion scroll": 0.00019999999999997797
 	},
+	"Goblin (God Wars Dungeon) (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"Goblin (Vault of War)": {
 		"Goblin champion scroll": 0.00019999999999997797
 	},
@@ -1744,6 +1788,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Long bone": 0.0024999999999999467,
 		"Shield left half": 0.000244140625
+	},
+	"Gorak (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Grand Hallowed Coffin": {
 		"Ring of endurance (uncharged)": 0.0050000000000000044
@@ -1907,6 +1954,9 @@
 		"Kronos seed": 0.33333333333333326,
 		"Tangleroot": 0.00018604651162790198
 	},
+	"Hespori (max)": {
+		"Tangleroot": 0.00022099447513812542
+	},
 	"Hill Giant": {
 		"Ancient shard": 0.003225806451612856,
 		"Curved bone": 0.00019950124688283832,
@@ -2005,6 +2055,9 @@
 		"Frozen tear": 0.00666666666666671,
 		"Shield left half": 5.722045789302577e-06
 	},
+	"Icefiend (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"Icelord": {
 		"Curved bone": 0.00019950124688283832,
 		"Long bone": 0.0024999999999999467
@@ -2012,6 +2065,9 @@
 	"Imp": {
 		"Ecumenical key": 0.01666666666666672,
 		"Imp champion scroll": 0.00019999999999997797
+	},
+	"Imp (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Imre": {
 		"Dragon spear": 3.5762786820825454e-07,
@@ -2203,6 +2259,9 @@
 	},
 	"Knight of Saradomin": {
 		"Ecumenical key": 0.01666666666666672
+	},
+	"Knight of Saradomin (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Kraka": {
 		"Curved bone": 0.00019950124688283832,
@@ -2568,6 +2627,9 @@
 		"Mossy key": 0.00666666666666671,
 		"Shield left half": 7.62939453125e-06
 	},
+	"Moss giant (max)": {
+		"Mossy key": 0.013333333333333308
+	},
 	"Mountain troll": {
 		"Curved bone": 0.00019950124688283832,
 		"Dragon spear": 7.152557543577132e-06,
@@ -2708,6 +2770,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Long bone": 0.0024999999999999467
 	},
+	"Ogre (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"Ogre chieftain": {
 		"Curved bone": 0.00019950124688283832,
 		"Long bone": 0.0024999999999999467
@@ -2746,6 +2811,9 @@
 	},
 	"Ork": {
 		"Ecumenical key": 0.01666666666666672
+	},
+	"Ork (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Otherworldly being": {
 		"Dragon spear": 4.291534403400021e-06,
@@ -2834,6 +2902,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Shield left half": 5.722045789302577e-06,
 		"Steel boots": 0.0078125
+	},
+	"Pyrefiend (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Pyrelord": {
 		"Dragon spear": 4.291534403400021e-06,
@@ -3066,12 +3137,6 @@
 		"Pyromancer robe": 0.00666666666666671,
 		"Tome of Fire (empty)": 0.0010000000000000009,
 		"Warm gloves": 0.00666666666666671
-	},
-	"Reward Chest (The Gauntlet)": {
-		"Crystal armour seed": 0.008333333333333304,
-		"Crystal weapon seed": 0.008333333333333304,
-		"Enhanced crystal weapon seed": 0.0004999999999999449,
-		"Youngllef": 0.0004999999999999449
 	},
 	"Reward casket (beginner)": {
 		"Amulet of defence (t)": 0.002777777777777768,
@@ -4471,6 +4536,9 @@
 		"Nihil shard": 0.0078125,
 		"Shield left half": 3.814697265625e-06
 	},
+	"Spiritual mage (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"Spiritual ranger": {
 		"Ancient ceremonial boots": 0.0015625000000000222,
 		"Ancient ceremonial gloves": 0.0015625000000000222,
@@ -4481,6 +4549,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Nihil shard": 0.0078125,
 		"Shield left half": 1.9073486328125e-06
+	},
+	"Spiritual ranger (max)": {
+		"Ecumenical key": 0.025000000000000022
 	},
 	"Spiritual warrior": {
 		"Ancient ceremonial boots": 0.0015625000000000222,
@@ -4493,6 +4564,9 @@
 		"Nihil shard": 0.0078125,
 		"Shield left half": 7.68946850393526e-06
 	},
+	"Spiritual warrior (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"Spitting Wyvern": {
 		"Granite boots": 0.0003906249999999778,
 		"Granite longsword": 0.001953125,
@@ -4503,6 +4577,9 @@
 	},
 	"Sq'irk tree": {
 		"Rocky": 9.695559433775536e-05
+	},
+	"Sq'irk tree (max)": {
+		"Rocky": 0.00012716174974569672
 	},
 	"Starlight": {
 		"Godsword shard 1": 0.0006561679790025865,
@@ -4630,6 +4707,9 @@
 	"Tekton": {
 		"Onyx": 0.0022222222222222365
 	},
+	"Tekton (max)": {
+		"Onyx": 0.004761904761904745
+	},
 	"Temple Spider": {
 		"Dragon spear": 1.8310546986421983e-06,
 		"Shield left half": 2.4414062500532907e-06
@@ -4699,6 +4779,17 @@
 		"Little Nightmare": 0.0012499999999999734,
 		"Nightmare staff": 0.0033333333333332993,
 		"Volatile orb": 0.0010416666666667185
+	},
+	"The Nightmare (max)": {
+		"Eldritch orb": 0.001822489520685311,
+		"Harmonised orb": 0.001822489520685311,
+		"Inquisitor's great helm": 0.004164931278633932,
+		"Inquisitor's hauberk": 0.004164931278633932,
+		"Inquisitor's mace": 0.0023326335432704015,
+		"Inquisitor's plateskirt": 0.004164931278633932,
+		"Little Nightmare": 0.00024999999999997247,
+		"Nightmare staff": 0.005830903790087438,
+		"Volatile orb": 0.001822489520685311
 	},
 	"The Whisperer": {
 		"Awakener's orb": 0.02898550724637683,
@@ -5063,6 +5154,9 @@
 		"Ecumenical key": 0.01666666666666672,
 		"Shield left half": 9.5367431640625e-07
 	},
+	"Werewolf (max)": {
+		"Ecumenical key": 0.025000000000000022
+	},
 	"White Knight": {
 		"Dragon spear": 1.4305114678370145e-06,
 		"Shield left half": 1.9073486328125e-06
@@ -5129,6 +5223,9 @@
 		"Smolcano": 0.0004444444444444695,
 		"Uncut onyx": 0.00012500000000004174,
 		"Zalcano shard": 0.0013333333333332975
+	},
+	"Zalcano (max)": {
+		"Zalcano shard": 0.0006666666666667043
 	},
 	"Zogre": {
 		"Zombie champion scroll": 0.00019999999999997797
