@@ -1974,6 +1974,12 @@
 		"Hobgoblin champion scroll": 0.00019999999999997797,
 		"Shield left half": 3.814697265625e-06
 	},
+	"Huge port reward bag": {
+		"Dragon cannonball": 0.026666666666666616,
+		"Dragon metal sheet": 0.004444444444444473,
+		"Dragon nails": 0.01777777777777778,
+		"Zulrah's scales": 0.013333333333333308
+	},
 	"Hunters' loot sack (adept)": {
 		"Guild hunter boots": 0.020000000000000018,
 		"Guild hunter headwear": 0.020000000000000018,
@@ -2307,6 +2313,9 @@
 		"Dragon spear": 3.5762786820825454e-07,
 		"Shield left half": 4.76837158203125e-07
 	},
+	"Large port reward bag": {
+		"Zulrah's scales": 0.012903225806451646
+	},
 	"Large salvage": {
 		"Broken compass": 0.0003333333333332966,
 		"Facility bottle (empty)": 0.0010000000000000009,
@@ -2517,6 +2526,10 @@
 		"Long bone": 0.0024999999999999467,
 		"Shield left half": 4.8271960362944455e-05
 	},
+	"Medium port reward bag": {
+		"Spirit flakes": 0.012499999999999956,
+		"Zulrah's scales": 0.012499999999999956
+	},
 	"Menaphite Thug": {
 		"Rocky": 3.912577371201209e-06
 	},
@@ -2664,13 +2677,13 @@
 	},
 	"Mutated Tortoise": {
 		"Curved bone": 0.00019950124688283832,
-		"Dragon spear": 8.58306917506102e-06,
+		"Dragon spear": 2.5748986518636663e-05,
 		"Dust battlestaff": 0.0042918454935622075,
 		"Eternal gem": 0.001225490196078427,
 		"Imbued heart": 0.001225490196078427,
 		"Long bone": 0.0024999999999999467,
 		"Mist battlestaff": 0.0042918454935622075,
-		"Shield left half": 1.1444092233414693e-05,
+		"Shield left half": 3.4331883799976204e-05,
 		"Warped sceptre (uncharged)": 0.0031250000000000444
 	},
 	"Muttadile": {
@@ -4448,6 +4461,9 @@
 		"Mystic gloves (light)": 0.001953125,
 		"Shield left half": 1.1444092233414693e-05
 	},
+	"Small port reward bag": {
+		"Spirit flakes": 0.011904761904761862
+	},
 	"Small salvage": {
 		"Boat bottle (empty)": 0.0013333333333332975,
 		"Rusty locket": 0.0003333333333332966,
@@ -4830,7 +4846,7 @@
 		"Rock golem": 1.3484812729780415e-06
 	},
 	"Tiny port reward bag": {
-		"Rum": 0.002083333333333326,
+		"Rum": 0.0013020833333333703,
 		"Spirit flakes": 0.01041666666666663
 	},
 	"Tormented Demon": {
