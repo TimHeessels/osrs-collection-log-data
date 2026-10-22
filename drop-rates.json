@@ -742,6 +742,7 @@
 	"Cave crawler": {
 		"Bronze boots": 0.0078125,
 		"Dragon spear": 1.4305114678370145e-06,
+		"Frozen tear": 0.007462686567164201,
 		"Shield left half": 1.9073486328125e-06
 	},
 	"Cave goblin (Dorgesh-Kaan)": {
@@ -854,6 +855,20 @@
 	"Chest (Obor's lair)": {
 		"Giant key": 0.0625,
 		"Hill giant club": 0.008474576271186418
+	},
+	"Chest (The Fractured Archive)": {
+		"Archivist's folio (inert)": 0.050000000000000044,
+		"Ascension crossbows": 0.16666666666666663,
+		"Ascension shards": 0.3829412867944644,
+		"Desiccated page": 0.05958648796714905,
+		"Fragment of burning fire": 0.012499999999999956,
+		"Fragment of deep water": 0.012499999999999956,
+		"Fragment of living earth": 0.012499999999999956,
+		"Fragment of whispering wind": 0.012499999999999956,
+		"Horn of Bran": 0.2222222222222222,
+		"Obligator (uncharged)": 0.05555555555555558,
+		"Rondache": 0.33333333333333326,
+		"Zorya's tome (uncharged)": 0.2222222222222222
 	},
 	"Chest (Tombs of Amascut)": {
 		"Breach of the Scarab": 0.020000000000000018,
@@ -2229,8 +2244,8 @@
 	},
 	"Killerwatt": {
 		"Air diamond": 0.015625,
-		"Dragon spear": 6.539481169354211e-06,
-		"Shield left half": 8.719308035698425e-06
+		"Dragon spear": 6.586527508289919e-06,
+		"Shield left half": 8.782036870491616e-06
 	},
 	"King Black Dragon": {
 		"Draconic visage": 0.00019999999999997797,
