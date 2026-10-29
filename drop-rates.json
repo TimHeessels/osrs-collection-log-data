@@ -75,7 +75,7 @@
 		"Shield left half": 4.76837158203125e-07
 	},
 	"Amethyst crystals": {
-		"Rock golem": 2.2727272727229852e-05
+		"Rock golem": 2.2701475595909848e-05
 	},
 	"Ammonite Crab": {
 		"Dragon spear": 1.4305114678370145e-06,
@@ -857,18 +857,18 @@
 		"Hill giant club": 0.008474576271186418
 	},
 	"Chest (The Fractured Archive)": {
-		"Archivist's folio (inert)": 0.050000000000000044,
-		"Ascension crossbows": 0.16666666666666663,
-		"Ascension shards": 0.3829412867944644,
-		"Desiccated page": 0.05958648796714905,
+		"Archivist's folio (inert)": 0.0625,
+		"Ascension crossbows": 0.1333333333333333,
+		"Ascension shards": 0.42129629629629617,
+		"Desiccated page": 0.05355972952667165,
 		"Fragment of burning fire": 0.012499999999999956,
 		"Fragment of deep water": 0.012499999999999956,
 		"Fragment of living earth": 0.012499999999999956,
 		"Fragment of whispering wind": 0.012499999999999956,
-		"Horn of Bran": 0.2222222222222222,
-		"Obligator (uncharged)": 0.05555555555555558,
+		"Horn of Bran": 0.19999999999999996,
+		"Obligator (uncharged)": 0.06666666666666665,
 		"Rondache": 0.33333333333333326,
-		"Zorya's tome (uncharged)": 0.2222222222222222
+		"Zorya's tome (uncharged)": 0.2666666666666666
 	},
 	"Chest (Tombs of Amascut)": {
 		"Breach of the Scarab": 0.020000000000000018,
@@ -4061,7 +4061,9 @@
 		"Abyssal protector": 0.00024999999999997247,
 		"Abyssal red dye": 0.0008333333333333526,
 		"Catalytic talisman": 0.0050000000000000044,
-		"Intricate pouch": 0.0357142857142857
+		"Intricate pouch": 0.0357142857142857,
+		"Lost bag": 0.0005952380952380931,
+		"Tarnished locket": 0.0008928571428571397
 	},
 	"Rock (Troll)": {
 		"Curved bone": 0.00019950124688283832,
@@ -4093,7 +4095,7 @@
 		"Rocky": 3.8999886899926395e-06
 	},
 	"Rosewood tree": {
-		"Beaver": 1.4285714285744433e-05
+		"Beaver": 1.4281429856710659e-05
 	},
 	"Rosewood tree (Farming)": {
 		"Beaver": 1.4285714285744433e-05
