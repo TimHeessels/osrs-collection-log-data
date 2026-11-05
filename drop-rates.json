@@ -219,6 +219,9 @@
 		"Tyrannical ring": 0.0013966480446927498,
 		"Voidwaker hilt": 0.0010964912280702066
 	},
+	"Ascension rocks": {
+		"Rock golem": 1.4679976512055326e-05
+	},
 	"Ash pile": {
 		"Rock golem": 1.3493455673918575e-06
 	},
@@ -857,7 +860,7 @@
 		"Hill giant club": 0.008474576271186418
 	},
 	"Chest (The Fractured Archive)": {
-		"Archivist's folio (inert)": 0.0625,
+		"Archivist's folio (inert)": 0.06666666666666665,
 		"Ascension crossbows": 0.1333333333333333,
 		"Ascension shards": 0.42129629629629617,
 		"Desiccated page": 0.05355972952667165,
@@ -867,6 +870,7 @@
 		"Fragment of whispering wind": 0.012499999999999956,
 		"Horn of Bran": 0.19999999999999996,
 		"Obligator (uncharged)": 0.06666666666666665,
+		"Orion": 0.0013333333333332975,
 		"Rondache": 0.33333333333333326,
 		"Zorya's tome (uncharged)": 0.2666666666666666
 	},
@@ -2421,7 +2425,7 @@
 	},
 	"Lost ironwood crate": {
 		"Dragon metal sheet": 0.125,
-		"Dragon sword": 0.125
+		"Dragon shortsword": 0.125
 	},
 	"Lovakite rocks": {
 		"Rock golem": 4.099419112280067e-06
@@ -4229,8 +4233,8 @@
 	"Shadow Wyrm": {
 		"Dragon harpoon": 0.0004999999999999449,
 		"Dragon knife": 0.0004999999999999449,
+		"Dragon shortsword": 0.0004999999999999449,
 		"Dragon spear": 7.227830094880261e-06,
-		"Dragon sword": 0.0004999999999999449,
 		"Dragon thrownaxe": 0.0004999999999999449,
 		"Dust battlestaff": 0.004807692307692291,
 		"Eternal gem": 0.0013736263736263687,
@@ -5216,8 +5220,8 @@
 	"Wyrm": {
 		"Dragon harpoon": 9.999999999998899e-05,
 		"Dragon knife": 9.999999999998899e-05,
+		"Dragon shortsword": 9.999999999998899e-05,
 		"Dragon spear": 2.409282502946475e-06,
-		"Dragon sword": 9.999999999998899e-05,
 		"Dragon thrownaxe": 9.999999999998899e-05,
 		"Shield left half": 3.212376644690096e-06
 	},
