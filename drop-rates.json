@@ -1,4 +1,7 @@
 {
+	"A corpse": {
+		"Zombie champion scroll": 0.00019999999999997797
+	},
 	"Aberrant spectre": {
 		"Dragon spear": 7.152557543577132e-06,
 		"Mystic robe bottom (dark)": 0.001953125,
@@ -864,10 +867,10 @@
 		"Ascension crossbows": 0.1333333333333333,
 		"Ascension shards": 0.42129629629629617,
 		"Desiccated page": 0.05355972952667165,
-		"Fragment of burning fire": 0.012499999999999956,
-		"Fragment of deep water": 0.012499999999999956,
-		"Fragment of living earth": 0.012499999999999956,
-		"Fragment of whispering wind": 0.012499999999999956,
+		"Fragment of burning fire": 0.017857142857142905,
+		"Fragment of deep water": 0.017857142857142905,
+		"Fragment of living earth": 0.017857142857142905,
+		"Fragment of whispering wind": 0.017857142857142905,
 		"Horn of Bran": 0.19999999999999996,
 		"Obligator (uncharged)": 0.06666666666666665,
 		"Orion": 0.0013333333333332975,
@@ -1441,6 +1444,9 @@
 	"Fishing spot (river)": {
 		"Heron": 5.41747906313006e-07
 	},
+	"Fishing spot (small net, bait)": {
+		"Heron": 1.149022469171257e-06
+	},
 	"Fishy salvage": {
 		"Boat bottle (empty)": 0.0013333333333332975,
 		"Mouldy block": 0.0003333333333332966,
@@ -1496,6 +1502,9 @@
 		"Oathplate helm": 0.002481389578163795,
 		"Oathplate legs": 0.002481389578163795,
 		"Oathplate shards": 0.14888337468982626
+	},
+	"Fountain of Rune": {
+		"Amulet of eternal glory": 4.0000000000040004e-05
 	},
 	"Freidir": {
 		"Dragon spear": 3.5762786820825454e-07,
